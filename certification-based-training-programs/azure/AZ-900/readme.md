@@ -24,7 +24,7 @@ Required exams: ***AZ-900***
 
 ### How to register for this training program
 
-- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). You will get back to you. 
+- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
 ----------------------------
 
 ### Pre-requisites: 
