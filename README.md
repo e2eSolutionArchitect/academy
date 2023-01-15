@@ -1,4 +1,4 @@
-## e2e Solution Architect Talent and Development Academy
+## e2e Solution Architect Talent Development Academy
 
 ## [About the program:](https://e2esolutionarchitect.com/training-programs/)
 
