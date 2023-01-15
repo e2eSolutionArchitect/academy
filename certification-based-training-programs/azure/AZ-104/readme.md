@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/62712515/212542948-616c1fb5-3663-47ec-889c-505bf6c4e3f9.png)
+![image](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the ***Role Based*** THREE WEEKS training registration.
 
