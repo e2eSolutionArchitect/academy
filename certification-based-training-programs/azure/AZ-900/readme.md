@@ -52,26 +52,33 @@ Required exams: ***AZ-900***
 ## Program Agenda:
 
 ***Week 1:***
-- 
-- 
+- Class 1: 
+- Class 2: 
 ***Week 2:***
-- 
-- 
+- Class 3: 
+- Class 4: 
 ***Week 3:***
-- 
-- 
+- Class 5: 
+- Class 6: 
 ***Week 4:***
-- 
-- 
+- Class 7: 
+- Class 8: 
+
+----------------------------
 ***Week 5:***
-- 
-- 
+- Class 9: 
+- Class 10:
+- Class 11:  
 ***Week 6:***
-- 
-- 
+- Class 12: 
+- Class 13:
+- Class 14  
 ***Week 7:***
-- 
-- 
+- Class 15: 
+- Class 16: 
 ***Week 8:***
-- 
+- Class 17:
+- Class 18:
+- Class 19:   
 - Certification Exam day
+- Class 20: Day after exam day
