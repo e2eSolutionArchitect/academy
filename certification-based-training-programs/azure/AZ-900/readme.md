@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/62712515/212542948-616c1fb5-3663-47ec-889c-505bf6c4e3f9.png)
 
+***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the training registration.
+
 ## Program name: [Microsoft Certified Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
 ### [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
