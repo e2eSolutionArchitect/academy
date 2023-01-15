@@ -140,9 +140,9 @@ Required exams: ***AZ-900***
     - ARM for VM
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
-*** Role based Training Program agenda ENDS here ***
+### *** Role based Training Program agenda ENDS here ***
 ----------------------------
-*** Certification based Training Program agenda STARTS here ***
+### *** Certification based Training Program agenda STARTS here ***
 
 ***Week 4:***
 
