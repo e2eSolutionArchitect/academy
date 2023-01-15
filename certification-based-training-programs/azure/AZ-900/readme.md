@@ -67,7 +67,7 @@ Required exams: ***AZ-900***
   - In-class Quiz
   - Assignment-01
     - Users & Roles
-    - Document trouble shooting, problem & solution in Markdown file. 
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
   
 - Class 2: 
   - Storage account, Different storage types & services
@@ -77,6 +77,7 @@ Required exams: ***AZ-900***
   - In-class Quiz
   - Assignment-02
     - Storage, Vnet, Subnet, Network Security Groups
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
 
 ***Week 2:***
 
@@ -88,6 +89,7 @@ Required exams: ***AZ-900***
   - In-class Quiz
   - Assignment-03
     - VM, SSH, Resource Group, NSG, Availability sets
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
 - Class 4: 
   - Bastion Service, Scale Set
@@ -96,6 +98,7 @@ Required exams: ***AZ-900***
   - In-class Quiz
   - Assignment-04
     - AKS Cluster
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
 ***Week 3:***
 
@@ -107,19 +110,21 @@ Required exams: ***AZ-900***
   - In-class Quiz
   - Assignment-05
     - Azure Monitor, Log Analytics
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
   - Assignment-06
     - ARM for VM
+    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
 ***Week 4:***
 
 - Class 7: 
   - Exam Prep Q & A
   - Assignment-07
-  - 
+  
 - Class 8: 
   - Exam Prep Q & A
   - Assignment-08
@@ -128,15 +133,15 @@ Required exams: ***AZ-900***
 
 ***Week 5:***
 - Class 9,1 01, 11: Exam Prep Q & A
-- Assignment 09
+  - Assignment 09
 
 ***Week 6:***
 - Class 12,13,14: Exam Prep Q & A
-- Assignment 10
+  - Assignment 10
 
 ***Week 7:***
 - Class 15,16,17: Exam Prep Q & A
-- Assignment 11
+  - Assignment 11
 
 ***Week 8:***
 
@@ -147,6 +152,8 @@ Required exams: ***AZ-900***
 - Class 19: 
   - Exam process , Tips & Tricks
   - Exam Prep Q & A
+  
 - Certification Exam day
+
 - Class 20: Day after exam day
   - Career guidance for next steps
