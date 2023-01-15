@@ -37,7 +37,8 @@ Required exams: ***AZ-900***
 ## Training format & Important notes:
 
 - This training program is completely online.
-- Class length is 2 hours. 15 mins break.
+- Total 20 classes. Each class length is 2 hours including 15 mins break.
+- Training duration 1 to 2 months maximum. 
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maxium whiteboard session and interactive discussion. 
