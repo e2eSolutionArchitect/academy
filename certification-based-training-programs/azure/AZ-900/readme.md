@@ -42,6 +42,7 @@ Required exams: ***AZ-900***
 - Please check the exam registration steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/microsoft-certification-registration-steps.md). Make sure you register for ***Microsoft Certified: Azure Fundamentals***
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
+- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
 
 
 ----------------------------
