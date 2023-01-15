@@ -136,11 +136,14 @@ Required exams: ***AZ-900***
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
-  - ***Role based training completion***
   - Assignment-06: Lab
     - ARM for VM
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
-    
+
+*** Role based Training Program agenda ENDS here ***
+----------------------------
+*** Certification based Training Program agenda STARTS here ***
+
 ***Week 4:***
 
 - Class 7: 
@@ -150,8 +153,6 @@ Required exams: ***AZ-900***
 - Class 8: 
   - Exam Prep Q & A
   - Assignment-08
-
-----------------------------
 
 ***Week 5:***
 - Class 9,1 01, 11: Exam Prep Q & A
