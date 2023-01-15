@@ -77,42 +77,59 @@ Required exams: ***AZ-900***
 
 
 ***Week 2:***
+
 - Class 3: 
   - Compute resources, Virtual Machine
   - Availability Sets 
   - In-class Quiz
   - Assignment-03
-  - - VM, SSH
+    - VM, SSH
 - Class 4: 
-- 
+  - In-class Quiz
+  - Assignment-04
+  - 
 ***Week 3:***
+
 - Class 5: 
+  - In-class Quiz
+  - Assignment-05
+  - 
 - Class 6: 
+  - In-class Quiz
+  - Assignment-06
 - 
 ***Week 4:***
+
 - Class 7: 
+  - In-class Quiz
+  - Assignment-07
+  - 
 - Class 8: 
+  - Exam Prep Q & A
+  - Assignment-08
 
 ----------------------------
 
 ***Week 5:***
-- Class 9: 
-- Class 10:
-- Class 11:  
+- Class 9,1 01, 11: Exam Prep Q & A
+- Assignment 09
 - 
 ***Week 6:***
-- Class 12: 
-- Class 13:
-- Class 14  
+- Class 12,13,14: Exam Prep Q & A
+- Assignment 10
 - 
 ***Week 7:***
-- Class 15: 
-- Class 16: 
-- Class 17:
+- Class 15,16,17: Exam Prep Q & A
+- Assignment 11
 - 
 ***Week 8:***
-- Class 18:
-- Class 19:   
+
+- Class 18: 
+  - Exam Prep Q & A
+  - Assignment 12
+- Class 19: 
+  - Exam process , Tips & Tricks
+  - Exam Prep Q & A
 - Certification Exam day
 - Class 20: Day after exam day
   - Career guidance for next steps
