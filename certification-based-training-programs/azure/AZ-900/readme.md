@@ -53,6 +53,14 @@ Required exams: ***AZ-900***
 
 ***Week 1:***
 - Class 1: 
+  - Course introduction
+  - Exam preparation Tips & Techniques
+  - Exam registration
+  - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
+  - Azure Subscription, Users & Roles
+  - In-class Quiz
+  - Assignment-01
+  
 - Class 2: 
 - 
 ***Week 2:***
