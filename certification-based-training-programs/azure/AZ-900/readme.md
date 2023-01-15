@@ -133,6 +133,7 @@ Required exams: ***AZ-900***
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
+  - ***Role based training completion***
   - Assignment-06: Lab
     - ARM for VM
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
