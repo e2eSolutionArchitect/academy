@@ -113,20 +113,21 @@ Required exams: ***AZ-900***
 ***Week 5:***
 - Class 9,1 01, 11: Exam Prep Q & A
 - Assignment 09
-- 
+
 ***Week 6:***
 - Class 12,13,14: Exam Prep Q & A
 - Assignment 10
-- 
+
 ***Week 7:***
 - Class 15,16,17: Exam Prep Q & A
 - Assignment 11
-- 
+
 ***Week 8:***
 
 - Class 18: 
   - Exam Prep Q & A
   - Assignment 12
+  
 - Class 19: 
   - Exam process , Tips & Tricks
   - Exam Prep Q & A
