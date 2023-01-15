@@ -67,7 +67,15 @@ Required exams: ***AZ-900***
     - Users & Roles
   
 - Class 2: 
-- 
+  - Storage account, Different storage types & services
+  - Storage lifecycle
+  - Vnet, Subnet, Network Security Groups
+  - CIDR notation
+  - In-class Quiz
+  - Assignment-01
+    - Storage, Vnet, Subnet, Network Security Groups
+
+
 ***Week 2:***
 - Class 3: 
 - Class 4: 
