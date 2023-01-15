@@ -144,6 +144,7 @@ Required exams: ***AZ-104***
   - Image registry, Container Groups
   - Containerized services, AKS
   - In-class Quiz
+  - Business case for final Project
   - Assignment-06: Lab
     - ARM for VM
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
@@ -151,15 +152,19 @@ Required exams: ***AZ-104***
 ***Week 4:***
 
 - Class 7: 
-  - 
+  - Azure CICD, Azure DevSecOps.
+  - Business case for deploing and managing Azure compute resources
   - Assignment-07
+    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 01/02
   
 - Class 8: 
-  - 
-  - ***Role based training completion***
+  - Project implementation guidance for given business case
   - Assignment-08
+    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 02/02
 
+*** Role based Training Program agenda ENDS here ***
 ----------------------------
+*** Certification based Training Program agenda STARTS here ***
 
 ***Week 5:***
 - Class 9,1 01, 11: Exam Prep Q & A
