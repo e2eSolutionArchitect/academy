@@ -1,8 +1,8 @@
 # Microsoft Certifications
 
-Please [click here](https://learn.microsoft.com/en-us/certifications/) for detail and updated infomation about all microsoft certification. 
-
-[Click here](https://learn.microsoft.com/en-us/certifications/browse/?type=role-based&products=azure) for ***Azure certifications***
+- [Click here](https://learn.microsoft.com/en-us/certifications/) for detail and updated infomation about all microsoft certification. 
+- [Click here](https://learn.microsoft.com/en-us/certifications/browse/?type=role-based&products=azure) for ***Azure certifications***
+- [Exam registration process](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/certification-registration-process.md)
 
 ### Quick info about few popular certifications for Azure cloud are as follows
 
