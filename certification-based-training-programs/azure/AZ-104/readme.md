@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)
 
-***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the ***Role Based*** FOUR WEEKS training registration.
+***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
 ## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
