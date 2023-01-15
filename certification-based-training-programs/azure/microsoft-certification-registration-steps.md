@@ -24,8 +24,8 @@
 ![image](https://user-images.githubusercontent.com/62712515/212519935-4faccc61-ca97-445b-bffb-f4edc50d4ab5.png)
 
 - Now just follow the on screen instructions. 
-  - Select Online Proctored exam. So you can give it sitting at home online. Or if you want to go to exam center then select exam center. 
-  - Select the Data and Time you want your exam. Make sure you check the time zone. 
+  - Select Online Proctored exam from home. So you can give it sitting at home online. Or if you want to go to exam center then select exam center. 
+  - Select the Date and Time you want your exam. Make sure you check the time zone. 
   - Complete the payment
   - You will receive the payment receipt and the exam confirmation by email
   - If you selected online exam from home then You will get the next screen as "system check". It is to check your computer if it is good for running the test on exam day. DONT'T FORGET TO RUN THE TEST BEFORE EXAM. It is to be safe side that on exam day last minute you will not find any computer compatibility issue. 
