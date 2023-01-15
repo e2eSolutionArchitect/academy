@@ -1,10 +1,33 @@
-## [Microsoft Certified Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Certification focused Training Program 
+## Program name: [Microsoft Certified Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Certification focused Training Program 
 
-### About the program
+### [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-### Eligibility for attending this program***
+***Skills measured***
 
-### How to register for this program
+This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and download the study guide.
+- Describe cloud concepts
+- Describe Azure architecture and services
+- Describe Azure management and governance
+
+***Job role:*** Administrator, Business User, Developer, Student, Technology Manager
+
+Required exams: ***AZ-900***
+
+----------------------------
+### About this training program
+
+
+----------------------------
+### Eligibility for attending this training program
+
+----------------------------
+
+### How to register for this training program
+
+----------------------------
+### About the certification
+
+
 
 ### Pre-requisites: 
 (***Before*** the first day of class)
