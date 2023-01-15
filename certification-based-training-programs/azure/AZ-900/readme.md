@@ -130,14 +130,14 @@ Required exams: ***AZ-900***
   - Log Analytics
   - Application Insights
   - In-class Quiz
-  - Assignment-05: Lab
+  - Project:
     - Project- Business case implementation- Part 01/02
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
-  - Assignment-06: Lab
+  - Project:
     - Project- Business case implementation- Part 02/02
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
