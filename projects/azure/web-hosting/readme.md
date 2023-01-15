@@ -1,4 +1,4 @@
-## Project name: Azure Web Hosting
+## Project name: Azure Static Web Hosting
 
 |   |   |
 |---|---|
