@@ -1,4 +1,4 @@
-## Microsoft Certified Azure Fundamentals : Certification focused Training Program 
+## Microsoft Certified Azure Fundamentals AZ-900: Certification focused Training Program 
 
 ***About the program***
 
