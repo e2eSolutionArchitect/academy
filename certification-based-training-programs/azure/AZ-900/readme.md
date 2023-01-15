@@ -25,9 +25,6 @@ Required exams: ***AZ-900***
 ### How to register for this training program
 
 ----------------------------
-### About the certification
-
-
 
 ### Pre-requisites: 
 (***Before*** the first day of class)
@@ -35,8 +32,9 @@ Required exams: ***AZ-900***
 - Please register for [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) certification.
   - Please check the exam registration steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/microsoft-certification-registration-steps.md). Make sure you register for ***Microsoft Certified: Azure Fundamentals***
 
+----------------------------
 
-***Program Agenda:***
+## Program Agenda:
 
 ***Week 1:***
 - 
