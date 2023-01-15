@@ -2,13 +2,14 @@
 
 Please [click here](https://learn.microsoft.com/en-us/certifications/) for detail and updated infomation about all microsoft certification. 
 
-(Click here](https://learn.microsoft.com/en-us/certifications/browse/?type=role-based&products=azure) for Azure certifications
+[Click here](https://learn.microsoft.com/en-us/certifications/browse/?type=role-based&products=azure) for ***Azure certifications***
 
 ### Quick info about few popular certifications for Azure cloud are as follows
 
 ## [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-### Skills measured
+***Skills measured***
+
 This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and download the study guide.
 - Describe cloud concepts
 - Describe Azure architecture and services
@@ -21,7 +22,7 @@ Required exams: ***AZ-900***
 ----------------------------
 ## [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/certifications/azure-developer/)
 
-### Skills measured
+***Skills measured***
 This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and download the study guide.
 - Develop Azure compute solutions
 - Develop for Azure storage
