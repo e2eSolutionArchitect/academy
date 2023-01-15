@@ -2,6 +2,8 @@
 
 Please [click here](https://learn.microsoft.com/en-us/certifications/) for detail and updated infomation about all microsoft certification. 
 
+(Click here](https://learn.microsoft.com/en-us/certifications/browse/?type=role-based&products=azure) for Azure certifications
+
 ### Quick info about few popular certifications for Azure cloud are as follows
 
 ## [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
@@ -31,6 +33,7 @@ This list contains the skills measured on the exam associated with this certific
 
 Required exams: ***AZ-204***
 
+
 ----------------------------
 ## [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 
@@ -46,3 +49,21 @@ This list contains the skills measured on the exam associated with this certific
 ***Job role:*** Administrator
 
 Required exams: ***AZ-104***
+
+----------------------------
+
+## [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+
+***Skills measured***
+
+This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and download the study guide.
+- Design identity, governance, and monitoring solutions
+- Design data storage solutions
+- Design business continuity solutions
+- Design infrastructure solutions
+
+***Job role:*** Solution Architect
+
+Prerequisites: 1 certification. [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+
+Required exams: AZ-305
