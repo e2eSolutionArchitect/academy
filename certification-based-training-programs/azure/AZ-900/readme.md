@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/62712515/212542948-616c1fb5-3663-47ec-889c-505bf6c4e3f9.png)
+![image](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the ***Role Based*** THREE WEEKS training registration.
 
@@ -181,3 +181,6 @@ Required exams: ***AZ-900***
 - Class 20: Day after exam day
   - Career guidance for next steps
   - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
+
+![image](https://user-images.githubusercontent.com/62712515/212548358-8f044be8-5d90-4c82-b1ba-2f024c93b45c.png)
+
