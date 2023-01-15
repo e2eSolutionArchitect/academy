@@ -73,6 +73,13 @@ Required exams: ***AZ-104***
 
 ----------------------------
 
+## Project Submission
+- An industry standard project will be assigned during second-last week of the Role based training program
+- Candidates have to submit the project one day before the last class of the role based training program
+- Document and submit the project as per the guideline mentioned [here]
+- Feedback, Comments and grading will be shared and discussed during last class of role based program
+- 
+
 
 ## Program Agenda:
 
@@ -134,6 +141,7 @@ Required exams: ***AZ-104***
     - Log Analytics
     - Application Insights
   - In-class Quiz
+  - Introduction to final project business case
   - Assignment-05: Lab
     - Azure Monitor, Log Analytics
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
@@ -144,23 +152,22 @@ Required exams: ***AZ-104***
   - Image registry, Container Groups
   - Containerized services, AKS
   - In-class Quiz
-  - Business case for final Project
-  - Assignment-06: Lab
-    - ARM for VM
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+  - Project:
+    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 01/02
     
 ***Week 4:***
 
 - Class 7: 
   - Azure CICD, Azure DevSecOps.
   - Business case for deploing and managing Azure compute resources
-  - Assignment-07
-    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 01/02
+  - Project:
+    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 02/02
+  
+  ***Submit project a day before the Class 8 ***
   
 - Class 8: 
-  - Project implementation guidance for given business case
-  - Assignment-08
-    - ***Project***- Business case application deployment, DevSecOps CICD pipeline- Part 02/02
+  - Project implementation guidance, Comments, Feedback for given business case
+  - Career path guidance at the end of role based training program
 
 ### *** Role based Training Program agenda ENDS here ***
 ----------------------------
