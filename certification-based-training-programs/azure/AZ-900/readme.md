@@ -179,4 +179,4 @@ Required exams: ***AZ-900***
 
 - Class 20: Day after exam day
   - Career guidance for next steps
-  - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charge in credit card) 
+  - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
