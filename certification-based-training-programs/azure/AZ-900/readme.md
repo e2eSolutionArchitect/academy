@@ -63,7 +63,7 @@ Required exams: ***AZ-900***
 
 ## Program Agenda:
 
-***Week 1:***
+***Week 1:*** (Lab & Theory)
 - Class 1: 
   - Course introduction
   - Exam preparation Tips & Techniques
@@ -77,7 +77,7 @@ Required exams: ***AZ-900***
   - Install PowerShell
   - Check your access for documentation in git repo [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
-  - Assignment-01
+  - Assignment-01: Lab
     - Users & Roles
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
   
@@ -87,11 +87,11 @@ Required exams: ***AZ-900***
   - Vnet, Subnet, Network Security Groups
   - CIDR notation
   - In-class Quiz
-  - Assignment-02
+  - Assignment-02: Lab
     - Storage, Vnet, Subnet, Network Security Groups
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
 
-***Week 2:***
+***Week 2:*** (Lab & Theory)
 
 - Class 3: 
   - Compute resources, Virtual Machine
@@ -99,7 +99,7 @@ Required exams: ***AZ-900***
   - Installing Internet Information Services
   - Connecting to the Virtual Machine
   - In-class Quiz
-  - Assignment-03
+  - Assignment-03: Lab
     - VM, SSH, Resource Group, NSG, Availability sets
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
@@ -108,11 +108,11 @@ Required exams: ***AZ-900***
   - Image registry, Container Groups
   - AKS
   - In-class Quiz
-  - Assignment-04
+  - Assignment-04: Lab
     - AKS Cluster
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
-***Week 3:***
+***Week 3:*** (Lab & Theory)
 
 - Class 5: 
   - Azure Monitor
@@ -120,14 +120,14 @@ Required exams: ***AZ-900***
   - Log Analytics
   - Application Insights
   - In-class Quiz
-  - Assignment-05
+  - Assignment-05: Lab
     - Azure Monitor, Log Analytics
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
-  - Assignment-06
+  - Assignment-06: Lab
     - ARM for VM
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
