@@ -11,4 +11,7 @@
 | ***Cost***  |  <li> This project WILL INCUR COST for purchasing a domain as well as the Azure services you plan to use. <li> You can use your existing personal domain (if any)|
 | ***Pre-requisites***  |  <li> Azure portal access to implement the solution in your own Azure account <li> Please make sure you have a domain registered and available for use in this project  |
 | ***Artifacts to be submitted***  |  <li> Solution Design (only two slides ppt format)  <li> ARM template/Terraform project in your github public repository <li> A step by step clear documentation with screenshot in Markdown file. '.md' file for project documentation  <li> A max 5 minutes screen recording to show your implemetation and testing. |
+| ***Collaborate***  |  <li> Join the ***Slack** channel [here](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1), collaborate with others to create a great solution <li>  |
 | *** ***  |  <li>  <li>  |
+  
+  
