@@ -177,7 +177,7 @@ Required exams: ***AZ-104***
 | ***Week 10:*** | Class 24,25,26 | Exam Prep Q & A | Assignments |
 | ***Week 11:*** | Class 27,28,29 | Exam Prep Q & A | Assignments |
   
-***Week 11:*** 
+***Week 12:*** 
 
 - Class 30,31 : Exam Prep Q & A
   - Assignments
