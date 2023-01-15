@@ -22,7 +22,9 @@ Required exams: ***AZ-900***
 
 ***IMPORTANT***
 - Role based training is Week 1 to 3
-- Certification based training in Week Week 4 to 8
+- Certification based training is Week 4 to 8
+- Dual is Week 1 to 8
+
 ----------------------------
 ### Eligibility for attending this training program
 
