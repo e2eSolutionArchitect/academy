@@ -71,6 +71,8 @@ Required exams: ***AZ-900***
   - Storage lifecycle
   - Vnet, Subnet, Network Security Groups
   - CIDR notation
+  - Install Microsoft Visual Studio Code
+  - Install PowerShell
   - In-class Quiz
   - Assignment-02
     - Storage, Vnet, Subnet, Network Security Groups
@@ -83,14 +85,22 @@ Required exams: ***AZ-900***
   - Availability Sets 
   - In-class Quiz
   - Assignment-03
-    - VM, SSH
+    - VM, SSH, Resource Group, NSG, Availability sets
+    
 - Class 4: 
+  - Bastion Service, Scale Set
+  - Image registry, Container Groups
+  - AKS
   - In-class Quiz
   - Assignment-04
   - 
 ***Week 3:***
 
 - Class 5: 
+  - Azure Monitor
+  - Azure Backup
+  - Log Analytics
+  - Application Insights
   - In-class Quiz
   - Assignment-05
   - 
