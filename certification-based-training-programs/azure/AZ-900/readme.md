@@ -32,6 +32,7 @@ Required exams: ***AZ-900***
 - Please make sure you are able to access Microsoft Azure portal. Check steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/AZ-900/azure-portal-registration.md)
 - Please register for [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) certification.
   - Please check the exam registration steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/microsoft-certification-registration-steps.md). Make sure you register for ***Microsoft Certified: Azure Fundamentals***
+  - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 
 ----------------------------
 
@@ -62,27 +63,28 @@ Required exams: ***AZ-900***
     - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
   - Azure Subscription, Users & Roles
+  - Install PowerShell
   - In-class Quiz
   - Assignment-01
     - Users & Roles
+    - Document trouble shooting, problem & solution in Markdown file. 
   
 - Class 2: 
   - Storage account, Different storage types & services
   - Storage lifecycle
   - Vnet, Subnet, Network Security Groups
   - CIDR notation
-  - Install Microsoft Visual Studio Code
-  - Install PowerShell
   - In-class Quiz
   - Assignment-02
     - Storage, Vnet, Subnet, Network Security Groups
-
 
 ***Week 2:***
 
 - Class 3: 
   - Compute resources, Virtual Machine
   - Availability Sets 
+  - Installing Internet Information Services
+  - Connecting to the Virtual Machine
   - In-class Quiz
   - Assignment-03
     - VM, SSH, Resource Group, NSG, Availability sets
@@ -93,7 +95,8 @@ Required exams: ***AZ-900***
   - AKS
   - In-class Quiz
   - Assignment-04
-  - 
+    - AKS Cluster
+    
 ***Week 3:***
 
 - Class 5: 
@@ -103,15 +106,18 @@ Required exams: ***AZ-900***
   - Application Insights
   - In-class Quiz
   - Assignment-05
-  - 
+    - Azure Monitor, Log Analytics
+
 - Class 6: 
+  - Azure Resource Template
   - In-class Quiz
   - Assignment-06
-- 
+    - ARM for VM
+    
 ***Week 4:***
 
 - Class 7: 
-  - In-class Quiz
+  - Exam Prep Q & A
   - Assignment-07
   - 
 - Class 8: 
