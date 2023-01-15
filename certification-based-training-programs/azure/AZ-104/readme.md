@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)
 
-***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the ***Role Based*** THREE WEEKS training registration.
+***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the ***Role Based*** FOUR WEEKS training registration.
 
 ## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
@@ -166,31 +166,26 @@ Required exams: ***AZ-104***
 ----------------------------
 ### *** Certification based Training Program agenda STARTS here ***
 
-***Week 5:***
-- Class 9,1 01, 11: Exam Prep Q & A
-  - Assignment 09
-
-***Week 6:***
-- Class 12,13,14: Exam Prep Q & A
-  - Assignment 10
-
-***Week 7:***
-- Class 15,16,17: Exam Prep Q & A
-  - Assignment 11
-
-***Week 8:***
-
-- Class 18: 
-  - Exam Prep Q & A
-  - Assignment 12
+***Week 5:*** | Class 9,10,11 | Exam Prep Q & A | Assignments
+***Week 6:*** | Class 12,13,14 | Exam Prep Q & A | Assignments
+***Week 7:*** | Class 15,16, 17 | Exam Prep Q & A | Assignments
+***Week 8:*** | Class 18,19,20 | Exam Prep Q & A | Assignments
+***Week 9:*** | Class 21,22,23 | Exam Prep Q & A | Assignments
+***Week 10:*** | Class 24,25,26 | Exam Prep Q & A | Assignments
+***Week 11:*** | Class 27,28,29 | Exam Prep Q & A | Assignments
   
-- Class 19: 
+***Week 11:*** 
+
+- Class 30,31 : Exam Prep Q & A
+  - Assignments
+
+- Class 31: 
   - Exam process , Tips & Tricks
   - Exam Prep Q & A
   
 - Certification Exam day
 
-- Class 20: Day after exam day
+- Class 32: Day after exam day
   - Career guidance for next steps
   - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
 
