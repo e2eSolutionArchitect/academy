@@ -117,6 +117,7 @@ Required exams: ***AZ-900***
   - Image registry, Container Groups
   - AKS
   - In-class Quiz
+  - Introduction to final project and assign business case
   - Assignment-04: Lab
     - AKS Cluster
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
@@ -130,14 +131,14 @@ Required exams: ***AZ-900***
   - Application Insights
   - In-class Quiz
   - Assignment-05: Lab
-    - Azure Monitor, Log Analytics
+    - Project- Business case implementation- Part 01/02
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
 - Class 6: 
   - Azure Resource Template
   - In-class Quiz
   - Assignment-06: Lab
-    - ARM for VM
+    - Project- Business case implementation- Part 02/02
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
 ### *** Role based Training Program agenda ENDS here ***
