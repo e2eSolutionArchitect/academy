@@ -33,6 +33,8 @@ Required exams: ***AZ-900***
 - Please register for [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) certification.
   - Please check the exam registration steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/microsoft-certification-registration-steps.md). Make sure you register for ***Microsoft Certified: Azure Fundamentals***
   - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
+  - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
+
 
 ----------------------------
 
@@ -50,6 +52,15 @@ Required exams: ***AZ-900***
 
 ----------------------------
 
+## Instructions for Lab Assignments
+- Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
+- markdown file should contain the assignment proble, Each and every steps to create the solution with screenshot and code snippet where ever required.
+- Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+- Troubleshoot document should be updated as and when any issue is faced and resolved. 
+
+----------------------------
+
+
 ## Program Agenda:
 
 ***Week 1:***
@@ -64,6 +75,7 @@ Required exams: ***AZ-900***
   - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
   - Azure Subscription, Users & Roles
   - Install PowerShell
+  - Check your access for documentation in git repo [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
   - Assignment-01
     - Users & Roles
