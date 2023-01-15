@@ -8,5 +8,5 @@
 |  ***Options*** | <li> Implement with Azure ARM template <li> Implement with Terraform and Azure  |
 | ***Validation***  |  browse the url ,such as mydomain.com. It should show the html page  |
 | ***Given***  |  Create an html file named 'index.html' with content > ``` <h1> Happy learning with e2e Solution Architect </h1>  ```  |
-| ***Cost***  |  This project will incur cost for purchasing a domain as well as the Azure services you plan to use|
+| ***Cost***  |  <li> This project WILL INCUR COST for purchasing a domain as well as the Azure services you plan to use. <li> You can use your existing personal domain (if any)|
 | ***Pre-requisites***  |  Please make sure you have a domain registed and available to use for this project  |
