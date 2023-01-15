@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62712515/212542948-616c1fb5-3663-47ec-889c-505bf6c4e3f9.png)
 
-***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the training registration.
+***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for the [u] Role Based [/u] training registration.
 
 ## Program name: [Microsoft Certified Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
@@ -20,7 +20,9 @@ Required exams: ***AZ-900***
 ----------------------------
 ### About this training program
 
-
+***IMPORTANT***
+- Role based training is Week 1 to 3
+- Certification based training in Week Week 4 to 8
 ----------------------------
 ### Eligibility for attending this training program
 
