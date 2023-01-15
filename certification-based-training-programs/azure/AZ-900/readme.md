@@ -34,6 +34,19 @@ Required exams: ***AZ-900***
 
 ----------------------------
 
+## Training format & Important notes:
+
+- This training program is completely online.
+- Class length is 2 hours. 15 mins break.
+- Class schedule will be published to registered candidates prior to the program start date.
+- Classes may not be recorded. Please make notes.
+- This program doesn't include any dedicated study material. Maxium whiteboard session and interactive discussion. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
+- This program starts by registering for your certification exam for seriousness. 
+- Certification exam cost is NOT included in training fees. 
+
+----------------------------
+
 ## Program Agenda:
 
 ***Week 1:***
