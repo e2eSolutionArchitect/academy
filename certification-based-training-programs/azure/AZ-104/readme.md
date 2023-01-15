@@ -193,3 +193,6 @@ Required exams: ***AZ-104***
 - Class 20: Day after exam day
   - Career guidance for next steps
   - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
+
+![image](https://user-images.githubusercontent.com/62712515/212548348-bd4648df-3ae1-400f-8ffd-6716dc5276b2.png)
+
