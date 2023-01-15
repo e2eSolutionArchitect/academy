@@ -166,13 +166,9 @@ Required exams: ***AZ-104***
 ----------------------------
 ### *** Certification based Training Program agenda STARTS here ***
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|  a |  a |   | a  |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
-| ------- | ------- | ------- | ------- |
+|   |   |   |   | 
+|---|---|---|---|
 | ***Week 5:*** | Class 9,10,11 | Exam Prep Q & A | Assignments |
 | ***Week 6:*** | Class 12,13,14 | Exam Prep Q & A | Assignments |
 | ***Week 7:*** | Class 15,16, 17 | Exam Prep Q & A | Assignments |
