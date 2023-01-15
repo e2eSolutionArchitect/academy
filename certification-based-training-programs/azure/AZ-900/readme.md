@@ -81,6 +81,7 @@ Required exams: ***AZ-900***
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
+  - Setup MFA for Azure portal (***Very IMPORTANT*** to avoid account hacking)
   - Azure Subscription, Users & Roles
   - Install PowerShell
   - Check your access for documentation in git repo [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md) and assignment submission folders [here](#) for Lab asignments. 
@@ -178,3 +179,4 @@ Required exams: ***AZ-900***
 
 - Class 20: Day after exam day
   - Career guidance for next steps
+  - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charge in credit card) 
