@@ -56,10 +56,15 @@ Required exams: ***AZ-900***
   - Course introduction
   - Exam preparation Tips & Techniques
   - Exam registration
+  - Subscribe useful resources 
+    - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+    - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
+    - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
   - Azure Subscription, Users & Roles
   - In-class Quiz
   - Assignment-01
+    - Users & Roles
   
 - Class 2: 
 - 
