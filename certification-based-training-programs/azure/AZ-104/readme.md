@@ -166,13 +166,14 @@ Required exams: ***AZ-104***
 ----------------------------
 ### *** Certification based Training Program agenda STARTS here ***
 
-***Week 5:*** | Class 9,10,11 | Exam Prep Q & A | Assignments
-***Week 6:*** | Class 12,13,14 | Exam Prep Q & A | Assignments
-***Week 7:*** | Class 15,16, 17 | Exam Prep Q & A | Assignments
-***Week 8:*** | Class 18,19,20 | Exam Prep Q & A | Assignments
-***Week 9:*** | Class 21,22,23 | Exam Prep Q & A | Assignments
-***Week 10:*** | Class 24,25,26 | Exam Prep Q & A | Assignments
-***Week 11:*** | Class 27,28,29 | Exam Prep Q & A | Assignments
+|-------|-------|-------|-------|
+|***Week 5:*** | Class 9,10,11 | Exam Prep Q & A | Assignments|
+|***Week 6:*** | Class 12,13,14 | Exam Prep Q & A | Assignments|
+|***Week 7:*** | Class 15,16, 17 | Exam Prep Q & A | Assignments|
+|***Week 8:*** | Class 18,19,20 | Exam Prep Q & A | Assignments|
+|***Week 9:*** | Class 21,22,23 | Exam Prep Q & A | Assignments|
+|***Week 10:*** | Class 24,25,26 | Exam Prep Q & A | Assignments|
+|***Week 11:*** | Class 27,28,29 | Exam Prep Q & A | Assignments|
   
 ***Week 11:*** 
 
