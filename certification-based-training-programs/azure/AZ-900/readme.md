@@ -72,12 +72,17 @@ Required exams: ***AZ-900***
   - Vnet, Subnet, Network Security Groups
   - CIDR notation
   - In-class Quiz
-  - Assignment-01
+  - Assignment-02
     - Storage, Vnet, Subnet, Network Security Groups
 
 
 ***Week 2:***
 - Class 3: 
+  - Compute resources, Virtual Machine
+  - Availability Sets 
+  - In-class Quiz
+  - Assignment-03
+  - - VM, SSH
 - Class 4: 
 - 
 ***Week 3:***
