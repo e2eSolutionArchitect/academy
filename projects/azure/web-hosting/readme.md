@@ -9,4 +9,4 @@
 | ***Validation***  |  browse the url ,such as mydomain.com. It should show the html page  |
 | ***Given***  |  Create an html file named 'index.html' with content > ``` <h1> Happy learning with e2e Solution Architect </h1>  ```  |
 | ***Cost***  |  <li> This project WILL INCUR COST for purchasing a domain as well as the Azure services you plan to use. <li> You can use your existing personal domain (if any)|
-| ***Pre-requisites***  |  Please make sure you have a domain registered and available for use in this project  |
+| ***Pre-requisites***  |  <li> Azure portal access to implement the solution in your own Azure account <li> Please make sure you have a domain registered and available for use in this project  |
