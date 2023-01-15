@@ -7,4 +7,4 @@
 |  ***Guidelines*** | <li> Complete infrastructure should be created with Azure reuseable template (Infrastructure as Code) <li> ADO automated pipeline to deploy code change from azure repo  |
 |  ***Options*** | <li> Implement with Azure ARM template <li> Implement with Terraform and Azure  |
 | ***Validation***  |  browse the url ,such as mydomain.com. It should show the html page  |
-| ***Given***  |  Create an html file named 'index.html' with below content. ``` <h1> Happy learning with e2e Solution Architect </h1>  ```  |
+| ***Given***  |  Create an html file named 'index.html' with content > ``` <h1> Happy learning with e2e Solution Architect </h1>  ```  |
