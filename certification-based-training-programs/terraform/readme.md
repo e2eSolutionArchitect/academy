@@ -8,4 +8,5 @@
 
 ### [List of HashiCorp Certifications](https://www.hashicorp.com/certification)
 
+Role based Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 ![image](https://user-images.githubusercontent.com/62712515/212548358-8f044be8-5d90-4c82-b1ba-2f024c93b45c.png)
