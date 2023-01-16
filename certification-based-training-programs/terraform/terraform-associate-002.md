@@ -144,6 +144,6 @@ Basic understanding of on premises and cloud architecture
 
 - Class 12: Day after exam day
   - Career guidance for next steps
-  - Remove all cloud resources (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
+  - Destroy all terraform projects and make sure to remove all cloud resources (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
 
 ![image](https://user-images.githubusercontent.com/62712515/212548358-8f044be8-5d90-4c82-b1ba-2f024c93b45c.png)
