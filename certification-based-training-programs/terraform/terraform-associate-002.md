@@ -75,6 +75,7 @@ Basic understanding of on premises and cloud architecture
     - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [HashiCorp Documentation](https://developer.hashicorp.com/terraform/docs)
+    - [Terraform Registry](https://registry.terraform.io/)
   - Understand infrastructure as code (IaC) concepts
   - Check your access for documentation in git repo [here](#) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
