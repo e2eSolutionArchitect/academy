@@ -74,66 +74,57 @@ Basic understanding of on premises and cloud architecture
     - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-  - Introduction to Cloud Computing, Region & Availability Zone, Types of Cloud, Cloud deployment models, Tour to Azure portal
-  - Setup MFA for Azure portal (***Very IMPORTANT*** to avoid account hacking)
-  - Azure Subscription, Users & Roles
-  - Install PowerShell
-  - Check your access for documentation in git repo [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md) and assignment submission folders [here](#) for Lab asignments. 
+  - Understand infrastructure as code (IaC) concepts
+  - Check your access for documentation in git repo [here](#) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
   - Assignment-01: Lab
-    - Users & Roles
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
+    - ....
+    - Document trouble shooting, problem & solution in Markdown file [here](#). 
   
 - Class 2: 
-  - Storage account, Different storage types & services
-  - Storage lifecycle
-  - Vnet, Subnet, Network Security Groups
-  - CIDR notation
+  - Understand Terraform's purpose (vs other IaC)
+  - Understand Terraform basics
+  - Use the Terraform CLI 
+  - Navigate Terraform workflow
   - In-class Quiz
   - Assignment-02: Lab
-    - Storage, Vnet, Subnet, Network Security Groups
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
+    - ....
+    - Document trouble shooting, problem & solution in Markdown file [here](#). 
 
 ***Week 2:*** (Lab & Theory)
 
 - Class 3: 
-  - Compute resources, Virtual Machine
-  - Availability Sets 
-  - Installing Internet Information Services
-  - Connecting to the Virtual Machine
+  - Implement and maintain state
+  - Interact with Terraform modules
   - In-class Quiz
   - Assignment-03: Lab
-    - VM, SSH, Resource Group, NSG, Availability sets
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+    - ....
+    - Document trouble shooting, problem & solution in Markdown file [here](#).
     
 - Class 4: 
-  - Bastion Service, Scale Set
-  - Image registry, Container Groups
-  - AKS
+  - Read, generate, and modify configuration
+  - Understand Terraform Cloud and Enterprise capabilities
   - In-class Quiz
   - Introduction to final project and assign business case
   - Assignment-04: Lab
-    - AKS Cluster
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+    - ....
+    - Document trouble shooting, problem & solution in Markdown file [here](#).
     
 ***Week 3:*** (Lab & Theory)
 
 - Class 5: 
-  - Azure Monitor
-  - Azure Backup
-  - Log Analytics
-  - Application Insights
+  - Terraform backend for state management
   - In-class Quiz
   - Project:
     - Project- Business case implementation- Part 01/02
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+    - Document trouble shooting, problem & solution in Markdown file [here](#).
 
 - Class 6: 
-  - Azure Resource Template
+  -  Terraform workspace and multiple environments
   - In-class Quiz
   - Project:
     - Project- Business case implementation- Part 02/02
-    - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+    - Document trouble shooting, problem & solution in Markdown file [here](#).
 
 ### *** Role based Training Program agenda ENDS here ***
 ----------------------------
