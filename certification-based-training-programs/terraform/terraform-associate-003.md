@@ -1,1 +1,1 @@
-ll
+## A New Version of HashiCorp Infrastructure Automation Certification Is Coming Soon. [HashiCorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/terraform/tutorials/certification-003?product_intent=terraform)
