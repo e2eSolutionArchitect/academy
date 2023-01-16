@@ -142,7 +142,7 @@ Required exams: ***AZ-104***
     - Log Analytics
     - Application Insights
   - In-class Quiz
-  - Introduction to final project business case
+  - Introduction to final project business case. Select you project [here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/readme.md)
   - Assignment-05: Lab
     - Azure Monitor, Log Analytics
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
