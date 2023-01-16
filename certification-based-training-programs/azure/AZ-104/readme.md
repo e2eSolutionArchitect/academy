@@ -98,16 +98,24 @@ Required exams: ***AZ-104***
   - Azure Subscription, Identity and Access Management
   - Install PowerShell
   - In-class Quiz
-  - Assignment-01: Lab
+  - Assignment-01:
     - Users & Roles
+    - Self-paced learning
+      - [Describe cloud computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
+      - [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
+      - [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
+      - [Describe Azure identity, access, and security](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/)
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
   
 - Class 2: (Lab & Theory)
   - Manage Azure identities and governance
   - Implement and manage storage
   - In-class Quiz
-  - Assignment-02: Lab
+  - Assignment-02:
     - Storage
+    - Self-paced learning 
+      - [Describe Azure storage services](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/)
+      - [Describe the core architectural components of Azure](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/)
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md). 
 
 ***Week 2:*** (Lab & Theory)
@@ -117,7 +125,9 @@ Required exams: ***AZ-104***
     - Vnet, Subnet, Network Security Groups
     - CIDR notation
   - In-class Quiz
-  - Assignment-03: Lab
+  - Assignment-03:
+    - Self-paced learning 
+      - [Describe Azure compute and networking services](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/)
     - VM, SSH, Resource Group, NSG, Availability sets, Vnet, Subnet, Network Security Groups
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
@@ -129,7 +139,9 @@ Required exams: ***AZ-104***
   - Connecting to the Virtual Machine
   - Bastion Service, Scale Set
   - In-class Quiz
-  - Assignment-04: Lab
+  - Assignment-04:
+    - Self-paced learning 
+      - [Describe features and tools for managing and deploying Azure resources](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/)
     - AKS Cluster
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
     
@@ -143,7 +155,11 @@ Required exams: ***AZ-104***
     - Application Insights
   - In-class Quiz
   - Introduction to final project business case. Select you project [here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/readme.md)
-  - Assignment-05: Lab
+  - Assignment-05:
+    - Self-paced learning 
+      - [Describe monitoring tools in Azure](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/)
+      - [Describe cost management in Azure](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/)
+      - [Describe features and tools in Azure for governance and compliance](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/)
     - Azure Monitor, Log Analytics
     - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 
