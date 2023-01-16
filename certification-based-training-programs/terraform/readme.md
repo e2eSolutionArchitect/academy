@@ -7,59 +7,6 @@
 ## A New Version of HashiCorp Infrastructure Automation Certification Is Coming Soon
 [HashiCorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/terraform/tutorials/certification-003?product_intent=terraform)
 
-### [List of HashiCorp Certification](https://www.hashicorp.com/certification)
-
-----------------------------
-### About this training program
-
-***IMPORTANT***
-- Role based training is Week 1 to 3
-- Certification based training is Week 4 to 8
-- Dual is Week 1 to 8
-
-----------------------------
-### Eligibility for attending this training program
-
-----------------------------
-
-### How to register for this training program
-
-- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
-----------------------------
-
-### Pre-requisites: 
-(***Before*** the first day of class)
-- Please make sure you are able to access Microsoft Azure/AWS/Google Cloud portal. 
-- Please register for [HashiCorp Certified: Terraform Associate (002)](https://www.hashicorp.com/certification/terraform-associate) certification.
-- Please check the exam registration steps [here](#). 
-- Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
-- Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
-- Join Slack Channel [Terraform Infrastructure Automation Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD8183B)
-
-
-----------------------------
-
-## Training format & Important notes:
-
-- This training program is completely online.
-- Total 20 classes. Each class length is 2 hours including 15 mins break.
-- Training duration 1 to 2 months maximum. 
-- Class schedule will be published to registered candidates prior to the program start date.
-- Classes may not be recorded. Please make notes.
-- This program doesn't include any dedicated study material. Maxium whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
-- This program starts by registering for your certification exam for seriousness. 
-- Certification exam cost is NOT included in training fees. 
-
-----------------------------
-
-## Instructions for Lab Assignments
-- Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- markdown file should contain the assignment proble, Each and every steps to create the solution with screenshot and code snippet where ever required.
-- Document trouble shooting, problem & solution in Markdown file [here](#).
-- Troubleshoot document should be updated as and when any issue is faced and resolved. 
-
-----------------------------
-
+### [List of HashiCorp Certifications](https://www.hashicorp.com/certification)
 
 ![image](https://user-images.githubusercontent.com/62712515/212548358-8f044be8-5d90-4c82-b1ba-2f024c93b45c.png)
