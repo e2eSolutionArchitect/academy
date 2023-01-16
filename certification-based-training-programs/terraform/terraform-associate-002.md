@@ -116,6 +116,7 @@ Basic understanding of on premises and cloud architecture
 
 - Class 5: 
   - Terraform backend for state management
+  - [Terraform Cloud](https://app.terraform.io/public/signup/account)
   - In-class Quiz
   - Project:
     - Project- Business case implementation- Part 01/02
