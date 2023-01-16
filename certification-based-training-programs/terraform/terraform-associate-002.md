@@ -76,6 +76,7 @@ Basic understanding of on premises and cloud architecture
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [HashiCorp Documentation](https://developer.hashicorp.com/terraform/docs)
     - [Terraform Registry](https://registry.terraform.io/)
+    - [Terraform Tutorials](https://www.youtube.com/watch?v=v3M_PJAcpzU&list=PLuBBTh-4TzDkUiWqlrwwnJ3QFJdP4JiPy)
   - Understand infrastructure as code (IaC) concepts
   - Check your access for documentation in git repo [here](#) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
@@ -107,7 +108,7 @@ Basic understanding of on premises and cloud architecture
   - Read, generate, and modify configuration
   - Understand Terraform Cloud and Enterprise capabilities
   - In-class Quiz
-  - Introduction to final project and assign business case
+  - Introduction to final project and assign business case. Select you project [here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/terraform/readme.md)
   - Assignment-04: Lab
     - ....
     - Document trouble shooting, problem & solution in Markdown file [here](#).
