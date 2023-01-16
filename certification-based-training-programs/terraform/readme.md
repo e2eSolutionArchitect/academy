@@ -4,7 +4,7 @@
 
 ## Program name: [HashiCorp Certified: Terraform Associate (002)](https://www.hashicorp.com/certification/terraform-associate): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
-### [HashiCorp Certified: Terraform Associate (002)]([https://learn.microsoft.com/en-us/certifications/azure-fundamentals/](https://www.hashicorp.com/certification/terraform-associate))
+### [List of HashiCorp Certification](https://www.hashicorp.com/certification)
 
 ***Prerequisites***
 Basic terminal skills
@@ -73,7 +73,7 @@ Basic understanding of on premises and cloud architecture
   - Subscribe useful resources 
     - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-    - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+    - [HashiCorp Documentation](https://developer.hashicorp.com/terraform/docs)
   - Understand infrastructure as code (IaC) concepts
   - Check your access for documentation in git repo [here](#) and assignment submission folders [here](#) for Lab asignments. 
   - In-class Quiz
