@@ -30,7 +30,7 @@ Basic understanding of on premises and cloud architecture
 
 ### Pre-requisites: 
 (***Before*** the first day of class)
-- Please make sure you are able to access Microsoft Azure/AWS portal. Check steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/AZ-900/azure-portal-registration.md)
+- Please make sure you are able to access Microsoft Azure/AWS/Google Cloud portal. 
 - Please register for [HashiCorp Certified: Terraform Associate (002)](https://www.hashicorp.com/certification/terraform-associate) certification.
 - Please check the exam registration steps [here](#). 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
