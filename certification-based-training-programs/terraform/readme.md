@@ -4,11 +4,10 @@
 
 ## Program name: [HashiCorp Certified: Terraform Associate (002)](https://www.hashicorp.com/certification/terraform-associate): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
 
-### [List of HashiCorp Certification](https://www.hashicorp.com/certification)
+## A New Version of HashiCorp Infrastructure Automation Certification Is Coming Soon
+[HashiCorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/terraform/tutorials/certification-003?product_intent=terraform)
 
-***Prerequisites***
-Basic terminal skills
-Basic understanding of on premises and cloud architecture
+### [List of HashiCorp Certification](https://www.hashicorp.com/certification)
 
 ----------------------------
 ### About this training program
@@ -62,84 +61,5 @@ Basic understanding of on premises and cloud architecture
 
 ----------------------------
 
-
-## Program Agenda:
-
-***Week 1:*** (Lab & Theory)
-- Class 1: 
-  - Course introduction
-  - Exam preparation Tips & Techniques
-  - Exam registration
-  - Subscribe useful resources 
-    - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
-    - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-    - [HashiCorp Documentation](https://developer.hashicorp.com/terraform/docs)
-  - Understand infrastructure as code (IaC) concepts
-  - Check your access for documentation in git repo [here](#) and assignment submission folders [here](#) for Lab asignments. 
-  - In-class Quiz
-  - Assignment-01: Lab
-    - ....
-    - Document trouble shooting, problem & solution in Markdown file [here](#). 
-  
-- Class 2: 
-  - Understand Terraform's purpose (vs other IaC)
-  - Understand Terraform basics
-  - Use the Terraform CLI 
-  - Navigate Terraform workflow
-  - In-class Quiz
-  - Assignment-02: Lab
-    - ....
-    - Document trouble shooting, problem & solution in Markdown file [here](#). 
-
-***Week 2:*** (Lab & Theory)
-
-- Class 3: 
-  - Implement and maintain state
-  - Interact with Terraform modules
-  - In-class Quiz
-  - Assignment-03: Lab
-    - ....
-    - Document trouble shooting, problem & solution in Markdown file [here](#).
-    
-- Class 4: 
-  - Read, generate, and modify configuration
-  - Understand Terraform Cloud and Enterprise capabilities
-  - In-class Quiz
-  - Introduction to final project and assign business case
-  - Assignment-04: Lab
-    - ....
-    - Document trouble shooting, problem & solution in Markdown file [here](#).
-    
-***Week 3:*** (Lab & Theory)
-
-- Class 5: 
-  - Terraform backend for state management
-  - In-class Quiz
-  - Project:
-    - Project- Business case implementation- Part 01/02
-    - Document trouble shooting, problem & solution in Markdown file [here](#).
-
-- Class 6: 
-  -  Terraform workspace and multiple environments
-  - In-class Quiz
-  - Project:
-    - Project- Business case implementation- Part 02/02
-    - Document trouble shooting, problem & solution in Markdown file [here](#).
-
-### *** Role based Training Program agenda ENDS here ***
-----------------------------
-### *** Certification based Training Program agenda STARTS here ***
-
-|   |   |   |   | 
-|---|---|---|---|
-| ***Week 4:*** | Class 7,8 | Exam Prep Q & A | Assignments |
-| ***Week 5:*** | Class 9,10 | Exam Prep Q & A | Assignments |
-| ***Week 6:*** | Class 11| Exam Prep Q & A | Assignments |
-  
-- Certification Exam day
-
-- Class 12: Day after exam day
-  - Career guidance for next steps
-  - Remove all cloud resources (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
 
 ![image](https://user-images.githubusercontent.com/62712515/212548358-8f044be8-5d90-4c82-b1ba-2f024c93b45c.png)
