@@ -3,8 +3,18 @@
 Bootcamp Dates, Location and Agenda will be released shortly. If you are following ***e2eSA Academy*** you will get notification. 
 Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/bootcamp/)
 
+![image](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)
+
 - Mode of Bootcamp will be hybrid. Online and In-person team. 
 - In-person camp will be in Toronto/GTA, Canada.
 
-![image](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)
+Eligibility
+- Participants must have cloud fundamental knowledge in (any one AWS/Azure/Google Cloud) and at least some handon experience in self created projects. Having professional cloud experience will be awesome.
+- Must have completed the bootcamp request form. (Form link will be provided here soon)
+
+
+Bootcamp Instructions
+- Participants will be using their own account for cloud subscription (cloud portal AWS/Azure/GCP)
+
+
 
