@@ -14,9 +14,13 @@ e2eSA (End To End Solution Architect)  Training Program is an intense, career-fo
 - A recent graduate or fresher looking for industry standard knowledge.
 - IT enthusiasts looking for certification guidance
 
-Join the ***Slack** channel 
+Join the ***Slack*** channel 
  - [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
  - [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
  - [Terraform Infrastructure Automation Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD8183B)
+ 
+## e2eSA CLOUD SKILLS BOOTCAMP 
+
+![image](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)
 
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
