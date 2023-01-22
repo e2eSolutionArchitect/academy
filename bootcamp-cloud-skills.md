@@ -13,6 +13,11 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/bootcamp/)
 - Participants must have cloud fundamental knowledge in (any one AWS/Azure/Google Cloud) and at least some handon experience in self created projects. Having professional cloud experience will be awesome.
 - Must have completed the bootcamp request form. (Form link will be provided here soon)
 
+***Process***
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10  |  11  |  12  |
+| Registration  |    |
 
 ***Bootcamp Instructions***
 
