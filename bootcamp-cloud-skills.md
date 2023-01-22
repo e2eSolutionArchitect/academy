@@ -24,4 +24,6 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/bootcamp/)
 - Participants will be using their own account for cloud subscription (cloud portal AWS/Azure/GCP)
 
 
+***Project Submission***
+- Business Case, Solution Architecture, Code, Documentation, Technical demo recording, Final presentation one-page slide.  
 
