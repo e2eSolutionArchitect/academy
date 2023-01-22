@@ -27,3 +27,9 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/bootcamp/)
 ***Project Submission***
 - Business Case, Solution Architecture, Code, Documentation, Technical demo recording, Final presentation one-page slide.  
 
+
+***Project Grading***
+- Solution should be practically beneficial and ready to use
+- The complete solution by automation script
+- Secure , Highly available and Fault tolerant solution
+- 
