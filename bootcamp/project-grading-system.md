@@ -3,7 +3,7 @@
 - e2eSA will have the permission to use as well as share the code and any project artifacts created by any project team. 
 
 
-***Knock-out Criteria***
+***Knock-out Criteria*** ALL must be met
 
 - The project checkpoint documents are submitted before the due date
 - Project Proposal submitted on time
@@ -19,7 +19,7 @@
 - Solution is clearly explained
 - Step by step approach is mentioned with screenshots and code snippet (whereever required)
 - Anyone should be able to understand and implement the solution by reading the document
-- Code submitted
+- Clean, formatted, bug free and working code submitted
 
 ***Solution Walkthrough*** 30%
 
