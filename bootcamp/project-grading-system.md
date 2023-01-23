@@ -11,6 +11,8 @@
 - Complete solution implemented
 - Project objects are 100% achieved as proposed in project proposal 
 
+----------------------------------------------------------------------------
+
 ***Project Artifacts & Document Submission*** 40%
 
 - Documents are well drafted as per the instruction
