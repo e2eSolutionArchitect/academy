@@ -19,7 +19,7 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/)
 |    |    |    |    |    |    |    |    |    |    |    |
 |----|----|----|----|----|----|----|----|----|----|----|
 |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 
-| Registration  |  Selection  | Team Formation | Bootcamp Kickoff | Assign Businesscase | Prepare Solution | Project Submission | Project Presentation | Awards |  
+| Registration  |  Selection  | Team Formation | Bootcamp Kickoff | Assign Businesscase | Prepare Solution | Milestone Submission | Final Submission | Project Presentation | Awards |  
 
 ***Bootcamp Instructions***
 
