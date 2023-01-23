@@ -18,7 +18,7 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/)
 ***Process***
 |    |    |    |    |    |    |    |    |    |    |    |
 |----|----|----|----|----|----|----|----|----|----|----|
-|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
 | Registration  |  Selection  | Team Formation | Bootcamp Kickoff | Assign Businesscase | Prepare Solution | Milestone Submission | Final Submission | Project Presentation | Awards |  
 
 ***Bootcamp Instructions***
