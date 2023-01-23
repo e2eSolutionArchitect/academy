@@ -24,7 +24,7 @@
 
 ***Solution Benefit*** 10%
 
-- how it will solve any existing problem 
+- How it will solve any existing problem 
 
 ***Execution Plan*** 10%
 
