@@ -20,11 +20,11 @@ Clearly mention 5 points why and how this project will beneficial for solving a 
 
 
 - ### Datasource & Tools
-- Mention list of data source 
+***Mention list of data sources*** 
 
 If you are planning to use any dataset - please make sure that data source can be used by anyone publicly. If there is any restriction from datasource provider then the project group will be solely responsible for that. 
 
-- Mention list of tools
+***Mention list of tools***
 
 If you are planning to use any tools/softwares - please make sure you use only OPEN SOURCE. licensed tool usage is not allowed in bootcamp. 
 
