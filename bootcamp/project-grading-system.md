@@ -13,25 +13,25 @@
 
 ----------------------------------------------------------------------------
 
-***Project Artifacts & Document Submission*** 40%
+***Project Artifacts & Document Submission*** 40/100
 
-- Documents are well drafted as per the instruction
-- Solution is clearly explained
-- Step by step approach is mentioned with screenshots and code snippet (whereever required)
-- Anyone should be able to understand and implement the solution by reading the document
-- Clean, formatted, bug free and working code submitted
+- Documents are well drafted as per the instruction 5pt
+- Step by step approach is mentioned with screenshots and code snippet (whereever required) 20pt
+- Anyone should be able to understand and implement the solution by reading the document 10pt
+- Clean, formatted, bug free and working code submitted 5pt
 
-***Solution Walkthrough*** 30%
+***Solution Walkthrough*** 30/100
 
-- Run the code and create the solution by automation during demo
-- Solution should be highly available, secure, fault tolerant 
+- Run the code and create the solution by automation during demo 20pt
+- Solution should be highly available, secure, fault tolerant 10pt
 
-***Solution Benefit*** 15%
+***Solution Benefit*** 15/100
 
-- How it will solve any existing problem 
+- Solution is clearly explained 10pt
+- How it will solve any existing problem 5pt 
 
-***Execution Plan*** 15%
+***Execution Plan*** 15/100
 
-- In a short turn around time how this solution can be implemented for any initiative
-- Mention the cost and the resources should be planned for its implementation
-- Type of skill sets and recource will be required
+- In a short turn around time how this solution can be implemented for any initiative 5pt
+- Mention the cost and the resources should be planned for its implementation 5pt
+- Type of skill sets and recource will be required 5pt
