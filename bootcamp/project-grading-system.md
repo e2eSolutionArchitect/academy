@@ -3,11 +3,13 @@
 - e2eSA will have the permission to use as well as share the code and any project artifacts created by any project team. 
 
 
-***General*** 10%
+***Knock-out Criteria***
 
 - The project checkpoint documents are submitted before the due date
 - Project Proposal submitted on time
 - Project walkthough and solution demo conducted successfully 
+- Complete solution implemented
+- Project objects are 100% achieved as proposed in project proposal 
 
 ***Project Artifacts & Document Submission*** 40%
 
@@ -22,11 +24,11 @@
 - Run the code and create the solution by automation during demo
 - Solution should be highly available, secure, fault tolerant 
 
-***Solution Benefit*** 10%
+***Solution Benefit*** 15%
 
 - How it will solve any existing problem 
 
-***Execution Plan*** 10%
+***Execution Plan*** 15%
 
 - In a short turn around time how this solution can be implemented for any initiative
 - Mention the cost and the resources should be planned for its implementation
