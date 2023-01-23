@@ -29,5 +29,5 @@
 ***Execution Plan*** 10%
 
 - In a short turn around time how this solution can be implemented for any initiative
-- Mention the cost and the resources should planned for its implementation
+- Mention the cost and the resources should be planned for its implementation
 - Type of skill sets and recource will be required
