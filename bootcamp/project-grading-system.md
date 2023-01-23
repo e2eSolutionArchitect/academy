@@ -10,10 +10,14 @@
 - Project walkthough and solution demo conducted successfully 
 
 ***Document Submission*** 40%
+
 - Documents are well drafted as per the instruction
 - Solution is clearly explained
 - Step by step approach is mentioned with screenshots and code snippet (whereever required)
 - Anyone should be able to understand and implement the solution by reading the document
-- Code submitted to e2eSA
+- Code submitted
 
 ***Solution Walkthrough***
+
+- Run the code and create the solution by automation during demo
+- Solution should be highly available, secure, fault tolerant 
