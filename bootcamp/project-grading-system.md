@@ -1,7 +1,7 @@
 
 ***Critical***
 - e2eSA will have the permission to use as well as share the code and any project artifacts created by any project team. 
-- Only submit your project if you are agree with the [project sharing permissions]().  
+- Only submit your project if you are agree with the [project sharing permissions, terms and conditions](https://github.com/e2eSolutionArchitect/academy/blob/main/bootcamp/permissions-terms-conditions.md).  
 
 
 ***Knock-out Criteria*** ALL must be met
