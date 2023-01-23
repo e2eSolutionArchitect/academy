@@ -9,7 +9,7 @@
 - Project Proposal submitted on time
 - Project walkthough and solution demo conducted successfully 
 
-***Document Submission*** 40%
+***Project Artifacts & Document Submission*** 40%
 
 - Documents are well drafted as per the instruction
 - Solution is clearly explained
