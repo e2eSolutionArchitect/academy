@@ -35,8 +35,6 @@
 
 - Class 1: 
   - Course introduction
-  - Exam preparation Tips & Techniques
-  - Exam registration
   - Subscribe useful resources 
     - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
@@ -68,6 +66,7 @@
     - Log Analytics
     - Application Insights
     - Azure Monitor, Log Analytics
+  - In-class Quiz
 
 - Class 4: 
   - Azure Resource Template
