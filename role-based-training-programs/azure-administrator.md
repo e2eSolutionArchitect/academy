@@ -2,12 +2,6 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
-
-### [Microsoft Azure Administrator Exam](https://learn.microsoft.com/en-us/certifications/exams/az-104)
-
-## [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
-
 ***Skills measured***
 
 This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and review the study guide.
@@ -217,3 +211,12 @@ Required exams: ***AZ-104***
   - Remove Azure resources, Remove Billing info and Subscription (***Very IMPORTANT*** to avoid unwanted charges on credit card) 
 
 ![image](https://user-images.githubusercontent.com/62712515/212548348-bd4648df-3ae1-400f-8ffd-6716dc5276b2.png)
+
+## Whats next?
+
+## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
+
+### [Microsoft Azure Administrator Exam](https://learn.microsoft.com/en-us/certifications/exams/az-104)
+
+## [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+
