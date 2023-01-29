@@ -80,8 +80,6 @@
   - Certification guidance
   - Next step in cloud career
 
-![image](https://user-images.githubusercontent.com/62712515/212548348-bd4648df-3ae1-400f-8ffd-6716dc5276b2.png)
-
 ## Whats next?
 
 ## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
@@ -89,4 +87,6 @@
 ### [Microsoft Azure Administrator Exam](https://learn.microsoft.com/en-us/certifications/exams/az-104)
 
 ## [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+
+![image](https://user-images.githubusercontent.com/62712515/212548348-bd4648df-3ae1-400f-8ffd-6716dc5276b2.png)
 
