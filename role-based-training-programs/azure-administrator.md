@@ -46,6 +46,7 @@
   - Manage Azure identities and governance
   - Implement and manage storage
   - In-class Quiz
+  - Optional Project [click here](https://github.com/e2eSolutionArchitect/academy/tree/main/projects/azure/web-hosting). Use Azure ARM template.
 
 - Class 2: 
   - Configure and manage virtual networking
