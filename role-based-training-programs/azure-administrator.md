@@ -79,6 +79,7 @@
 - Class 5: 
   - Azure CICD, Azure DevSecOps.
   - Certification guidance
+  - Present project (optional)
   - Next step in cloud career
 
 ## Whats next?
