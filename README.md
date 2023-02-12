@@ -23,4 +23,10 @@ Join the ***Slack*** channel
 
 [![e2eSA CLOUD SKILLS BOOTCAMP](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)](https://github.com/e2eSolutionArchitect/academy/tree/main/bootcamp)
 
+## e2eSA CLOUD ESSENTIALS Open House sessions. Check the session schedule and register for FREE. Registration required. 
+
+
+[![e2eSA CLOUD ESSENTIALS Open House sessions](https://user-images.githubusercontent.com/62712515/218327365-1c6cc841-555b-4c11-b382-f68473ee864e.png)](https://e2esolutionarchitect.eventbrite.com/)
+
+
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
