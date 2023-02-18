@@ -8,11 +8,19 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 * Attendee must have registered the session [here](https://www.eventbrite.ca/e/cloud-essentials-open-house-e2e-solution-architect-tickets-551880177467?aff=ebdsoporgprofile)
 * Session is FREE but Only registered attendees will receive the meeting details
 * Attendees must have fundamental knowledge about Cloud 
+-------------------------
 
 ## Agenda for the upcoming session:
 * ***Topic:*** [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
 * ***Session***: 18th Feb 2013, 5:00PM Eastern Time
 * NOTE: Please check prerequistes and session agenda
+
+-------------------------
+### Resources:
+* e2eSA IT professional skill building programs [click here](https://e2esolutionarchitect.com/role-based-training-program/)
+* Git repository. [click here](https://github.com/e2eSolutionArchitect)
+* e2eSA Academy. [click here](https://github.com/e2eSolutionArchitect/academy)
+* Online video tutorials [click here](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
 
 
