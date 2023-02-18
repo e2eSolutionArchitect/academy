@@ -4,7 +4,7 @@
 
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
 
-***Prerequisites Open House:***
+### Prerequisites Open House:
 * Attendee must have registered the session [here](https://www.eventbrite.ca/e/cloud-essentials-open-house-e2e-solution-architect-tickets-551880177467?aff=ebdsoporgprofile)
 * Session is FREE but Only registered attendees will receive the meeting details
 * Attendees must have fundamental knowledge about Cloud 
@@ -12,5 +12,6 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 ## Agenda for the upcoming session:
 * ***Topic:*** [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
+* NOTE: Please check prerequistes and session agenda
 
 
