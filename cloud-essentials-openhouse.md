@@ -13,7 +13,7 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 ## Agenda for the upcoming session:
 * ***Topic:*** [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
-* ***Session***: 18th Feb 2013, 5:00PM Eastern Time
+* ***Session***: 19th Feb 2013, 5:30PM Eastern Time
 * NOTE: Please check prerequistes and session agenda
 
 -------------------------
