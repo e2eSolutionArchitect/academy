@@ -40,7 +40,8 @@
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Revise Azure Cloud Fundamentals
-    - Region, Availability Zone
+    - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure , 
+    - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
     - Azure portal walk through
   - Understanding Hierarchy, Management Groups
   - Azure Subscription
