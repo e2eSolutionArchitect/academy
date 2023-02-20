@@ -42,9 +42,10 @@
   - Revise Azure Cloud Fundamentals
     - Region, Availability Zone
     - Azure portal walk through
+  - Understanding Hierarchy, Management Groups
+  - Azure Subscription
+  - Identity and Access Management
   - Setup MFA for Azure portal (***Very IMPORTANT*** to avoid account hacking)
-  - Azure Subscription, Identity and Access Management
-  - Install PowerShell
   - Manage Azure identities and governance
   - Implement and manage storage
   - In-class Quiz
