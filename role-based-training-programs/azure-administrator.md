@@ -40,6 +40,8 @@
     - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
     - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Revise Azure Cloud Fundamentals
+    - Region, Availability Zone
+    - Azure portal walk through
   - Setup MFA for Azure portal (***Very IMPORTANT*** to avoid account hacking)
   - Azure Subscription, Identity and Access Management
   - Install PowerShell
