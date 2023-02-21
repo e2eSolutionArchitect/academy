@@ -58,7 +58,7 @@
     - CIDR notation
   - Deploy and manage Azure compute resources
   - Compute resources, Virtual Machine
-  - [Create a VM & Connect with putty](https://github.com/e2eSolutionArchitect/academy/blob/main/role-based-training-programs/azure-administrator.md)
+  - [Create a VM & Connect with putty](https://www.youtube.com/watch?v=iYfSMjbjL50&list=PLuBBTh-4TzDmj9c2kW24q5C2IfGXMMt4a)
   - Availability Sets 
   - Installing Internet Information Services
   - Connecting to the Virtual Machine
