@@ -46,7 +46,7 @@
   - Understanding Hierarchy, Management Groups
   - Azure Subscription
   - Identity and Access Management
-  - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
+  - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA)
   - [Setup MFA for Azure portal](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
   - Manage Azure identities and governance
   - Implement and manage storage
