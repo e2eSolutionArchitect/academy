@@ -67,6 +67,7 @@
   - In-class Quiz
     
 - Class 3: 
+  - Azure Policy
   - Monitor and maintain Azure resources
     - Azure Monitor
     - Azure Backup
