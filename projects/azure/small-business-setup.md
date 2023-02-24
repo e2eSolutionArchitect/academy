@@ -4,7 +4,8 @@
 |---|---|
 |  ***Description*** |  As a Cloud Engineer , you are assigned with a task to setup required infrastructure for a Small Business in Azure Cloud. | 
 | ***Business Case***  |  A Small Business Grocery shop 'DailyFresh' is new in town. As their name says, the deliver fresh vegetable to door steps based on the order they receive through their website. <br> The owner of the business has hired you as Cloud Engineer to setup the nacessary IT insfrastructure in Cloud to run this business |
-|  ***Regulatory Guidelines*** | <li> All infrastructure must be in Canada only <li> Data should not be stored out side Canada |
+|  ***Regulatory Guidelines*** | <li> All infrastructure must be in Canada region only <li> Data should not be stored out side Canada |
+|  ***Requirement*** | <li> Setup Organization hierarchy, Tenants, Management Group , Subscription. <li> Create two Users. One for application development. Another for managing Billing , Assign Roles, Enable MFA for every users |
 | ***Validation***  |  <li> Run ARM template/Terraform project to create the infratructure just by one-click. <li> Make minor change in index.html. push the change in Azure repo. <li> The pipeline should kickoff automatically to deploy the change .<li> Browse the url and the change should show. <li> Url should show the SSL lock icon indicating it is protected url |
 | ***Given***  |  Create an html file named 'index.html' with content > ``` <h1> Happy learning with e2e Solution Architect </h1>  ```  |
 | ***Cost***  |  <li> This project WILL INCUR COST for purchasing a domain as well as the Azure services you plan to use. <li> You can use your existing personal domain (if any)|
