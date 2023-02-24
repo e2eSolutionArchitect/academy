@@ -12,6 +12,6 @@
 | ***Pre-requisites***  |  <li> Azure portal access to implement the solution in your own Azure account <li> (Optional) A domain registered and available for use in this project  |
 | ***Artifacts to be submitted***  |  <li> Solution Design (only two slides ppt format)  <li> ARM template/Terraform project in your github public repository <li> A step by step clear documentation with screenshot in Markdown file. '.md' file for project documentation  <li> A max 5 minutes screen recording to show your implemetation and testing. |
 | ***Collaborate***  |  <li> Join the ***Slack** channel [here](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1), collaborate with others to create a great solution <li>  |
-| *** ***  |  <li>  <li>  |
+| *** ***  |  ***You are most welcome to enhance the project with more detail and wide capabilities*** |
   
   
