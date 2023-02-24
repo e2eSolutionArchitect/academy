@@ -86,7 +86,7 @@
 - Class 5: 
   - Azure CICD, Azure DevSecOps.
   - Certification guidance
-  - [Present project](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/small-business-setup.md) (optional)
+  - [Project](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/small-business-setup.md) (optional)
   - Next step in cloud career
 
 ## Whats next?
