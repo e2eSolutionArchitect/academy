@@ -5,22 +5,27 @@
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
 
 ### Prerequisites Open House:
-* Attendee must have registered the session [here](https://www.eventbrite.ca/e/cloud-essentials-open-house-e2e-solution-architect-tickets-551880177467?aff=ebdsoporgprofile)
+* Attendee must have registered for the session [here](https://www.eventbrite.ca/e/cloud-essentials-open-house-e2e-solution-architect-tickets-551880177467?aff=ebdsoporgprofile)
 * Session is FREE but Only registered attendees will receive the meeting details
-* Attendees must have fundamental knowledge about Cloud 
+* Attendees must have a fundamental knowledge of Cloud 
 -------------------------
 
 ## Agenda for the upcoming session:
+
+* ***Topic:*** [Azure Active Directory](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
+* ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
+* ***Session***: 25th Feb 2013, 5:30 PM Eastern Time
+* NOTE: Please check prerequisites and session agenda
+
+--------------
 * ***Topic:*** [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
-* ***Session***: 19th Feb 2013, 5:30PM Eastern Time
-* NOTE: Please check prerequistes and session agenda
+* ***Session***: 19th Feb 2013, 5:30 PM Eastern Time
+* NOTE: Please check prerequisites and session agenda
 
 -------------------------
 ### Resources:
-* e2eSA IT professional skill building programs [click here](https://e2esolutionarchitect.com/role-based-training-program/)
+* e2eSA IT professional skill-building programs [click here](https://e2esolutionarchitect.com/role-based-training-program/)
 * Git repository. [click here](https://github.com/e2eSolutionArchitect)
 * e2eSA Academy. [click here](https://github.com/e2eSolutionArchitect/academy)
 * Online video tutorials [click here](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-
-
