@@ -12,7 +12,7 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 
 ## Agenda for the upcoming session:
 
-* ***Topic:*** [Azure Active Directory](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
+* ***Topic:*** [Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
 * ***Session***: 25th Feb 2013, 5:30 PM Eastern Time
 * NOTE: Please check prerequisites and session agenda
