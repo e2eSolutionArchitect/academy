@@ -49,7 +49,7 @@
   - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA)
   - [Setup MFA for Azure portal](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
   - Manage Azure identities and governance
-  - Implement and manage storage
+  - [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
   - In-class Quiz
   - Optional Project [click here](https://github.com/e2eSolutionArchitect/academy/tree/main/projects/azure/web-hosting). Use Azure ARM template.
 
