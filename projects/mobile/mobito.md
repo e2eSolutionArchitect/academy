@@ -11,8 +11,8 @@
 
 
 ## Journey of John
-|  ***Steps*** |  ***Journey Description*** | ***Requirement*** | 
-|---|---|---|
+|  ***Steps*** |  ***Journey Description*** | 
+|---|---|
 | ***1*** |  John opens the app in his Android phone and login by 'Login by google' option |
 | ***2***  | John wanted to check the nearest gas station. He finds 5 gas stations near him from default search |
 | ***3***  | From the list view of the Gas stations, John clicks over one and open the Gas station details. It catches his attention that the Gas station has a fastfood store also. John browsed the gas station images  | 
@@ -23,8 +23,8 @@
 
 
 ## Journey of Sneha
-|  ***Steps*** |  ***Journey Description*** | ***Requirement*** | 
-|---|---|---|
+|  ***Steps*** |  ***Journey Description*** | 
+|---|---|
 | ***1*** | Sneha is at a Gas station. It is very near to her house but She is wondering why this station doesn't show in the app. She clicked the 'Add' button to add this Gas station in the App. Filled the Gas station name, address and gas station contact from the Gas receipt she had in hand.|
 | ***2***  | After she submitted the new Gas station details she received and email in her registered email that says Location verification pending and Please add Location image. She opened the app and under menu 'my locations' she found her newly added unpublished location. She opended that. she found a button 'Verify location'. On clicking the button it captured the recent location and matched with the address entered. Both matched. But still the 'Publish' button is disabled. The she clicked 'add photo' and took a photo of the gas station. The photo is now set as cover photo of the location and now the publish button is enabled. She clicked published |
 | ***3***  | After publish she get a congratulzation message with 100 Silver coins as reward. Wow. She checked that she can redeem the coins many ways, giftcard, movie ticket etc | 
