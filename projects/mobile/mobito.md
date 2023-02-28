@@ -3,9 +3,11 @@
 ## User experience Journey
 
 ## Personas
-|  ***Role*** |  ***Details*** | ***Requirement*** | 
+|  ***Personas*** |  ***Details*** | ***Requirement*** | 
 |---|---|---|
-| ***User***  |   <li> Name: John Doe</li>  <li> Location: Toronto </li> | <li> Owns a BMW SUV </li>  <li>  Drive very frequent</li> <li> Tech savy </li>|
+| ***App User***  |   <li> Name: John Doe</li>  <li> Location: Toronto </li> | <li> Owns a BMW SUV </li>  <li>  Drives very frequent</li> <li> Tech savy </li>|
+| ***App User***  |   <li> Name: Sneha Ray</li>  <li> Location: Ottawa </li> | <li> Owns a Tesla </li>  <li>  Drives during vacation</li> <li> Not Tech savy </li>|
+| ***App User***  |   <li> Name: Maria Lopez</li>  <li> Location: Calgary </li> | <li> Owns Hybrid Hyundai Sedan </li>  <li>  Drives very frequent</li> <li> Not Tech savy </li>|
 
 
 |  ***Steps*** |  ***JourneyDescription*** | ***Requirement*** | 
