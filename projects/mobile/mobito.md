@@ -18,6 +18,8 @@
 | ***3***  | From the list view of the Gas stations, John clicks over one and open the Gas station details. It catches his attention that the Gas station has a fastfood store also. John browsed the gas station images  | <li>  </li>  <li>  </li>|
 | ***4***  |  John checked the Gas station opening hours | <li>  </li>  <li>  </li>|
 | ***5***  |  John scrolled down and wanted to check the reviews and rating for this place  | <li> </li>  <li>  </li>|
+| ***6***  |  John found the Gas station will be closed in next 1 hr. He was curious. why so early? He clicked on the call button from the detail screen and the number picked up by his phone dialing. The receptionist picked up and said their hours of operation is 6am-10pm weekdays and 8am-7pm in weekends and holidays. | <li> </li>  <li>  </li>|
+| ***7***  |  John wanted to update the hours of operation for the location. He opened the app. selected the gas station and clicked 'request update'. The edit mode opened. He updated the hours of operation and added the note that what is updating and why. He submitted. It shows 'Update request has been submitted for verification and review'  | <li>  </li>  <li>  </li>|
 
 
 ## Journey of Sneha
