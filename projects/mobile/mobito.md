@@ -29,3 +29,14 @@
 | ***2***  | After she submitted the new Gas station details she received and email in her registered email that says Location verification pending and Please add Location image. She opened the app and under menu 'my locations' she found her newly added unpublished location. She opended that. she found a button 'Verify location'. On clicking the button it captured the recent location and matched with the address entered. Both matched. But still the 'Publish' button is disabled. The she clicked 'add photo' and took a photo of the gas station. The photo is now set as cover photo of the location and now the publish button is enabled. She clicked published |
 | ***3***  | After publish she get a congratulzation message with 100 Silver coins as reward. Wow. She checked that she can redeem the coins many ways, giftcard, movie ticket etc | 
 | ***4***  | She was excited to explore more ways to earn coins. She found 'Contribute as local guide' option in app. There were list of questions in Yes and No answer for the Gas station she visited. She completed all 5 questions and rewarded 10 coins | 
+
+
+## Journey of Maria
+|  ***Steps*** |  ***Journey Description*** | 
+|---|---|
+|  ***1***  | Maria is very new in this App. Her friend shared referral link and she downloaded from the apple store in her iPhone |
+|  ***2***  | Today in vacation she is driving to a new place. She opened the app and clicked the search option to search nearest Gas stations. She selected one and clicked on the 'Navigate' button. The app opended the google map and started navigation for that Gas station |
+|  ***3***  |  Once she is at the Gas station the app showed a popup showing a question 'Is the hourse of opetation accurate?' Yes/No. She checked the Gas receipt and found the hours of operation written there. She found it is correct as it is in the app. She clicked Yes. The popup closed and showed congratulation with 10 rewards coins |
+
+
+
