@@ -3,7 +3,7 @@
 ## User experience Journey
 
 ## Personas
-|  ***Personas*** |  ****** | ***Details*** | 
+|  ***Personas*** |   | ***Details*** | 
 |---|---|---|
 | ***App User***  |   <li> Name: John Doe</li>  <li> Location: Toronto </li> | <li> Owns a BMW SUV </li>  <li>  Drives very frequent</li> <li> Tech savy </li>|
 | ***App User***  |   <li> Name: Sneha Ray</li>  <li> Location: Ottawa </li> | <li> Owns a Tesla </li>  <li>  Drives during vacation</li> <li> Not Tech savy </li>|
