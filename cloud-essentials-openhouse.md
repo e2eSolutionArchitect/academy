@@ -14,6 +14,7 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 * ***Topic:*** [Azure Tenant,Management Group,Subscription ](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
 * ***Schedule***: [Click here](https://tinyurl.com/e2esa-openhouse)
+* ***Session***: 4th March 2023, 5:30 PM Eastern Time
 
 
 ## Past sessions
@@ -21,14 +22,14 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 
 * ***Topic:*** [Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview), [Policy Structure](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
-* ***Session***: 25th Feb 2013, 5:30 PM Eastern Time
+* ***Session***: 25th Feb 2023, 5:30 PM Eastern Time
 * ****Online Tutorial***: [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
 
 ______________
 
 * ***Topic:*** [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
-* ***Session***: 19th Feb 2013, 5:30 PM Eastern Time
+* ***Session***: 19th Feb 2023, 5:30 PM Eastern Time
 
 
 
