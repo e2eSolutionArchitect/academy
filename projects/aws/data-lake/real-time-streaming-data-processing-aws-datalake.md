@@ -8,3 +8,8 @@
 |  ***Approach 3*** | <li> Ingest data from real time streaming using Amazon Kinesis|  |
 |  ***Approach 4*** | <li> Ingest data from real time streaming using Amazon Managed Kafka |  |
 
+  
+|   |   |   |
+|---|---|---|
+|  ***Data Processing*** |  Process data, Transform and Store in Clean Zone |  |
+|  ***Approach 1*** | <li> todo |   |
