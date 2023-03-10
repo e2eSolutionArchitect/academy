@@ -1,4 +1,4 @@
-## Project name: AWS DATA LAKE - Multiple approaches conbined
+## Project name: AWS DATA LAKE - Multiple approaches conbimed
 
 |   |   |   |
 |---|---|---|
