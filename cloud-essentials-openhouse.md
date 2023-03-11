@@ -14,7 +14,6 @@ Please visit https://e2esolutionarchitect.com. Feel free to write us for any que
 * ***Topic:*** [Azure Tenant,Management Group,Subscription ](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
 * ***Cloud provider:*** [Azure](https://portal.azure.com/#home)
 * ***Schedule***: [Click here](https://tinyurl.com/e2esa-openhouse)
-* ***Session***: 4th March 2023, 5:30 PM Eastern Time
 
 
 ## Past sessions
