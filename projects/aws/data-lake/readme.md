@@ -14,3 +14,10 @@
 |---|---|---|
 |  ***Data Processing*** |  Process data, Transform and Store in Clean Zone |  |
 |  ***Approach 1*** | <li> todo |   |
+
+
+|   |   |   |
+|---|---|---|
+|  ***Analytics*** | Integrate Tableau with Amazon Redshift | [Click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/aws/data-lake/integrate-tableau-with-amazon-redshift.md) |
+
+
