@@ -2,7 +2,7 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: Cloud crash course (AWS/Azure/GC) for beginners. 
+## Program name: Weekend Cloud Crash Course (AWS/Azure/GC) for beginners. 
 
 ## Program Agenda:
 
