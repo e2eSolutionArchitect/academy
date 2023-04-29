@@ -27,6 +27,9 @@
 ----------------------------
 ### Eligibility for attending this training program
 - Fresh graduates, Working professionals or any one interested in IT field. 
+- No prior knowledge is required for Cloud. 
+- Candidates must carry there own laptop.
+- WiFi may or may not be available in venue. Please use own mobile hotspot for internet connection.
 ----------------------------
 
 ### How to register for this training program
