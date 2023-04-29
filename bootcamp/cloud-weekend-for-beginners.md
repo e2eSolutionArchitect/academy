@@ -9,7 +9,7 @@
 - What is Cloud? Cloud basics.
 - Why Cloud technology is important? 
 - How learning Cloud technology helps your career growth? Career path in Cloud technology.
-- Which Cloud to learn (AWS/Azure/Google cloud) ? and Why? Should I learn all three or anyone?
+- Which Cloud to learn (AWS/Azure/Google cloud) ? and Why? Should you learn all three or any particular cloud?
 - What are the job opportunities in Cloud field?
 - Cloud popular services and usages. Compute, Storage, Monitoring.
 - Hands-on workshop to create a small cloud project.
