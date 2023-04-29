@@ -36,6 +36,8 @@
 
 ### Pre-requisites: 
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
+- [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+- [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
 
 ----------------------------
 
@@ -43,6 +45,7 @@
 
 - This training program is ***in-person***.
 - Total 2 classes. Each class length is 3 hours.
+- Light refreshments can be available in session. 
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maxium whiteboard session, hands-on instruction and interactive discussion. 
