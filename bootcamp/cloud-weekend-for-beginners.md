@@ -48,7 +48,7 @@
 
 - This training program is ***in-person***.
 - Total 2 classes. Each class length is 3 hours.
-- Light refreshments can be available in session. 
+- Light refreshments can be available during session. 
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maxium whiteboard session, hands-on instruction and interactive discussion. 
