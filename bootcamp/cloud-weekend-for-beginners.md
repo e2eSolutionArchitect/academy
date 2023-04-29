@@ -2,24 +2,16 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/): Certification focused Training Program by ['e2e Solution Architect'](https://e2esolutionarchitect.com/role-based-training-program/)
-
-### [Microsoft Azure Administrator Exam](https://learn.microsoft.com/en-us/certifications/exams/az-104)
-
-## [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+## Program name: Cloud crash course for beginners. 
 
 ***Skills measured***
 
-This list contains the skills measured on the exam associated with this certification. For more detailed information, visit the exam details page and review the study guide.
-- Manage Azure identities and governance
-- Implement and manage storage
-- Deploy and manage Azure compute resources
-- Configure and manage virtual networking
-- Monitor and maintain Azure resources
-
-***Job role:*** Administrator
-
-Required exams: ***AZ-104***
+- What is Cloud? Why Cloud technology is important? 
+- How learning Cloud technology helps your career growth? Career path in Cloud technology. 
+- Cloud popular services and usages. Compute, Storage, Monitoring.
+- Hands-on workshop to create a small cloud project.
+- Cloud Certification instruction, Certification path and exam tips.
+- Role based and Certification focussed training programs overview.
 
 ----------------------------
 ### About this training program
