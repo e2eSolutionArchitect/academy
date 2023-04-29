@@ -2,12 +2,14 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: Cloud crash course for beginners. 
+## Program name: Cloud crash course (AWS/Azure/GC) for beginners. 
 
-***Skills measured***
+## Program Agenda:
 
 - What is Cloud? Why Cloud technology is important? 
-- How learning Cloud technology helps your career growth? Career path in Cloud technology. 
+- How learning Cloud technology helps your career growth? Career path in Cloud technology.
+- Which Cloud to learn (AWS/Azure/Google cloud) ? and Why? Should I learn all three or anyone?
+- What are the job opportunities in Cloud field?
 - Cloud popular services and usages. Compute, Storage, Monitoring.
 - Hands-on workshop to create a small cloud project.
 - Cloud Certification instruction, Certification path and exam tips.
@@ -17,43 +19,34 @@
 ### About this training program
 
 ***IMPORTANT***
-- Role based training is Week 1 to 4
-- Certification based training is Week 5 to 12
-- Dual is Week 1 to 12
+- It is a weekend Programme. Saturday & Sunday. 3+3 hours Total.
+- Programme is specifically focussed on beginners in Cloud Technology. 
+- The programme contains hands-on workshop. 
 
 ----------------------------
 ### Eligibility for attending this training program
-
+- Fresh graduates, Working professionals or any one interested in IT field. 
 ----------------------------
 
 ### How to register for this training program
-
+- ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for registering the weekend bootcamp.
 - Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have Azure fundamental knowledge to join Microsoft Azure Administrator training program
-(***Before*** the first day of class)
-- Please make sure you are able to access Microsoft Azure portal. Check steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/AZ-900/azure-portal-registration.md)
-- Please register for [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-104) certification.
-- Please check the exam registration steps [here](https://github.com/e2eSolutionArchitect/academy/blob/main/certification-based-training-programs/azure/microsoft-certification-registration-steps.md). Make sure you register for ***Microsoft Certified: Azure Fundamentals***
-- Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
-- Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
-
 
 ----------------------------
 
 ## Training format & Important notes:
 
-- This training program is completely online.
-- Total 32 classes (8 Role based + 24 Certification based). Each class length is 2 hours including 15 mins break.
-- Training duration 2 to 3 months maximum. 
+- This training program is ***in-person***.
+- Total 2 classes. Each class length is 3 hours.
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
-- This program doesn't include any dedicated study material. Maxium whiteboard session and interactive discussion. 
+- This program doesn't include any dedicated study material. Maxium whiteboard session, hands-on instruction and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
 - This program starts by registering for your certification exam for seriousness. 
-- Certification exam cost is NOT included in training fees.  
+- For bootcamp training fees please check the registration link above.   
 
-## Program Agenda:
+
