@@ -6,7 +6,7 @@
 
 ## Program Agenda:
 
-- What is Cloud? Clud basics.
+- What is Cloud? Cloud basics.
 - Why Cloud technology is important? 
 - How learning Cloud technology helps your career growth? Career path in Cloud technology.
 - Which Cloud to learn (AWS/Azure/Google cloud) ? and Why? Should I learn all three or anyone?
