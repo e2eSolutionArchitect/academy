@@ -64,6 +64,33 @@
 
 ## Program Agenda:
 
-***Week 1:*** (Lab & Theory)
-- Class 1: 
-  - Course introduction
+*** Class 1: ***
+- Revise AWS Cloud Fundamentals
+- Setup MFA for AWS portal (Very IMPORTANT to avoid account hacking)
+- AWS Identity and Access Management, User, Role, Policy creation, Tag Management
+- AWS Major services walkthrough
+
+*** Class 2:
+- Implement and manage storage in AWS Cloud
+- VPC, Subnet, Security Groups
+- CIDR notation
+- Network hardening
+
+*** Class 3:
+- Compute resources, Virtual Machine
+- Autoscaling
+- AWS best practices
+- Connecting to the Virtual Machine, Update VMs
+
+*** Class 4:
+- Infratructure as Code,Cloud Formation, Stack creation
+- Image registry, Container Groups
+- Containerized services, EKS, ECS
+- Deploy and manage AWS compute resources
+
+*** Class 5:
+- Monitor and maintain AWS resources
+- Career guidance for next steps
+- Hands-on workshop to create a small AWS Cloud project.
+- Cloud Certification instruction, Certification path and exam tips.
+- Role based and Certification focussed training programs overview.                              
