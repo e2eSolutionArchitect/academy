@@ -10,6 +10,7 @@ Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/)
 - Mode of Bootcamp will be hybrid. Online and In-person team. 
 - In-person camp will be in Toronto/GTA, Canada.
 
+**Check these training programs here** https://e2esolutionarchitect.eventbrite.ca/
 
 [![e2eSA Talent Development Programs](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47550661-2ced-4bb8-bef3-0b8bc0b17f30)](https://www.eventbrite.ca/e/5-days-azure-bootcamp-for-it-professionals-class-room-in-toronto-gta-tickets-634071002437)
 
