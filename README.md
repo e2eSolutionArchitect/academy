@@ -25,6 +25,16 @@ Join the ***Slack*** channel
 
 [![e2eSA CLOUD SKILLS BOOTCAMP](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)](https://github.com/e2eSolutionArchitect/academy/tree/main/bootcamp)
 
+**Check these training programs here** https://e2esolutionarchitect.eventbrite.ca/
+
+[![e2eSA Talent Development Programs](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47550661-2ced-4bb8-bef3-0b8bc0b17f30)](https://www.eventbrite.ca/e/5-days-azure-bootcamp-for-it-professionals-class-room-in-toronto-gta-tickets-634071002437)
+
+[![e2eSA Talent Development Programs](https://github.com/e2eSolutionArchitect/academy/assets/62712515/da74627c-afb3-4940-9b9f-9cce6d915379)](https://www.eventbrite.ca/e/5-days-aws-bootcamp-for-it-professionals-class-room-in-toronto-gta-tickets-636097553907?aff=ebdsoporgprofile)
+
+[![e2eSA Talent Development Programs](https://github.com/e2eSolutionArchitect/academy/assets/62712515/76c89573-ac2c-4ad0-ae16-0eb37ce94d87)](https://www.eventbrite.ca/e/7-days-data-science-bootcamp-for-it-professionalsclassroom-in-toronto-gta-tickets-641606832307?aff=ebdsoporgprofile)
+
+
+
 ## e2eSA CLOUD ESSENTIALS Open House sessions. Check the session schedule and register for FREE. Registration required. 
 
 
