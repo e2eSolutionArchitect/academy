@@ -5,7 +5,7 @@ If you are following ***e2eSA Academy*** you will get notification.
 
 Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/)
 
-![image](https://user-images.githubusercontent.com/62712515/213931902-aa4143d0-760f-4fd4-9886-7d7d99ef9ec4.png)
+![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/academy/assets/62712515/958e06aa-d683-4989-b0ee-f00027ee0272)
 
 - Mode of Bootcamp will be hybrid. Online and In-person team. 
 - In-person camp will be in Toronto/GTA, Canada.
