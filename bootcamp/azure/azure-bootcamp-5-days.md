@@ -1,7 +1,7 @@
 [![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47550661-2ced-4bb8-bef3-0b8bc0b17f30)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: AWS Boot camp for AWS Architects
+## Program name: Azure Bootcamp for IT Professionals and IT Graduates
 
 ----------------------------
 ### About this training program
@@ -24,10 +24,10 @@
 ### Pre-requisites: 
 - Candidate MUST have Cloud fundamental knowledge to join AWs Boot camp program
 (***Before*** the first day of class)
-- Please make sure you are able to access AWS Management portal. 
+- Please make sure you are able to access Azure Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
-- Join Slack Channel [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
+- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
 
 
 ----------------------------
@@ -64,13 +64,13 @@
 ## Program Agenda:
 
 ***Class 1:***
-- Revise AWS Cloud Fundamentals
-- Setup MFA for AWS portal (Very IMPORTANT to avoid account hacking)
-- AWS Identity and Access Management, User, Role, Policy creation, Tag Management
-- AWS Major services walkthrough
+- Revise Azure Cloud Fundamentals
+- Setup MFA for Azure portal (Very IMPORTANT to avoid account hacking)
+- Azure Identity and Access Management, User, Role, Policy creation, Tag Management
+- Azure Major services walkthrough
 
 ***Class 2:***
-- Implement and manage storage in AWS Cloud
+- Implement and manage storage in Azure Cloud
 - VPC, Subnet, Security Groups
 - CIDR notation
 - Network hardening
@@ -78,18 +78,18 @@
 ***Class 3:***
 - Compute resources, Virtual Machine
 - Autoscaling
-- AWS best practices
+- Azure best practices
 - Connecting to the Virtual Machine, Update VMs
 
 ***Class 4:***
 - Infratructure as Code,Cloud Formation, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
-- Deploy and manage AWS compute resources
+- Deploy and manage Azure compute resources
 
 ***Class 5:***
-- Monitor and maintain AWS resources
+- Monitor and maintain Azure resources
 - Career guidance for next steps
-- Hands-on workshop to create a small AWS Cloud project.
+- Hands-on workshop to create a small Azure Cloud project.
 - Cloud Certification instruction, Certification path and exam tips.
 - Role based and Certification focussed training programs overview.                     
