@@ -96,7 +96,7 @@
   - In-class Quiz
 
 ***Class 4:***
-- Infrastructure as Code,Cloud Formation, Stack creation
+- Infrastructure as Code, Azure RM, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage Azure compute resources
