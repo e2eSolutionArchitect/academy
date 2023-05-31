@@ -5,6 +5,7 @@ If you are following ***e2eSA Academy*** you will get notification.
 
 Visit [e2e Solution Architect Forum](https://e2esolutionarchitect.com/)
 
+
 [![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
 
 - Mode of Bootcamp will be hybrid. Online and In-person team. 
