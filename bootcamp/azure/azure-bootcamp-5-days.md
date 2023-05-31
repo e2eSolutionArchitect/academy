@@ -69,11 +69,38 @@
 - Azure Identity and Access Management, User, Role, Policy creation, Tag Management
 - Azure Major services walkthrough
 
+***Class 1:***
+  - Course introduction
+  - Subscribe useful resources 
+    - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+    - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
+    - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+  - Revise Azure Cloud Fundamentals
+    - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
+    - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
+    - Azure portal walk through
+  - Understanding Hierarchy, Management Groups
+  - Azure Subscription
+  - Identity and Access Management
+  - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA)
+  - [Setup MFA for Azure portal](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
+  - Manage Azure identities and governance
+  - [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
+  - In-class Quiz
+  - Optional Project [click here](https://github.com/e2eSolutionArchitect/academy/tree/main/projects/azure/web-hosting). Use Azure ARM template.
+
 ***Class 2:***
-- Implement and manage storage in Azure Cloud
-- VPC, Subnet, Security Groups
-- CIDR notation
-- Network hardening
+  - Configure and manage virtual networking
+    - Vnet, Subnet, Network Security Groups
+    - CIDR notation
+  - Deploy and manage Azure compute resources
+  - Compute resources, Virtual Machine
+  - [Create a VM & Connect with putty](https://www.youtube.com/watch?v=iYfSMjbjL50&list=PLuBBTh-4TzDmj9c2kW24q5C2IfGXMMt4a)
+  - Availability Sets 
+  - Installing Internet Information Services
+  - Connecting to the Virtual Machine
+  - Bastion Service, Scale Set
+  - In-class Quiz
 
 ***Class 3:***
 - Compute resources, Virtual Machine
