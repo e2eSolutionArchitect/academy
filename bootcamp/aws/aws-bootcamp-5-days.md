@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/62712515/224561412-dfbc0c5c-6c4c-439d-87f3-e35ed564a5c1.png)
+![![image](https://user-images.githubusercontent.com/62712515/224561412-dfbc0c5c-6c4c-439d-87f3-e35ed564a5c1.png)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
 ## Program name: AWS Boot camp for AWS Architects
