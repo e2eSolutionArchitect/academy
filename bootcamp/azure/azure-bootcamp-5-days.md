@@ -22,7 +22,7 @@
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have Cloud fundamental knowledge to join AWs Boot camp program
+- Candidate MUST have at least basic Cloud fundamental knowledge to join Azure Boot camp program
 (***Before*** the first day of class)
 - Please make sure you are able to access Azure Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
@@ -87,7 +87,7 @@
   - Manage Azure identities and governance
   - [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
   - In-class Quiz
-  - Optional Project [click here](https://github.com/e2eSolutionArchitect/academy/tree/main/projects/azure/web-hosting). Use Azure ARM template.
+  - Project [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/small-business-setup.md). Use Azure ARM template.
 
 ***Class 2:***
   - Configure and manage virtual networking
@@ -103,21 +103,25 @@
   - In-class Quiz
 
 ***Class 3:***
-- Compute resources, Virtual Machine
-- Autoscaling
-- Azure best practices
-- Connecting to the Virtual Machine, Update VMs
+  - Monitor and maintain Azure resources
+    - Azure Monitor
+    - Azure Backup
+    - Log Analytics
+    - Application Insights
+    - Azure Monitor, Log Analytics
+  - In-class Quiz
 
 ***Class 4:***
 - Infratructure as Code,Cloud Formation, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage Azure compute resources
+- Azure CICD, Azure DevSecOps.
+- In-class Quiz
 
 ***Class 5:***
-- Monitor and maintain Azure resources
+- Review & Feedback of gievn project
 - Career guidance for next steps
-- Hands-on workshop to create a small Azure Cloud project.
 - Cloud Certification instruction, Certification path and exam tips.
 - Role based and Certification focussed training programs overview.    
 
