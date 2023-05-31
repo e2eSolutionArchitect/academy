@@ -53,10 +53,10 @@
 ----------------------------
 
 ## Project Submission
-- An industry standard project will be assigned during second-last week of the Role based training program
-- Candidates have to submit the project one day before the last class of the role based training program
+- An industry standard project will be assigned first day of the training program. It can be team based or individual.
+- Candidates have to submit the project one day before the final day of the program.
 - Document and submit the project as per the guideline mentioned [here]
-- Feedback, Comments and grading will be shared and discussed during last class of role based program
+- Feedback, Comments and grading will be shared and discussed during last class of the program.
 
 ## Program Agenda:
 
