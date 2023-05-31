@@ -24,6 +24,7 @@
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
+- All Communication during bootcamp will be through this Slack Channel [Azure Bootcamp Jul 2k23 Group](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
 - Subscribe useful resources 
   - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
   - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
