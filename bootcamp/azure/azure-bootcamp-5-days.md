@@ -107,10 +107,12 @@
 - In-class Quiz
 
 ***Class 5:***
-- Review & Feedback of gievn project
+- Review & Feedback on given project
 - Career guidance for next steps
+- Job Opportunity, Where and How to look for it.
 - Cloud Certification instruction, Certification path and exam tips.
-- Role based and Certification focussed training programs overview.    
+- Introduction aboutt Role based and Certification focussed training programs overview.
+- Introduction about Interview prep coaching.     
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 [![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
