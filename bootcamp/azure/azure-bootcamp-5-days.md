@@ -61,7 +61,7 @@
 ## Program Agenda:
 
 ***Class 1:***
-  - Course introduction
+  - Course Introduction
   - Revise Azure Cloud Fundamentals
     - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
     - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
@@ -99,7 +99,7 @@
   - In-class Quiz
 
 ***Class 4:***
-- Infratructure as Code,Cloud Formation, Stack creation
+- Infrastructure as Code,Cloud Formation, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage Azure compute resources
