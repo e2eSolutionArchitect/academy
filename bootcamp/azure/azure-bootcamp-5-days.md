@@ -33,9 +33,7 @@
 
 ## Training format & Important notes:
 
-- This training program is completely online.
 - Total 5 classes Each class length is 2 hours including 15 mins break.
-- Training duration 10 hours distributed across 1 to 2 weeks maximum.
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
