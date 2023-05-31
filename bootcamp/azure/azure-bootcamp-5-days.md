@@ -13,22 +13,21 @@
 
 ----------------------------
 ### Eligibility for attending this training program
-
-----------------------------
-
-### How to register for this training program
-
-- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
+- IT working Professionals, University Graduates , People interested to change role to IT
+- At least very basic understanding of Cloud. (e,g What is Cloud, Benefits of Cloud)
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have at least basic Cloud fundamental knowledge to join Azure Boot camp program
+- Candidate MUST have at least basic Cloud fundamental knowledge to join Azure Bootcamp program
 (***Before*** the first day of class)
 - Please make sure you are able to access Azure Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
-- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
-
+- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
+- Subscribe useful resources 
+  - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+  - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
+  - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 ----------------------------
 
@@ -58,23 +57,11 @@
 - Candidates have to submit the project one day before the last class of the role based training program
 - Document and submit the project as per the guideline mentioned [here]
 - Feedback, Comments and grading will be shared and discussed during last class of role based program
-- 
-
 
 ## Program Agenda:
 
 ***Class 1:***
-- Revise Azure Cloud Fundamentals
-- Setup MFA for Azure portal (Very IMPORTANT to avoid account hacking)
-- Azure Identity and Access Management, User, Role, Policy creation, Tag Management
-- Azure Major services walkthrough
-
-***Class 1:***
   - Course introduction
-  - Subscribe useful resources 
-    - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
-    - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-    - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
   - Revise Azure Cloud Fundamentals
     - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
     - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
