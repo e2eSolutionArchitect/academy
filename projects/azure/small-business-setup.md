@@ -32,8 +32,8 @@
 
 ## Assignments
 
-|  ***Team*** |  ***Area*** |  ***Tasks*** |
+|  ***Team*** |  ***Area*** |  ***Tasks*** | *** *** |
 |---|---|---|
-|  ***Cloud Governance Team (CG)*** | ***Governance***  | <li> Create 2 Subscriptions, 1 Management Group <li> Setup billing and budget <li> Define organization standards in plain text. Security team will implement these as Azure Policy |
-|  ***Cloud Security Team (CS)*** | ***Security***  | <li>  Create two Users. One for application development. Another for managing Billing , Assign Roles, Enable MFA for every users <li> Setup organization policy mentioned by Governance team <li> Setup security policy for network hardening
-| *** ***  |  *** *** |  *** *** |
+|  ***Cloud Governance Team (CG)*** | ***Governance***  | <li> Create TWO Subscriptions, ONE Management Group <li> Setup billing and budget <li> Define organization standards in plain text. Security team will implement these as Azure Policy | <li> Billing for Non prod and prod should be separate|
+|  ***Cloud Security Team (CS)*** | ***Security***  | <li>  Create one user for each team-role with least-required priviledge. Assign Roles, Enable MFA for every users <li> Setup organization policy mentioned by Governance team <li> Setup security policy for network hardening | |
+| *** ***  |  *** *** |  *** *** | |
