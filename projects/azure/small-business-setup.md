@@ -16,12 +16,23 @@
 | *** ***  |  ***You are most welcome to enhance the project with more detail and wide capabilities*** |
 
 
-|   |   |
+## Team
+
 |---|---|
 |  ***Team*** |  This project can be done in Team. Team will be formed with mix of expertise | 
+|  ***Cloud Governance Team (CG)*** |  ***Roles & Responsibility*** <br><li> Create Subscription, Management Group and perform RBAC<li> Setup billing and budget |
 |  ***Cloud Security Team (CS)*** |  ***Roles & Responsibility*** <br><li> Create Users, Role. <li> Define and setup organizational policy and standard <li> Define cloud security constructs like VNET, Subnet, Security Groups, WAF etc |
 |  ***Cloud Infrastructure Team (CI)*** |  ***Roles & Responsibility*** <br><li> Provision cloud resources, setup and configure | 
 |  ***Cloud DevSecOps Team (DSO)*** |  ***Roles & Responsibility*** <br><li>  Automate Build, Deploy, Testing & Monitoring of any app. Setup security practice throughout the Continuous Integration & Continuous Deployment |
-|  ***Cloud Governance & Monitoring Team (GM)*** |  ***Roles & Responsibility*** <br><li> Create Subscription, Management Group and perform RBAC<li> Setup billing and budget |
+|  ***Cloud Monitoring Team (CM)*** |  ***Roles & Responsibility*** <br><li> Create Subscription, Management Group and perform RBAC<li> Setup billing and budget |
 |  ***Cloud Application Developer Team (AD)*** |  ***Roles & Responsibility*** <br><li> Develop cloud compatible web app in Angular/React or springboot |
 | *** ***  |  *** *** |
+
+
+## Assignments
+
+|  ***Team*** |  ***Area*** |  ***Tasks*** |
+|---|---|---|
+|  ***Cloud Governance Team (CG)*** | ***Governance***  | <li> Create 2 Subscriptions, 1 Management Group <li> Setup billing and budget <li> Define organization standards in plain text. Security team will implement these as Azure Policy |
+|  ***Cloud Security Team (CS)*** | ***Security***  | <li>  Create two Users. One for application development. Another for managing Billing , Assign Roles, Enable MFA for every users <li> Setup organization policy mentioned by Governance team <li> Setup security policy for network hardening
+| *** ***  |  *** *** |  *** *** |
