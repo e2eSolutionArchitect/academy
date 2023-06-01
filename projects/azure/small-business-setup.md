@@ -18,9 +18,10 @@
 
 ## Team
 
+|   |   |
 |---|---|
 |  ***Team*** |  This project can be done in Team. Team will be formed with mix of expertise | 
-|  ***Cloud Governance Team (CG)*** |  ***Roles & Responsibility*** <br><li> Create Subscription, Management Group and perform RBAC<li> Setup billing and budget |
+|  ***Cloud Governance Team (CG)*** |  ***Roles & Responsibility*** <br><li> Create Subscription, Management Group and perform RBAC <li> Setup billing and budget |
 |  ***Cloud Security Team (CS)*** |  ***Roles & Responsibility*** <br><li> Create Users, Role. <li> Define and setup organizational policy and standard <li> Define cloud security constructs like VNET, Subnet, Security Groups, WAF etc |
 |  ***Cloud Infrastructure Team (CI)*** |  ***Roles & Responsibility*** <br><li> Provision cloud resources, setup and configure | 
 |  ***Cloud DevSecOps Team (DSO)*** |  ***Roles & Responsibility*** <br><li>  Automate Build, Deploy, Testing & Monitoring of any app. Setup security practice throughout the Continuous Integration & Continuous Deployment |
