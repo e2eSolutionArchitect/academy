@@ -102,7 +102,8 @@
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage Azure compute resources
-- Azure CICD, Azure DevSecOps.
+- Azure CICD, Azure DevSecOps
+- [Azure Pipeline](https://github.com/e2eSolutionArchitect/scripts/blob/main/azure/ado-pipeline.md)
 - In-class Quiz
 
 ***Class 5:***
