@@ -40,7 +40,7 @@
 - Training duration 1 to 2 weeks maximum.
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
-- This program doesn't include any dedicated study material. Maxium whiteboard session and interactive discussion. 
+- This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
 - Certification exam cost is NOT included in training fees.  
 
@@ -48,7 +48,7 @@
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- Markdown file should contain the assignment problem, Each and every steps to create the solution with screenshot and code snippet where ever required.
+- Markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
