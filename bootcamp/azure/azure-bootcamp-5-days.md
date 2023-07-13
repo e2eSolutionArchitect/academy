@@ -14,13 +14,13 @@
 ----------------------------
 ### Eligibility for attending this training program
 - IT working Professionals, University Graduates, People interested to change roles to IT
-- At least a very basic understanding of Cloud. (e,g What is Cloud, Benefits of Cloud)
+- At least a very basic understanding of the Cloud. (e,g What is Cloud, Benefits of Cloud)
 ----------------------------
 
 ### Pre-requisites: 
 - Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure Bootcamp program
 (***Before*** the first day of class)
-- Please make sure you are able to access Azure Management portal. 
+- Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
