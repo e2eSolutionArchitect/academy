@@ -30,6 +30,7 @@
   - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
   - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
   - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+  - Apply access to [bootcamp repository](https://github.com/e2eSolutionArchitect/azure-cloud-bootcamp)
 
 ----------------------------
 
