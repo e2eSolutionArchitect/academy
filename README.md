@@ -46,5 +46,6 @@ Join the ***Slack*** channel
 [![e2eSA CLOUD ESSENTIALS Open House sessions](https://user-images.githubusercontent.com/62712515/218327365-1c6cc841-555b-4c11-b382-f68473ee864e.png)](https://e2esolutionarchitect.eventbrite.com/)
 [Click here](https://github.com/e2eSolutionArchitect/academy/blob/main/cloud-essentials-openhouse.md)
 
+![image](https://github.com/e2eSolutionArchitect/academy/assets/8308302/10451fed-8d1a-4b29-bbd3-9e263fae66c1)
 
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
