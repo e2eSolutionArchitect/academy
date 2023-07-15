@@ -6,6 +6,9 @@ e2eSA (End To End Solution Architect)  Training Program is an intense, career-fo
 
 [![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
 
+
+[![HELPLINE](https://github.com/e2eSolutionArchitect/academy/assets/8308302/3b85acaf-50f5-4a4f-850d-46216de108af)](Helpline)(https://e2esolutionarchitect.com/helpline/)
+
 ***Weekend Cloud Crash Course*** [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/bootcamp/cloud-weekend-for-beginners.md)
 
 [![e2eSA Talent Development Programs](https://user-images.githubusercontent.com/62712515/212548238-92365832-fe03-47c7-8c06-701834a67ebf.png)](https://github.com/e2eSolutionArchitect/academy)
