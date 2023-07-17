@@ -104,6 +104,7 @@
 - Containerized services, EKS, ECS
 - Deploy and manage Azure compute resources
 - Azure CICD, Azure DevSecOps
+- Cloud Architect's HELPLINE and CoPilot Program
 - [Azure Pipeline](https://github.com/e2eSolutionArchitect/scripts/blob/main/azure/ado-pipeline.md)
 - In-class Quiz
 
