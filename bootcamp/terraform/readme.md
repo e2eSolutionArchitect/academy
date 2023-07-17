@@ -2,13 +2,13 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: Azure Bootcamp for IT Professionals and IT Graduates
+## Program name: Terraform (Infrastructure as Code) Bootcamp for IT Professionals and IT Graduates
 
 ----------------------------
 ### About this training program
 
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
+- Bootcamp is a ***HYBRID WORKSHOP*** program. Classroom & Online. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
 - Attendance is required in every session
 - Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
 
@@ -24,7 +24,7 @@
 - Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
-- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
+- Join Slack Channel [Infrastructure Engineering](https://talentdevelop-u8d3237.slack.com/archives/C05H77HSV5L)
 - All Communication during Bootcamp will be through this Slack Channel [Azure Bootcamp Jul 2k23 Group](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
 - Download and Install Putty & PuttGen [click here](https://www.puttygen.com/)
 - Subscribe to useful resources 
