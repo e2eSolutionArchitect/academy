@@ -9,8 +9,10 @@
 
 ***IMPORTANT***
 - Bootcamp is a ***HYBRID WORKSHOP*** program. Classroom & Online. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
-- Attendance is required in every session
-- Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
+- Attendance is required in every session.
+- Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion.
+- Access to the materials is limited to the bootcamp only.
+- Slack channel access will continue for any future queries.    
 
 ----------------------------
 ### Eligibility for attending this training program
@@ -63,58 +65,41 @@
 
 ***Class 1:***
   - Course Introduction
-  - Revise Azure Cloud Fundamentals
-    - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
-    - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
-    - Azure portal walkthrough
-  - Understanding Hierarchy, Management Groups
-  - Azure Subscription
-  - Identity and Access Management
-  - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA)
-  - [Setup MFA for Azure portal](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
-  - Manage Azure identities and governance
-  - [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
+  - Infrastructure as Code concepts and Fundamentals
+  - ***Terraform OSS*** setup
+  - Terraform state
+  - Automate provisioning of VM  in AWS/Azure/GC
+  - Understand Terraform Module
+  - Configure Terraform Backend in AWS/Azure/GC
+  - Loops, Set, List, Map in Terraform
+  - Project walkthrough for the bootcamp
   - In-class Quiz
-  - Project [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/small-business-setup.md). Use Azure ARM template.
 
 ***Class 2:***
-  - Azure Active Directory Design, Typical Org structure, Program/Project Governance Model
-  - [Create a Virtual Machine](https://www.youtube.com/watch?v=iYfSMjbjL50) in Azure
-  - Configure and manage virtual networking
-    - Vnet, Subnet, Network Security Groups
-    - CIDR notation, [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
-  - [Install Java in VM](https://github.com/e2eSolutionArchitect/scripts/blob/main/java/java-install.md), [Apache Tomcat](https://github.com/e2eSolutionArchitect/scripts/blob/main/tomcat/install-tomcat.md)
-  - Deploy and manage Azure compute resources
-  - Compute resources, Virtual Machine
-  - [Create a VM & Connect with putty](https://www.youtube.com/watch?v=iYfSMjbjL50&list=PLuBBTh-4TzDmj9c2kW24q5C2IfGXMMt4a)
-  - Availability Sets 
-  - Connecting to the Virtual Machine
-  - Bastion Service, Scale Set
+  - Provision High Available Cloud Infra via Terraform
+  - Setup custom network (Vnet, Subnet, Security Groups)
+  - Manage multiple environments of a project via Terraform workspace or env files
   - In-class Quiz
 
 ***Class 3:***
-  - Monitor and maintain Azure resources
-    - Azure Monitor
-    - Azure Backup
-    - Log Analytics
-    - Application Insights
-    - Azure Monitor, Log Analytics
+  - ***Terraform Cloud*** Introduction
+  - Setup Terraform Cloud
+  - Create IaC pipeline in TF Cloud
+  - Integrate with GitHub/Azure Repo
   - In-class Quiz
 
 ***Class 4:***
-- Infrastructure as Code, Azure RM, Stack creation
-- Image registry, Container Groups
-- Containerized services, EKS, ECS
-- Deploy and manage Azure compute resources
-- Azure CICD, Azure DevSecOps
-- [Azure Pipeline](https://github.com/e2eSolutionArchitect/scripts/blob/main/azure/ado-pipeline.md)
-- In-class Quiz
+  - ***Terraform Enterprise*** introduction
+  - Introduction to HashiCorp Packer
+  - Introduction to HashiCorp Vault
+  - Introduction to HashiCorp Sentinel
+  - In-class Quiz
 
 ***Class 5:***
 - Review & Feedback on a given project
 - Career guidance for the next steps
 - Job Opportunity, Where and How to Look for it.
-- Cloud Certification instruction, Certification path, and exam tips.
+- Terraform Certification instruction, Certification path, and exam tips.
 - Introduction about Role-based and Certification focussed training programs overview.
 - Introduction about Interview prep coaching.     
 
