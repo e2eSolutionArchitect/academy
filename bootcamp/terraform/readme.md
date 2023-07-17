@@ -28,10 +28,10 @@
 - All Communication during Bootcamp will be through this Slack Channel [Azure Bootcamp Jul 2k23 Group](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
 - Download and Install Putty & PuttGen [click here](https://www.puttygen.com/)
 - Subscribe to useful resources 
-  - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+  - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/terraform)
   - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
-  - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-  - Apply access to [bootcamp repository](https://github.com/e2eSolutionArchitect/azure-cloud-bootcamp)
+  - [Terraform Documentations](https://developer.hashicorp.com/terraform/docs)
+  - Apply access to [bootcamp repository](https://github.com/e2eSolutionArchitect/terraform-bootcamp)
 
 ----------------------------
 
