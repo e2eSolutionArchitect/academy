@@ -101,7 +101,7 @@
 ***Class 4:***
 - Infrastructure as Code, Azure RM, Stack creation
 - Image registry, Container Groups
-- Containerized services, EKS, ECS
+- Containerized services, AKS
 - Deploy and manage Azure compute resources
 - Azure CICD, Azure DevSecOps
 - Cloud Architect's HELPLINE and CoPilot Program
