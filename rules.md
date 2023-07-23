@@ -4,6 +4,7 @@
 ## NOTE:
 We support creating an ethical and secure learning experience for every attendee. We take strong measures to protect our sessions from fraud and fraudulent intentions. We expect your full support and cooperation to make every session a success. Success for YOU and the Organizer(s)
 
+## Rules:
 - The meeting link /room details (whichever is applicable) will be shared with verified registered attendees only.
 - Please use your Full Name (as per the government-provided identity document) for registration.
 - Join the online meeting with your registered name and email id only.
