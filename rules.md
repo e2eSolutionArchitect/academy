@@ -16,3 +16,11 @@
 - If someone is using this registration to show a purpose to fly to Canada from any other country, we consider it fraud
 - Any unacceptable or misbehavior during class/online sessions will result in immediate termination of the attendee from the full program without any refund. And will be banned from any future registration. In such cases, a report in the name of the candidate shall be submitted to the local administration.
 
+
+## FAQs
+
+### Q: I have registered for the session but the session got rescheduled by the organizer. I'm not available for the new schedule
+```
+Please email the organizer. You will receive a coupon worth of adjusted amount. The coupon will be valid for some **selected session & ticket type** to join within next 1 month.  
+```
+
