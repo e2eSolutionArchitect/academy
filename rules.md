@@ -34,7 +34,7 @@ No. A coupon is valid for a particular candidate only to whom it is awarded. If 
 If it is about your identity or demographic-related info to update such as Name, email, residing city, country etc. We can't do that. Also, there is no refund for it. You have to register new. 
 ```
 
-### Q:  I registered but currently I'm unable to join due to a priority. Am I eligible for a refund? 
+### Q:  I registered but currently I'm unable to join due to another priority. Am I eligible for a refund? 
 ```
 The ticket is No Refundable unless explicitly mentioned in the ticket type. In this case, please email the organizer with your reason for not being able to attend the session. If the case is approved, you may get a coupon worth 70% of your registered ticket fee. The coupon will be valid for some **selected session & ticket type** to join within the next 1 month.
 ```
