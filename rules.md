@@ -14,5 +14,5 @@
 ## ATTENTION
 - Any false info or fraudulent intention to join the session will cancel the registration without any refund. In this case, the candidate's info shall be shared with the police too.
 - If someone is using this registration to show a purpose to fly to Canada from other countries, we consider it fraud
-- Any unacceptable or misbehavior during class/online sessions will result in immediate termination of the attendees from the full program without any refund. And will be banned from any future registration. A report to local administration shall be submitted in such cases.
+- Any unacceptable or misbehavior during class/online sessions will result in immediate termination of the attendee from the full program without any refund. And will be banned from any future registration. A report to local administration shall be submitted in such cases.
 
