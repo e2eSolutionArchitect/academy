@@ -28,3 +28,9 @@ Please email the organizer. You will receive a coupon worth of adjusted amount. 
 ```
 No. A coupon is valid for a particular candidate only to whom it is awarded. If the coupon is used by someone else the registration will be rejected for the new person and you without any refund. 
 ```
+
+### Q:  Mistakenly I have submitted a few incorrect info in the registration form. I'm not able to edit now. 
+```
+If it is about your identity or demographic-related info to update such as Name, email, residing city, country etc. We can't do that. Also, there is no refund for it. You have to register new. 
+```
+
