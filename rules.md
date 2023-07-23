@@ -12,7 +12,7 @@
 - Please carry your own laptop (if attending in person session)
 
 ## ATTENTION
-- Any false info or fraudulent intention to join the session will cancel the registration without any refund. In this case, the candidate's info shall be shared with the police too.
+- Any false info or fraudulent intention to join the session will cancel the registration without any refund. In such cases, a report in the name of the candidate shall be submitted to the local administration.
 - If someone is using this registration to show a purpose to fly to Canada from any other country, we consider it fraud
-- Any unacceptable or misbehavior during class/online sessions will result in immediate termination of the attendee from the full program without any refund. And will be banned from any future registration. A report to local administration shall be submitted in such cases.
+- Any unacceptable or misbehavior during class/online sessions will result in immediate termination of the attendee from the full program without any refund. And will be banned from any future registration. In such cases, a report in the name of the candidate shall be submitted to the local administration.
 
