@@ -24,7 +24,7 @@
 Please email the organizer. You will receive a coupon worth of adjusted amount. The coupon will be valid for some **selected session & ticket type** to join within the next 1 month.  
 ```
 
-### Q: Can I transfer the coupon I received to someone
+### Q: Can I transfer my coupon to someone
 ```
 No. A coupon is valid for a particular candidate only to whom it is awarded. If the coupon is used by someone else the registration will be rejected for the new person and you without any refund. 
 ```
