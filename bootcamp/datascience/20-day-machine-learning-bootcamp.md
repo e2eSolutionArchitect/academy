@@ -63,10 +63,10 @@
 - Statistics -2 
 - Data Visualization - 2
 - Machine Learning - 12
-- - Supervised Learning
+ - Supervised Learning
   - Regression
   - Classification
-- - Unsupervised Learning
+ - Unsupervised Learning
   - Clustering
 - AutoML -2 
 - Project presentation & reflection - 1
