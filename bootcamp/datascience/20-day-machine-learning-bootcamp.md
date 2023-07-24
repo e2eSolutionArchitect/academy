@@ -21,7 +21,7 @@
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have at least basic Cloud fundamental knowledge to join the Data science Bootcamp program
+- Candidate MUST have at least basic Cloud fundamental knowledge to join the Data Science Bootcamp program
 (***Before*** the first day of class)
 - Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
@@ -36,7 +36,7 @@
 
 ## Training format & Important notes:
 
-- Total 5 classes, each class length is 2 hours.
+- Total 20 classes, each class length is 2 hours.
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
@@ -59,6 +59,18 @@
 - Feedback, Comments, and grading will be shared and discussed during the last class of the program.
 
 ## Program Agenda:
+
+- Statistics -2 
+- Data Visualization - 2
+- Machine Learning - 12
+- - Supervised Learning
+  - Regression
+  - Classification
+- - Unsupervised Learning
+  - Clustering
+- AutoML -2 
+- Project presentation & reflection - 1
+- Career Roadmap, Opportunity, and Certification - 1
 
 ***Class 1:***
   - Course Introduction
