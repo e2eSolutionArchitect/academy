@@ -1,5 +1,6 @@
 # Azure Architect Master Class
-[![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47550661-2ced-4bb8-bef3-0b8bc0b17f30)](https://e2esolutionarchitect.eventbrite.com)
+
+[![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/1df8e8ff-a153-49c6-a1d0-2b3b73d49874)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
 ## Program name: Azure Bootcamp for IT Professionals and IT Graduates
