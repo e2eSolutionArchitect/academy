@@ -9,7 +9,7 @@
 ### About this training program
 
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates the 'Online Classroom' link will be shared.
+- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
 - Attendance is required in every session
 - Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
 
@@ -117,6 +117,8 @@
 - Cloud Certification instruction, Certification path and exam tips.
 - Introduction aboutt Role based and Certification focussed training programs overview.
 - Introduction about Interview prep coaching.     
+
+## Next classes agenda are available to the registered candidates via membership accessonly.  
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
