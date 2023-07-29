@@ -9,7 +9,7 @@
 ### About this training program
 
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidate the 'Online Classroom' link will be shared.
+- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates the 'Online Classroom' link will be shared.
 - Attendance is required in every session
 - Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
 
@@ -119,4 +119,6 @@
 - Introduction about Interview prep coaching.     
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
-[![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
+![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
+
+(https://e2esolutionarchitect.eventbrite.ca)
