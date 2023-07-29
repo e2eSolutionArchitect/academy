@@ -4,7 +4,7 @@
 
 e2eSA (End To End Solution Architect)  Training Program is an intense, career-focused, result oriented small-grouped (4-5 participants) coaching to build every participant ‘Industry-ready‘ with the required skill set and self-confidence.
 
-[![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
+[![bootcamps](https://github.com/e2eSolutionArchitect/academy/assets/62712515/a77f78b7-87f8-41d2-93de-3a836e2c7bb9)](https://e2esolutionarchitect.eventbrite.ca)
 
 
 [![HELPLINE](https://github.com/e2eSolutionArchitect/academy/assets/8308302/3b85acaf-50f5-4a4f-850d-46216de108af)](Helpline)(https://e2esolutionarchitect.com/helpline/)
@@ -18,7 +18,7 @@ e2eSA (End To End Solution Architect)  Training Program is an intense, career-fo
 ## Who is fit for this program?
 
 - An experienced IT professional looking for upgrading skills for change in IT career.
-- A recent graduate or fresher looking for industry standard knowledge.
+- A recent graduate or fresher looking for industry-standard knowledge.
 - IT enthusiasts looking for certification guidance
 
 Join the ***Slack*** channel 
