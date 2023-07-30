@@ -49,7 +49,7 @@
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- Markdown file should contain the assignment problem, Each and every steps to create the solution with screenshot and code snippet where ever required.
+- Markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
@@ -65,31 +65,26 @@
 
 ***Class 1:***
   - Course Introduction
-  - Revise Azure Cloud Fundamentals
+  - Revise AWS Cloud Fundamentals
     - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
-    - [Azure Global Infrastructure](https://infrastructuremap.microsoft.com/)
-    - Azure portal walk through
-  - Understanding Hierarchy, Management Groups
-  - Azure Subscription
+    - [AWS Global Infrastructure](#)
+    - AWS portal walkthrough
+  - AWS Organization and account hierarchy structure
   - Identity and Access Management
-  - [Create user, Assign Role](https://www.youtube.com/watch?v=0Lb4I2z0aSA)
-  - [Setup MFA for Azure portal](https://www.youtube.com/watch?v=0Lb4I2z0aSA) (***Very IMPORTANT*** to avoid account hacking)
-  - Manage Azure identities and governance
-  - [Azure Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](https://www.youtube.com/watch?v=e1bvukUvQAc)
+  - [Create user, Assign Role](#)
+  - [Setup MFA for AWS users](#) (***Very IMPORTANT*** to avoid account hacking)
+  - Manage AWS identities and governance
+  - [AWS Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](#)
   - In-class Quiz
-  - Project [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/azure/small-business-setup.md). Use Azure ARM template.
+  - Project [click here](#). Use AWS CloudFormation template.
 
 ***Class 2:***
   - Configure and manage virtual networking
     - Vnet, Subnet, Network Security Groups
     - CIDR notation
-  - Deploy and manage Azure compute resources
+  - Deploy and manage AWS compute resources
   - Compute resources, Virtual Machine
-  - [Create a VM & Connect with putty](https://www.youtube.com/watch?v=iYfSMjbjL50&list=PLuBBTh-4TzDmj9c2kW24q5C2IfGXMMt4a)
-  - Availability Sets 
-  - Installing Internet Information Services
-  - Connecting to the Virtual Machine
-  - Bastion Service, Scale Set
+  - [Create a VM & Connect with putty](#)
   - In-class Quiz
 
 ***Class 3:***
