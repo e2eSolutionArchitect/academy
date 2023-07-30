@@ -64,17 +64,23 @@
 ## Program Agenda:
 
 - Course Introduction
+- AWS Well-Architected Framework
+- AWS Identity and Access Management
 - AWS Networking Fundamental
 - AWS Advance Networking
 - Hybrid Cloud Networking
 - AWS DirectConnent and on-prem connectivity 
 - AWS Security - Network
 - AWS Security - Infrastructure
+- AWS Compute & Container Services
+- AWS Serverless Family
 - AWS Cloud Formation - Infrastructure-as-Code
-- AWS Monitoring, Auditing, Logging 
+- AWS Monitoring, Auditing, Logging
+- AWS CI/CD, CodePipeline
 - AWS Cost Management, Budgeting
-
-
+- Large Scale application architecture
+- Final Project Presentation
+- Career Roadmap and Opportunity
 
 ***Class 1:***
   - Course Introduction
