@@ -80,6 +80,7 @@
 - AWS Cost Management, Budgeting
 - Large Scale application architecture
 - Final Project Presentation
+- Certification guidance
 - Career Roadmap and Opportunity
 
 ***Class 1:***
