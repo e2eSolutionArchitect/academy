@@ -63,6 +63,19 @@
 
 ## Program Agenda:
 
+- Course Introduction
+- AWS Networking Fundamental
+- AWS Advance Networking
+- Hybrid Cloud Networking
+- AWS DirectConnent and on-prem connectivity 
+- AWS Security - Network
+- AWS Security - Infrastructure
+- AWS Cloud Formation - Infrastructure-as-Code
+- AWS Monitoring, Auditing, Logging 
+- AWS Cost Management, Budgeting
+
+
+
 ***Class 1:***
   - Course Introduction
   - Revise AWS Cloud Fundamentals
