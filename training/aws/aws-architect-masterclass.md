@@ -39,7 +39,7 @@
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
-- All Communication during Bootcamp will be through this Slack Channel [Azure Bootcamp Jul 2k23 Group](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
+- All Communication during Bootcamp will be through this Slack Channel [AWS Architects](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
 - Download and Install Putty & PuttGen [click here](https://www.puttygen.com/)
 - Subscribe to useful resources 
   - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
@@ -67,7 +67,7 @@
 ----------------------------
 
 ## Project Submission
-- An industry standard project will be assigned the first day of the training program. It can be team-based or individual.
+- An industry standard project will be assigned on the first day of the training program. It can be team-based or individual.
 - Candidates have to submit the project one day before the final day of the program.
 - Document and submit the project as per the guideline mentioned [here]
 - Feedback, Comments, and grading will be shared and discussed during the last class of the program.
