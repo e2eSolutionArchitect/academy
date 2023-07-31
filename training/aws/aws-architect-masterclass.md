@@ -9,14 +9,22 @@
 ----------------------------
 ### About this training program
 
+***PROGRAM STRUCTURE***
+- MASTERCLASS is a Hybrid program ***ONLINE & CLASSROOM***.
+- Primarily teaching classes will be conducted via Online mode.
+- There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purpose. The schedule will be shared during the program. 
+- It is a 3 Months program. 2 days a week . 2 hrs per session.
+- Candidates will be given assignments and project work to complete within the timeline.
+- The program is not a traditional ppt session. It is Learn > Build > Get Feedback and Repeat.
+- Every candidate will have hands-on experience to build industry-standard solutions by collaborating with team members.
+
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
 - Attendance is required in every session
-- Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
+- Certificate of completion of the Masterclass & post-program benefits will be given to all participants who attended >80% of sessions and completed their project work, Assignments, Program Review & Feedback within the timeline with 100% completion. 
 
 ----------------------------
 ### Eligibility for attending this training program
-- IT working Professionals, University Graduates, People interested to change roles to IT
+- IT working Professionals, University Graduates, and People interested to change roles to IT
 - At least a very basic understanding of the Cloud. (e,g What is Cloud, Benefits of Cloud)
 ----------------------------
 
