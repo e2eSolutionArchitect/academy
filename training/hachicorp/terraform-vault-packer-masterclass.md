@@ -19,7 +19,7 @@
 - The program is not a traditional ppt session. It is Learn > Build > Get Feedback and Repeat.
 - Every candidate will have hands-on experience to build industry-standard solutions by collaborating with team members.
 - Role-based training is a pre-requisite for ***Certification focussed training***. 
-- Certification guidance sessions are practice classes for QnA solving for AWS Certified Architect Professional (SAP-C02)
+- Certification guidance sessions are practice classes for QnA solving for Terraform Certified Associate(003), Vault Associate (002)
 
 ***IMPORTANT***
 - Attendance is required in every session
