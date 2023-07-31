@@ -11,16 +11,19 @@
 
 ***PROGRAM STRUCTURE***
 - MASTERCLASS is a Hybrid program ***ONLINE & CLASSROOM***.
+- The program is divided into two major modules. 1. Role-based Training 2. Certification focussed Training
 - Primarily teaching classes will be conducted via Online mode.
 - There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purpose. The schedule will be shared during the program. 
 - It is a 3 Months program. 2 days a week . 2 hrs per session.
 - Candidates will be given assignments and project work to complete within the timeline.
 - The program is not a traditional ppt session. It is Learn > Build > Get Feedback and Repeat.
 - Every candidate will have hands-on experience to build industry-standard solutions by collaborating with team members.
+- Role-based training is a pre-requisite for Certification focussed training. 
 
 ***IMPORTANT***
 - Attendance is required in every session
-- Certificate of completion of the Masterclass & post-program benefits will be given to all participants who attended >80% of sessions and completed their project work, Assignments, Program Review & Feedback within the timeline with 100% completion. 
+- Certificate of completion of the Masterclass & post-program benefits will be given to all participants who attended >80% of sessions and completed their project work, Assignments, Program Review & Feedback within the timeline with 100% completion.
+- Every session in the Role-based module is structured as Concept/Presentation(30%), Hands-on(70%)
 
 ----------------------------
 ### Eligibility for attending this training program
@@ -64,10 +67,10 @@
 ----------------------------
 
 ## Project Submission
-- An industry standard project will be assigned first day of the training program. It can be team based or individual.
+- An industry standard project will be assigned the first day of the training program. It can be team-based or individual.
 - Candidates have to submit the project one day before the final day of the program.
 - Document and submit the project as per the guideline mentioned [here]
-- Feedback, Comments and grading will be shared and discussed during last class of the program.
+- Feedback, Comments, and grading will be shared and discussed during the last class of the program.
 
 ## Program Agenda:
 
@@ -88,61 +91,9 @@
 - AWS Cost Management, Budgeting
 - Large Scale application architecture
 - Final Project Presentation
-- Certification guidance
+- Certification Guidance
 - Career Roadmap and Opportunity
 
-***Class 1:***
-  - Course Introduction
-  - Revise AWS Cloud Fundamentals
-    - Region, Availability Zone [What is Cloud](https://azure.microsoft.com/en-us/explore/global-infrastructure) 
-    - [AWS Global Infrastructure](#)
-    - AWS portal walkthrough
-  - AWS Organization and account hierarchy structure
-  - Identity and Access Management
-  - [Create user, Assign Role](#)
-  - [Setup MFA for AWS users](#) (***Very IMPORTANT*** to avoid account hacking)
-  - Manage AWS identities and governance
-  - [AWS Policy Definition, Assignment, Exemptions, Tagging, Custom Policy](#)
-  - In-class Quiz
-  - Project [click here](#). Use AWS CloudFormation template.
-
-***Class 2:***
-  - Configure and manage virtual networking
-    - Vnet, Subnet, Network Security Groups
-    - CIDR notation
-  - Deploy and manage AWS compute resources
-  - Compute resources, Virtual Machine
-  - [Create a VM & Connect with putty](#)
-  - In-class Quiz
-
-***Class 3:***
-  - Monitor and maintain Azure resources
-    - Azure Monitor
-    - Azure Backup
-    - Log Analytics
-    - Application Insights
-    - Azure Monitor, Log Analytics
-  - In-class Quiz
-
-***Class 4:***
-- Infrastructure as Code, Azure RM, Stack creation
-- Image registry, Container Groups
-- Containerized services, AKS
-- Deploy and manage Azure compute resources
-- Azure CICD, Azure DevSecOps
-- Cloud Architect's HELPLINE and CoPilot Program
-- [Azure Pipeline](https://github.com/e2eSolutionArchitect/scripts/blob/main/azure/ado-pipeline.md)
-- In-class Quiz
-
-***Class 5:***
-- Review & Feedback on given project
-- Career guidance for next steps
-- Job Opportunity, Where and How to look for it.
-- Cloud Certification instruction, Certification path and exam tips.
-- Introduction aboutt Role based and Certification focussed training programs overview.
-- Introduction about Interview prep coaching.     
-
-## Next classes agenda are available to the registered candidates via membership accessonly.  
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
