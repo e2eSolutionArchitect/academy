@@ -51,7 +51,6 @@
 
 ## Training format & Important notes:
 
-- Total 5 classes, each class length is 2 hours.
 - Class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
