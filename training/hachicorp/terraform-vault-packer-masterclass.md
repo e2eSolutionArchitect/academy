@@ -77,7 +77,7 @@
 - **Module** Role-based
   - Terraform OSS
   - Terraform Cloud
-  - Terraform Enerprise
+  - Terraform Enterprise
   - HachiCorp Vault
   - HashiCorp Packer
 - **Module** Certification-focussed
