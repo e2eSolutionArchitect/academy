@@ -4,7 +4,7 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: Azure Bootcamp for IT Professionals and IT Graduates
+## AWS Architect Professional Master Class for IT Professionals and IT Graduates
 
 ----------------------------
 ### About this training program
