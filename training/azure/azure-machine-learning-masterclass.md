@@ -75,7 +75,7 @@
 
 ## Program Agenda:
 
-- **Mobule** Role Based
+- **Module** Role Based
   - Statistics concepts
   - Statistical Methodologies
   - AI & Machine Learning concepts
@@ -88,7 +88,7 @@
   - Azure Cognitive Services
   - Training Model
   - Deploy a model as a web service
-- **Mobule** Certification Focussed
+- **Module** Certification Focussed
   - QnA practice sessions
 
 
