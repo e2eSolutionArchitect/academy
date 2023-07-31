@@ -75,25 +75,21 @@
 
 ## Program Agenda:
 
-- Course Introduction
-- AWS Well-Architected Framework
-- AWS Identity and Access Management
-- AWS Networking Fundamental
-- AWS Advance Networking
-- Hybrid Cloud Networking
-- AWS DirectConnent and on-prem connectivity 
-- AWS Security - Network
-- AWS Security - Infrastructure
-- AWS Compute & Container Services
-- AWS Serverless Family
-- AWS Cloud Formation - Infrastructure-as-Code
-- AWS Monitoring, Auditing, Logging
-- AWS CI/CD, CodePipeline
-- AWS Cost Management, Budgeting
-- Large Scale application architecture
-- Final Project Presentation
-- Certification Guidance
-- Career Roadmap and Opportunity
+- **Mobule** Role Based
+  - Statistics concepts
+  - Statistical Methodologies
+  - AI & Machine Learning concepts
+  - Azure Machine Learning
+  - Supervised & Unsupervised Learning
+  - Regression
+  - Classification
+  - Clustering
+  - MLOps Machine Learning Operation
+  - Azure Cognitive Services
+  - Training Model
+  - Deploy a model as a web service
+- **Mobule** Certification Focussed
+  - QnA practice sessions
 
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
