@@ -1,19 +1,20 @@
-# Azure Architect Professional Master Class
+# Asure Architect Master Class
 
 ![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/9514db5f-7f40-4357-b01d-85b61d0def1a)
 
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: Azure Bootcamp for IT Professionals and IT Graduates
+## Program name: Azure Masterclass for IT Professionals and IT Graduates
 
 ----------------------------
 ### About this training program
+The aim of the 3 months dedicated Azure cloud program is to build you from ***Beginner to Pro*** by guiding you through the actual cloud problem-solving scenarios like real industry business cases. 
 
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
+- Masterclass is a ***Hybrid Workshop*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
 - Attendance is required in every session
-- Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review & Feedback on time with 100% completion. 
+- Certificate of completion of the masterclass is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review, and feedback on time with 100% completion. 
 
 ----------------------------
 ### Eligibility for attending this training program
@@ -22,7 +23,7 @@
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure Bootcamp program
+- Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure masterclass
 (***Before*** the first day of class)
 - Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
@@ -40,9 +41,8 @@
 
 ## Training format & Important notes:
 
-- Total 5 classes, each class length is 2 hours.
+- 3 days a week, 1.5 hours each session (conflict with National Holidays will be considered off day) 
 - The class schedule will be published to registered candidates prior to the program start date.
-- Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
 
