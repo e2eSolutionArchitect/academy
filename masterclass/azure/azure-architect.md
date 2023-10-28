@@ -1,6 +1,7 @@
 # Azure Architect Professional Master Class
 
-![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/a9177e69-b0ee-4648-b9c9-d2529eeb6799)
+![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/9514db5f-7f40-4357-b01d-85b61d0def1a)
+
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
