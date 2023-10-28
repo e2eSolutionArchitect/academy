@@ -12,6 +12,9 @@
 The aim of the 3 months dedicated Azure cloud program is to build you from ***Beginner to Pro*** by guiding you through the actual cloud problem-solving scenarios like real industry business cases. 
 This 3 month is the combined study for Role-based learning and certification. Candidates will be highly encouraged to complete the certification exam without delay after the program. 
 
+### About the organizer: 
+Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somspeaks/)) is a Cloud Infrastructure Architect working in an MNC. He has around 15 years of accomplishments in IT solutions delivery for various financial institutions across the globe. He is a Cloud expert, specializing in Amazon Web Services (AWS) & Microsoft Azure. AWS Certified Solution Architect Professional, Azure Certified, Google Certified Digital Leader, Hashicorp Certified Terraform associate, and the saga continues to have more than a dozen international certifications.
+
 ***IMPORTANT***
 - Masterclass is a ***Hybrid Workshop*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
 - Attendance is required in every session
