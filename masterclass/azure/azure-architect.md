@@ -7,6 +7,7 @@
 
 ## Program name: Azure Masterclass for IT Professionals and IT Graduates
 
+## Registration [click here](https://www.eventbrite.ca/e/azure-architect-masterclass-3-months-tickets-688806768587)
 ----------------------------
 ### About this training program
 The aim of the 3 months dedicated Azure cloud program is to build you from ***Beginner to Pro*** by guiding you through the actual cloud problem-solving scenarios like real industry business cases. 
