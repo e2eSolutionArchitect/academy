@@ -10,6 +10,7 @@
 ----------------------------
 ### About this training program
 The aim of the 3 months dedicated Azure cloud program is to build you from ***Beginner to Pro*** by guiding you through the actual cloud problem-solving scenarios like real industry business cases. 
+This 3 month is the combined study for Role-based learning and certification. Candidates will be highly encouraged to complete the certification exam without delay after the program. 
 
 ***IMPORTANT***
 - Masterclass is a ***Hybrid Workshop*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
@@ -127,14 +128,14 @@ The aim of the 3 months dedicated Azure cloud program is to build you from ***Be
 - In-class Quiz
 
 ***Class 5:***
-- Review & Feedback on given project
-- Career guidance for next steps
+- Review and feedback on a given project
+- Career guidance for the next steps
 - Job Opportunity, Where and How to look for it.
-- Cloud Certification instruction, Certification path and exam tips.
-- Introduction aboutt Role based and Certification focussed training programs overview.
+- Cloud Certification instruction, Certification path, and exam tips.
+- Introduction about Role-based and Certification focussed training programs overview.
 - Introduction about Interview prep coaching.     
 
-## Next classes agenda are available to the registered candidates via membership accessonly.  
+## The full agenda for the program is available to the registered candidates via membership access only.  
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
