@@ -79,7 +79,7 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 - Azure Security - Network
 - Azure Security - Infrastructure
 - Azure Compute & Container Services
-- Azure BICEP, ARM Template - Infrastructure-as-Code
+- [Azure BICEP, ARM Template - Infrastructure-as-Code](https://github.com/e2eSolutionArchitect/azure-bicep)
 - Azure Monitoring, Auditing, Logging
 - Azure DevOps
 - Azure Cost Management, Budgeting
