@@ -7,7 +7,7 @@
 ### About this training program
 
 ***IMPORTANT***
-- Bootcamp is a ***CLASSROOM WORKSHOP*** program. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
+- The 'Online Classroom' link will be shared.
 - Attendance is required in every session
 - Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review, and feedback on time with 100% completion. 
 
