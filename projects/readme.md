@@ -19,3 +19,6 @@ Here is just the overview of the project. Each section ( infra, network, devops,
  - [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
  - [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
  - [Terraform Infrastructure Automation Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD8183B)
+
+![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/ff2e708f-3515-4bd7-9b0f-4929e597aafb)
+[Check here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/readme.md)
