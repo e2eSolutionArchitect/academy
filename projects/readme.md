@@ -1,8 +1,5 @@
 [![HELPLINE](https://github.com/e2eSolutionArchitect/academy/assets/8308302/3b85acaf-50f5-4a4f-850d-46216de108af)](Helpline)(https://e2esolutionarchitect.com/helpline/)
 
-# Design and Create network for the small business organization business case
-<img width="1485" alt="image" src="https://github.com/TheSolutionArchitect/azure-bicep/assets/62712515/71d24c5a-e0d8-43c3-8912-838965f40c87">
-
 # Projects
 
 ### Goal: An end-to-end hands-on experience to design, develop, and implement a complete solution in the cloud that touches every major area. An intern for this project achieves the optimum ability to work in any IT organization with confidence.  
