@@ -7,15 +7,7 @@ Here is just the overview of the project. Each section ( infra, network, devops,
 
 |   |   |
 |---|---|
-|  ***Small Business Setup*** |  As a Cloud Engineer, you are hired for a Fast Food Startup company in the retail industry. You have been assigned to design and develop a system for fast food ordering. <br> A famous fast food chain named 'MacTim' in North America offers Tea, Coffee, and other fast food for customers. They have their shops in multiple cities in North America. <br> Currently, they are planning to go digital for the order system. They want their customers will be able to place orders online ( via mobile/website) or via the kiosk installed in the shop. The order delivery team will be able to get the order digitally and process as per the order. The customer waiting for the order will be able to see the progress of their order on the order screen. Order placed > Processing > Ready. <br> Design, Develop and Deploy each component 
-
-- <li>Infrastructure</li>
-- <li>Networking</li>
-- <li>Security</li>
-- <li>Application build</li>
-- <li>DevOps</li>
-- <li>Monitoring</li>
-- <li>Testing & Validation</li> | 
+|  ***Small Business Setup*** |  As a Cloud Engineer, you are hired for a Fast Food Startup company in the retail industry. You have been assigned to design and develop a system for fast food ordering. <br> A famous fast food chain named 'MacTim' in North America offers Tea, Coffee, and other fast food for customers. They have their shops in multiple cities in North America. <br> Currently, they are planning to go digital for the order system. They want their customers will be able to place orders online ( via mobile/website) or via the kiosk installed in the shop. The order delivery team will be able to get the order digitally and process as per the order. The customer waiting for the order will be able to see the progress of their order on the order screen. Order placed > Processing > Ready. <br> Design, Develop and Deploy each component <li>Infrastructure</li> <li>Networking</li> <li>Security</li> <li>Application build</li> <li>DevOps</li> <li>Monitoring</li> <li>Testing & Validation</li> | 
 |  ***Fast Food Ordering System*** |  As a Cloud Engineer, you are hired for a Fast Food Startup company in the retail industry. You have been assigned to design and develop a system for fast food ordering. | 
 |  ***Cloud Migration*** |  As a Cloud Engineer, you are hired for a Fast Food Startup company in the retail industry. You have been assigned to design and develop a system for fast food ordering. | 
 |  ***Microservice Deployment*** |  As a Cloud Engineer, you are hired for a Fast Food Startup company in the retail industry. You have been assigned to design and develop a system for fast food ordering. | 
