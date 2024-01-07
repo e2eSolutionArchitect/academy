@@ -1,7 +1,7 @@
 ## Project: Small Business IT infrastructure setup in Azure Cloud
 
 ## This project is part of 3 Months Cloud MASTERCLASS
-Here is just the overview of the project. Each section ( infra, network, devops, security etc) is part of MASTERCLASS content. For any question regarding the masterclass please [check here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass) 
+Here is just the overview of the project. Each section ( infra, network, devops, security etc) is part of MASTERCLASS content. For any questions regarding the masterclass please [check here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass) and drop a note to us at som@e2eSolutionArchitect.com
 
 ### Goal: An end-to-end hands-on experience to design, develop, and implement a complete solution in the cloud that touches every major area. An intern for this project achieves the optimum ability to work in any IT organization with confidence.  
 
