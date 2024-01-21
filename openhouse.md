@@ -5,7 +5,7 @@
 ## About IPCD - Institute for Professional Career Development & Training
 A dedicated educational career-focused program crafted for newcomers in Canada. Professionals in IPCD mentor and coach IT enthusiasts, fresh graduates, and newcomers in Canada, for their new careers and prepare for the next opportunity. 
 
-## Venue: 25 Watline AveMississauga, ON L4Z 2Z1
+## Venue: 25 Watline Ave, Mississauga, ON L4Z 2Z1
 
 ## Agenda:
 - Meet & Greet, Socialize, and Network with working professionals in IT
