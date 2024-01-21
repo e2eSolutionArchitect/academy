@@ -3,6 +3,7 @@
 # Event: Openhouse for IT Professionals
 
 ## About IPCD - Institute for Professional Career Development & Training
+A dedicated educational career-focused program crafted for newcomers in Canada. Professionals in IPCD mentor and coach IT-enthusiasts, for their new careers and prepare for the next opportunity. 
 
 ## Venue: 25 Watline AveMississauga, ON L4Z 2Z1
 
