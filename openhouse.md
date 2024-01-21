@@ -8,7 +8,7 @@ A dedicated educational career-focused program crafted for newcomers in Canada. 
 ## Venue: 25 Watline Ave, Mississauga, ON L4Z 2Z1
 
 ## Agenda:
-- Coffee chat, Meet & Greet, Socialize, and Network with working professionals in IT
+- Coffee chat, Meet & Greet, Socialize, and build Network with working professionals in IT
 - Career discussion ( one-on-one ) based on prior appointment booking ( Online or in-Person )
 - Career & IT CertificationGuidance
 - Get Mentorship
