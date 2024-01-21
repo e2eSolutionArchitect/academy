@@ -6,7 +6,7 @@
 A dedicated educational career-focused program crafted for newcomers in Canada. Professionals in IPCD mentor and coach IT enthusiasts, fresh graduates, and newcomers in Canada, for their new careers and prepare for the next opportunity. 
 
 ## NOTE: 
-- The attendees ( who attended in person) get their event registration fee fully compensated with the next boot camp registration.
+- The attendees ( who attend in person) get their event registration fee fully compensated with the next boot camp registration.
 - Tea, Coffee, and light finger food will be available at the venue
 
 ## Venue: 25 Watline Ave, Mississauga, ON L4Z 2Z1
