@@ -9,4 +9,8 @@
 ## Agenda:
 - Meet & Greet, Socialize, and Network with working professionals in IT
 - Career discussion ( one-on-one ) based on prior appointment booking ( Online or in-Person )
+- Career Guidance
+- How to prepare for the next opportunity
+- - CV preparation
+  - Tips for Interview preparation
 
