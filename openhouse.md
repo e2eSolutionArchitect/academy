@@ -19,7 +19,6 @@ A dedicated educational career-focused program crafted for newcomers in Canada. 
 - How to prepare for the next opportunity
 - Ways of professional skill development ( Public speaking and Mock Interviews) 
 
-## Speaker 1: ***[Som](https://www.linkedin.com/in/bhattacharjeesn), Manager, Cloud Solution Architect, Accenture.*** 
-He has around 15 years of accomplishments in IT solutions delivery for various financial institutions across the globe. He is a Cloud expert, specializing in Amazon Web Services (AWS) & Microsoft Azure. AWS Certified Solution Architect Professional, Azure Certified, Google Certified Digital Leader, Hashicorp Certified Terraform associate, and the saga continues to have more than a dozen international certifications.
+## Speaker: ***[Som](https://www.linkedin.com/in/bhattacharjeesn), Manager, Cloud Solution Architect, Accenture.*** 
+Som has around 15 years of accomplishments in IT solutions delivery for various financial institutions across the globe. He is a Cloud expert, specializing in Amazon Web Services (AWS) & Microsoft Azure. AWS Certified Solution Architect Professional, Azure Certified, Google Certified Digital Leader, Hashicorp Certified Terraform associate, and the saga continues to have more than a dozen international certifications. A Public Speaker and IT Advisor for Small Business bootstrapping.  
 
-## Speaker 2: 
