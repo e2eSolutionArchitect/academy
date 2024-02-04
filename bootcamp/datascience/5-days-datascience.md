@@ -16,14 +16,14 @@
 
 ----------------------------
 ### Eligibility for attending this training program
-- IT working Professionals, University Graduates, and People interested to change roles to IT
+- IT working Professionals, University Graduates, and People interested in changing roles to IT
 - At least a very basic understanding of the Cloud. (e,g What is Cloud, Benefits of Cloud)
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have at least basic Cloud fundamental knowledge to join the Data science Bootcamp program
+- Candidate MUST have at least basic Cloud fundamental knowledge to join the Data Science Bootcamp program
 (***Before*** the first day of class)
-- Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
+- Please make sure you can access the [Azure Management portal](https://portal.azure.com/). [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Data Scientists Group](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
@@ -36,8 +36,8 @@
 
 ## Training format & Important notes:
 
-- Total 5 classes, each class length is 2 hours.
-- Class schedule will be published to registered candidates prior to the program start date.
+- Total 5 classes, each class length is 1.5 hours.
+The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
@@ -46,7 +46,7 @@
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- The markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
+- The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets where ever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
@@ -55,7 +55,7 @@
 ## Project Submission
 - An industry standard project will be assigned on the first day of the training program. It can be team-based or individual.
 - Candidates have to submit the project one day before the final day of the program.
-- Document and submit the project as per the guideline mentioned [here]
+- Document and submit the project as per the guidelines mentioned [here]
 - Feedback, Comments, and grading will be shared and discussed during the last class of the program.
 
 ## Program Agenda:
