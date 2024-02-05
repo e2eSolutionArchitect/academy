@@ -2,15 +2,15 @@
 [![image](https://user-images.githubusercontent.com/62712515/224561412-dfbc0c5c-6c4c-439d-87f3-e35ed564a5c1.png)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: AWS Boot camp for AWS Architects
+## Program name: AWS Bootcamp for AWS Architects
 
 ----------------------------
 ### About this training program
 
 ***IMPORTANT***
-- Boot camp is a ***CLASSROOM WORKSHOP*** program
-- Attendance is required in every sessions
-- Certificate of completion of the Boot camp is given to all participants who attended 100% sessions and completed their project on time. 
+- Bootcamp is a ***ONLINE and/or CLASSROOM WORKSHOP*** program based on venue availability
+- Attendance is required in every session
+- Certificate of completion of the Boot camp is given to all participants who attended 100% of sessions and completed their project on time. 
 
 ----------------------------
 ### Eligibility for attending this training program
