@@ -36,29 +36,29 @@
 ## Training format & Important notes:
 
 - This training program is completely online.
-- Total 5 classes Each class length is 2 hours including 15 mins break.
+- Total 5 classes Each class length is 1.5 hours including 15 mins break.
 - Training duration 1 to 2 weeks maximum.
-- Class schedule will be published to registered candidates prior to the program start date.
+- The class schedule will be published to registered candidates prior to the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified well in advance to the participants. 
 - Certification exam cost is NOT included in training fees.  
 
 ----------------------------
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- Markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
+- Markdown file should contain the assignment problem, Every step to create the solution with screenshots and code snippets wherever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
 ----------------------------
 
 ## Project Submission
-- An industry standard project will be assigned during second-last week of the Role based training program
-- Candidates have to submit the project one day before the last class of the role based training program
-- Document and submit the project as per the guideline mentioned [here]
-- Feedback, Comments and grading will be shared and discussed during last class of role based program
+- An industry standard project will be assigned during second-last week of the Role-based training program
+- Candidates have to submit the project one day before the last class of the role-based training program
+- Document and submit the project as per the guidelines mentioned [here]
+- Feedback, Comments, and grading will be shared and discussed during the last class of role-based program
 - 
 
 
@@ -83,14 +83,14 @@
 - Connecting to the Virtual Machine, Update VMs
 
 ***Class 4:***
-- Infratructure as Code,Cloud Formation, Stack creation
+- Infrastructure as Code, Cloud Formation, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage AWS compute resources
 
 ***Class 5:***
 - Monitor and maintain AWS resources
-- Career guidance for next steps
+- Career guidance for the next steps
 - Hands-on workshop to create a small AWS Cloud project.
-- Cloud Certification instruction, Certification path and exam tips.
-- Role based and Certification focussed training programs overview.                              
+- Cloud Certification instruction, Certification path, and exam tips.
+- Role-based and Certification focussed training programs overview.                              
