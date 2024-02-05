@@ -8,9 +8,9 @@
 ### About this training program
 
 ***IMPORTANT***
-- Boot camp is a ***CLASSROOM WORKSHOP*** program
-- Attendance is required in every sessions
-- Certificate of completion of the Boot camp is given to all participants who attended 100% sessions and completed their project on time. 
+- Bootcamp is a ***ONLINE and/or CLASSROOM WORKSHOP*** program
+- Attendance is required in every session
+- Certificate of completion of the Boot camp is given to all participants who attended 100% of sessions and completed their project on time. 
 
 ----------------------------
 ### Eligibility for attending this training program
@@ -19,13 +19,13 @@
 
 ### How to register for this training program
 
-- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
+- Please submit the [career counseling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have Cloud fundamental knowledge to join AWs Boot camp program
+- Candidate MUST have Cloud fundamental knowledge to join AWS Bootcamp program
 (***Before*** the first day of class)
-- Please make sure you are able to access AWS Management portal. 
+- Please make sure you can access the AWS Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
@@ -36,12 +36,12 @@
 ## Training format & Important notes:
 
 - This training program is completely online.
-- Total 5 classes Each class length is 2 hours including 15 mins break.
+- Total 5 classes Each class length is 1.5 hours including 15 mins break.
 - Training duration 1 to 2 weeks maximum.
-- Class schedule will be published to registered candidates prior to the program start date.
+The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified well advanced to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified well in advance to the participants. 
 - Certification exam cost is NOT included in training fees.  
 
 ----------------------------
@@ -57,7 +57,7 @@
 ## Project Submission
 - An industry standard project will be assigned during second-last week of the Role based training program
 - Candidates have to submit the project one day before the last class of the role based training program
-- Document and submit the project as per the guideline mentioned [here]
+- Document and submit the project as per the guidelines mentioned [here]
 - Feedback, Comments and grading will be shared and discussed during last class of role based program
 - 
 
