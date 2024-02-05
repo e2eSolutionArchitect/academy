@@ -2,7 +2,7 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: AWS Boot camp for AWS SageMaker Hand-on
+## Program name: AWS Bootcamp for AWS SageMaker Hand-on
 
 ----------------------------
 ### About this training program
