@@ -48,17 +48,17 @@ The class schedule will be published to registered candidates before the program
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- Markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
+- The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets where ever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
 ----------------------------
 
 ## Project Submission
-- An industry standard project will be assigned during second-last week of the Role based training program
-- Candidates have to submit the project one day before the last class of the role based training program
+- An industry standard project will be assigned during second-last week of the Role-based training program
+- Candidates have to submit the project one day before the last class of the role-based training program
 - Document and submit the project as per the guidelines mentioned [here]
-- Feedback, Comments and grading will be shared and discussed during last class of role based program
+- Feedback, Comments, and grading will be shared and discussed during the last class of role-based program
 - 
 
 
@@ -83,7 +83,7 @@ The class schedule will be published to registered candidates before the program
 - Connecting to the Virtual Machine, Update VMs
 
 ***Class 4:***
-- Infratructure as Code,Cloud Formation, Stack creation
+- Infrastructure as Code, Cloud Formation, Stack creation
 - Image registry, Container Groups
 - Containerized services, EKS, ECS
 - Deploy and manage AWS compute resources
