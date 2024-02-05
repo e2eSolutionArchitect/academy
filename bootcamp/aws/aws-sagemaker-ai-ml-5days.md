@@ -23,7 +23,7 @@
 ----------------------------
 
 ### Pre-requisites: 
-- Candidate MUST have Cloud fundamental knowledge to join AWS Bootcamp program
+- Candidate MUST have Cloud fundamental knowledge to join the AWS Bootcamp program
 (***Before*** the first day of class)
 - Please make sure you can access the AWS Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
@@ -48,7 +48,7 @@ The class schedule will be published to registered candidates before the program
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets where ever required.
+- The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets wherever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
@@ -58,7 +58,7 @@ The class schedule will be published to registered candidates before the program
 - An industry standard project will be assigned during second-last week of the Role-based training program
 - Candidates have to submit the project one day before the last class of the role-based training program
 - Document and submit the project as per the guidelines mentioned [here]
-- Feedback, Comments, and grading will be shared and discussed during the last class of role-based program
+- Feedback, Comments, and grading will be shared and discussed during the last class of the role-based program
 - 
 
 
@@ -90,7 +90,7 @@ The class schedule will be published to registered candidates before the program
 
 ***Class 5:***
 - Monitor and maintain AWS resources
-- Career guidance for next steps
+- Career guidance for the next steps
 - Hands-on workshop to create a small AWS Cloud project.
-- Cloud Certification instruction, Certification path and exam tips.
-- Role based and Certification focussed training programs overview.                              
+- Cloud Certification instruction, Certification path, and exam tips.
+- Role-based and Certification focussed training programs overview.                              
