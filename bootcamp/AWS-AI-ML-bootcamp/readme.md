@@ -9,6 +9,7 @@
 
 ***IMPORTANT***
 - The 'Online Classroom' is the primary mode of delivery. The link will be shared.
+- If applicable, the in-person meeting schedule and venue will be shared.
 - Attendance is required in every session
 - Certificate of completion of the Bootcamp is given to all participants who attended 100% of sessions and completed their project work, Assignments, Program Review, and feedback on time with 100% completion. 
 
