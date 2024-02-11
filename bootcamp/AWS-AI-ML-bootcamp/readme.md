@@ -80,7 +80,7 @@ The class schedule will be published to registered candidates before the program
 ***Class 3:***
   - Types of Machine Learning
   - Supervised Model
-  - Regression with Azure Machine Learning Designer
+  - Regression concept
   - Hands-on with Sage Maker Part 2 - Build, Run
   - In-class Quiz
 
