@@ -94,3 +94,5 @@
 - Hands-on workshop to create a small AWS Cloud project.
 - Cloud Certification instruction, Certification path, and exam tips.
 - Role-based and Certification focussed training programs overview.                              
+
+<img width="1427" alt="image" src="https://github.com/e2eSolutionArchitect/academy/assets/62712515/b709a7af-8fee-4238-b121-3672b1ccee79">
