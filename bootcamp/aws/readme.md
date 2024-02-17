@@ -42,7 +42,8 @@
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified well in advance to the participants. 
-- Certification exam cost is NOT included in training fees.  
+- Certification exam cost is NOT included in training fees.
+- 🔔 Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/rules.md) for session/event/program rules.  
 
 ----------------------------
 
