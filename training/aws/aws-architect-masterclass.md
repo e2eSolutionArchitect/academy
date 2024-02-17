@@ -52,7 +52,7 @@
 
 ----------------------------
 
-:diamonds: ## Training format & Important notes:
+## :diamonds: Training format & Important notes:
 
 The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
@@ -62,7 +62,7 @@ The class schedule will be published to registered candidates before the program
 
 ----------------------------
 
-:pencil: ## Instructions for Lab Assignments
+## :pencil: Instructions for Lab Assignments
 - Candidates to create a public git repository named ***'aws-architect-masterclass'*** in their git account and store all the assignments and project work in that git repository.
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
 - The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets wherever required.
@@ -71,13 +71,13 @@ The class schedule will be published to registered candidates before the program
 
 ----------------------------
 
-:pencil: ## Project Submission
+## :pencil: Project Submission
 - An industry standard project will be assigned on the first day of the training program. It can be team-based or individual.
 - Candidates have to submit the project one day before the final day of the program.
 - Document and submit the project as per the guideline mentioned [here]
 - Feedback, Comments, and grading will be shared and discussed during the last class of the program.
 
-:calendar: ## Program Agenda:
+## :calendar: Program Agenda:
 
 - Course Introduction
 - AWS Well-Architected Framework
