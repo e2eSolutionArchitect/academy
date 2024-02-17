@@ -102,3 +102,5 @@ The class schedule will be published to registered candidates before the program
 ![bootcamp-5-day](https://github.com/e2eSolutionArchitect/Azure-AI-ML-bootcamp/assets/62712515/a9de5618-e701-4b09-8045-e7da3cb04433)
 
 ![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/9514db5f-7f40-4357-b01d-85b61d0def1a)
+
+<img width="1427" alt="image" src="https://github.com/e2eSolutionArchitect/academy/assets/62712515/b709a7af-8fee-4238-b121-3672b1ccee79">
