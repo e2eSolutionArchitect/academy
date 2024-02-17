@@ -41,8 +41,8 @@
 - Please make sure you can access the [AWS Management Console](https://console.aws.amazon.com/console/home?region=us-east-1) 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
-- Join Slack Channel [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
-- All Communication during Bootcamp will be through this Slack Channel [AWS Architects](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
+- Join Slack Channel [AWS Cloud Engineering](https://app.slack.com/client/T04K2836TGC/C04JZPZ6SKU)
+- All Communication during Bootcamp will be through this Slack Channel [AWS Cloud Engineering](https://app.slack.com/client/T04K2836TGC/C04JZPZ6SKU)
 - Download and Install Putty & PuttGen [click here](https://www.puttygen.com/)
 - Subscribe to useful resources 
   - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
