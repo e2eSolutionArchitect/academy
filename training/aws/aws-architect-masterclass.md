@@ -11,13 +11,13 @@
 
 ***PROGRAM STRUCTURE***
 - MASTERCLASS is a Hybrid program ***ONLINE & CLASSROOM***.
-- The program is divided into two major modules. 1. Role-based Training 2. Certification focussed Training
+- The program is divided into two major modules. :large_orange_diamond: Role-based Training :large_orange_diamond: Certification focussed Training
 - Primarily teaching classes will be conducted via Online mode.
-- There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purpose. The schedule will be shared during the program. 
-- It is a 3 Month program. 2 days a week . 2 hrs per session. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
+- There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purposes. The schedule will be shared during the program. 
+- It is a 3-month program. 2 days a week . 2 hrs per session. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
 - Candidates will be given assignments and project work to complete within the timeline.
 - The program is not a traditional ppt session. It is Learn > Build > Get Feedback and Repeat.
-- Every candidate will have hands-on experience to build industry-standard solutions by collaborating with team members.
+- Every candidate will have hands-on experience in building industry-standard solutions by collaborating with team members.
 - Role-based training is a pre-requisite for ***Certification focussed training***. 
 - Certification guidance sessions are practice classes for QnA solving for AWS Certified Architect Professional (SAP-C02)
 
