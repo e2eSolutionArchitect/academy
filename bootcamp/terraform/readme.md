@@ -25,7 +25,7 @@ This 5-day Bootcamp aims to guide you through a few actual Infra-as-Code (Terraf
 - Candidate MUST have at least basic Cloud fundamental knowledge to join this Bootcamp
 (***Before*** the first day of class)
 - Candidate needs to have a [GitHub](https://github.com/) account
-- Please make sure you can access the [AWS Management Console](https://console.aws.amazon.com/console/home?region=us-east-1) or [Azure Management portal](https://portal.azure.com/) 
+- Please make sure you can access the [AWS Management Console](https://console.aws.amazon.com/console/home?region=us-east-1) or [Azure Management portal](https://portal.azure.com/) or [Google Cloud Console](https://console.cloud.google.com/) based on your cloud provider choice.
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Infrastructure Engineering](https://app.slack.com/client/T04K2836TGC/C05H77HSV5L)
@@ -45,7 +45,9 @@ This 5-day Bootcamp aims to guide you through a few actual Infra-as-Code (Terraf
 - The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants.
+- 🔔 The sessions will be focussed on Terraform in general. Not specific to AWS/Azure/GC. Candidates can use their preferred cloud providers (AWS/Azure/GC) to implement Terraform tasks.
+- 🔔 During the program, the candidates will be using their own Terraform Cloud and AWS/Azure/GC/ account to perform the daily tasks, projects, and assignments.   
 
 ----------------------------
 
