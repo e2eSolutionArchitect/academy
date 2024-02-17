@@ -20,7 +20,7 @@
 ### Pre-requisites: 
 - Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure Bootcamp program
 (***Before*** the first day of class)
-- Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
+- Please make sure you can access the [Azure Management portal](https://portal.azure.com/). [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
@@ -37,10 +37,11 @@
 ## Training format & Important notes:
 
 - Total 5 classes, each class length is 1.5 hours.
-The class schedule will be published to registered candidates prior to the program start date.
+The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants.
+- 🔔 Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/rules.md) for session/event/program rules.  
 
 ----------------------------
 
