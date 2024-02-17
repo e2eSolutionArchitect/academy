@@ -87,7 +87,7 @@ The class schedule will be published to registered candidates before the program
 - AWS Solution Architect Professional Certification guide [click here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
 - Candidates need to register for the certification themselves. The Masterclass program fee doesn't include the certification fee
 
-## :calendar: Program Agenda: [Click here](https://github.com/e2eSolutionArchitect/aws-cloud-masterclass/blob/main/agenda.md) for detailed agenda
+## :calendar: Program Agenda: [Click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/aws-masterclass-agenda.md) for detailed agenda
 
 - Course Introduction
 - AWS Well-Architected Framework
