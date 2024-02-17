@@ -12,7 +12,7 @@
 :memo: ***PROGRAM STRUCTURE***
 - MASTERCLASS is a Hybrid program ***ONLINE & CLASSROOM***.
 - The program is divided into two major modules. :large_orange_diamond: Role-based Training :large_orange_diamond: Certification focussed Training
-- Primarily teaching classes will be conducted via Online mode.
+- Primarily sessions will be conducted via Online mode.
 - There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purposes. The in-person meetup invitation schedule will be shared during the program based on how many attendees can attend the meetup. 
 - It is a 3-month program. :alarm_clock: ***2 days a week . 2 hrs per session***. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
 - Candidates will be given assignments and project work to complete within the timeline.
@@ -20,6 +20,8 @@
 - Every candidate will have hands-on experience in building industry-standard solutions by collaborating with team members.
 - Role-based training is a pre-requisite for ***Certification focussed training***. 
 - Certification guidance sessions are practice classes for QnA solving for AWS Certified Architect Professional (SAP-C02)
+
+:bell: Candidates registered for the Masterclass will be able to attend any Open House sessions (conducted by e2eSolutionArchitect) during the tenure of the masterclass program. There will be no extra fee to join the open house for the Masterclass candidates. 
 
 :high_brightness: ***IMPORTANT***
 - Attendance is required in every session
