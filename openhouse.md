@@ -1,11 +1,11 @@
-# Institute for Professional Career Development & Training
+# OPEN HOUSE: Professional Career Development & Training
 
 ![openhouse-cloud-v01](https://github.com/e2eSolutionArchitect/academy/assets/62712515/e38b5e4e-e0ae-4c33-b2de-a8732ae06be0)
 [Click here](https://e2esolutionarchitect.eventbrite.ca/)
 
 # Event: Openhouse for IT Professionals
 
-## About IPCD - Institute for Professional Career Development & Training
+## About End-to-end Solution Architect Academy
 A dedicated educational career-focused program crafted for newcomers in Canada. Professionals in IPCD mentor and coach IT enthusiasts, fresh graduates, and newcomers in Canada, for their new careers and prepare for the next opportunity. 
 
 ## NOTE: 
