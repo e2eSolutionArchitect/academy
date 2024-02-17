@@ -7,14 +7,14 @@
 ## AWS Architect Professional Master Class for IT Professionals and IT Graduates
 
 ----------------------------
-### About this training program
+### :star: About this training program
 
-***PROGRAM STRUCTURE***
+:memo: ***PROGRAM STRUCTURE***
 - MASTERCLASS is a Hybrid program ***ONLINE & CLASSROOM***.
 - The program is divided into two major modules. :large_orange_diamond: Role-based Training :large_orange_diamond: Certification focussed Training
 - Primarily teaching classes will be conducted via Online mode.
 - There will be in-person meetups & meetings for the project presentation and other technical guidance & socialization purposes. The in-person meetup invitation schedule will be shared during the program based on how many attendees can attend the meetup. 
-- It is a 3-month program. 2 days a week . 2 hrs per session. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
+- It is a 3-month program. :alarm_clock: ***2 days a week . 2 hrs per session***. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
 - Candidates will be given assignments and project work to complete within the timeline.
 - The program is not a traditional ppt session. It is Learn > Build > Get Feedback and Repeat.
 - Every candidate will have hands-on experience in building industry-standard solutions by collaborating with team members.
@@ -23,7 +23,7 @@
 
 ***IMPORTANT***
 - Attendance is required in every session
-- Certificate of completion of the Masterclass & post-program benefits will be given to all participants who attended >80% of sessions and completed their project work, Assignments, Program Review & Feedback within the timeline with 100% completion.
+- Certificate of completion of the Masterclass & post-program benefits will be given to all participants who attended >80% of sessions and completed their Project work, Assignments, Program Review & Feedback within the timeline with 100% completion.
 - Every session in the Role-based module is structured as Concept/Presentation(30%), Hands-on(70%)
 
 ----------------------------
