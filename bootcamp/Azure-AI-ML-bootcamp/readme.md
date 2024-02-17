@@ -43,7 +43,8 @@
 The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants.
+- 🔔 Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/rules.md) for session/event/program rules. 
 
 ----------------------------
 
