@@ -6,6 +6,7 @@
 
 ----------------------------
 ### :star: About this training program
+This 5-day Bootcamp aims to guide you through a few actual Infra-as-Code (Terraform) problem-solving scenarios. In the short duration of this Bootcamp, the candidates will have practical hands-on experience using Terraform for IaC.
 
 :high_brightness: ***IMPORTANT***
 - Bootcamp is a ***HYBRID WORKSHOP*** program. Classroom & Online. For those who are out-of-city candidates, the 'Online Classroom' link will be shared.
