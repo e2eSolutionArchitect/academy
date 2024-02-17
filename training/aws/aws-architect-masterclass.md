@@ -4,7 +4,7 @@
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## AWS Architect Professional Master Class for IT Professionals and IT Graduates
+## AWS Architect Professional Masterclass for IT Professionals and IT Graduates
 
 ----------------------------
 ### :star: About this training program
