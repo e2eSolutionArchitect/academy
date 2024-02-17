@@ -47,7 +47,8 @@ This 5-day Bootcamp aims to guide you through a few actual Infra-as-Code (Terraf
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants.
 - 🔔 The sessions will be focussed on Terraform in general. Not specific to AWS/Azure/GC. Candidates can use their preferred cloud providers (AWS/Azure/GC) to implement Terraform tasks.
-- 🔔 During the program, the candidates will be using their own Terraform Cloud and AWS/Azure/GC/ account to perform the daily tasks, projects, and assignments.   
+- 🔔 During the program, the candidates will be using their own Terraform Cloud and AWS/Azure/GC/ account to perform the daily tasks, projects, and assignments.
+- 🔔 Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/rules.md) for session/event/program rules.  
 
 ----------------------------
 
