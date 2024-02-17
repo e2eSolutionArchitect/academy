@@ -29,14 +29,13 @@ Join the ***Slack*** channel
 
 ## e2eSA CLOUD ESSENTIALS Open House sessions. Check the session schedule and register for FREE. Registration required. 
 
-
-[![e2eSA CLOUD ESSENTIALS Open House sessions](https://user-images.githubusercontent.com/62712515/218327365-1c6cc841-555b-4c11-b382-f68473ee864e.png)](https://e2esolutionarchitect.eventbrite.com/)
-[Click here](https://github.com/e2eSolutionArchitect/academy/blob/main/cloud-essentials-openhouse.md)
-
 ![openhouse-cloud-v01](https://github.com/e2eSolutionArchitect/academy/assets/62712515/e38b5e4e-e0ae-4c33-b2de-a8732ae06be0)
+[Click here](https://e2esolutionarchitect.eventbrite.ca/)
 
 ![openhouse-ai-ml](https://github.com/e2eSolutionArchitect/academy/assets/62712515/4e12fe5c-6403-4f58-a978-5c0cfa6ccc9d)
+[Click here](https://e2esolutionarchitect.eventbrite.ca/)
 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/8308302/10451fed-8d1a-4b29-bbd3-9e263fae66c1)
+[Click here](https://e2esolutionarchitect.eventbrite.ca/)
 
 Please visit https://e2esolutionarchitect.com. Feel free to write us for any queries to som@e2eSolutionArchitect.com
