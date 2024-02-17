@@ -31,12 +31,13 @@
 ----------------------------
 ### Eligibility for attending this training program
 - IT working Professionals, University Graduates, and People interested in changing roles to IT
-- At least a very basic understanding of the Cloud. (e,g What is Cloud, Benefits of Cloud)
+- At least a very basic understanding of the AWS Cloud. (e,g What is Cloud, Benefits of Cloud)
 ----------------------------
 
-:dart: ### Pre-requisites: 
-- Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure Bootcamp program
+### :dart: Pre-requisites: 
+- Candidate MUST have at least basic Cloud fundamental knowledge to join the AWS Architect Masterclass
 (***Before*** the first day of class)
+- Candidate needs to have a [GitHub](https://github.com/) account
 - Please make sure you can access the [AWS Management Console](https://console.aws.amazon.com/console/home?region=us-east-1) 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
@@ -53,17 +54,19 @@
 
 :diamonds: ## Training format & Important notes:
 
-The class schedule will be published to registered candidates prior to the program start date.
+The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please take notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
-- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
+- For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants.
+- :bell: During the program, the candidates will be using their own AWS account to perform the daily tasks, projects, and assignments.  
 
 ----------------------------
 
 :pencil: ## Instructions for Lab Assignments
+- Candidates to create a public git repository named ***'aws-architect-masterclass'*** in their git account and store all the assignments and project work in that git repository.
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- The markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets where ever required.
-- Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
+- The markdown file should contain the assignment problem and every step to create the solution with screenshots and code snippets wherever required.
+- Document troubleshooting, problem & solution in the Markdown file
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
 ----------------------------
