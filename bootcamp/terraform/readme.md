@@ -108,4 +108,6 @@ This 5-day Bootcamp aims to guide you through a few actual Infra-as-Code (Terraf
 - Introduction about Interview prep coaching.     
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
-[![e2esa-bootcamp-posters-01](https://github.com/e2eSolutionArchitect/terraform/assets/62712515/485d9a63-da4b-4308-853d-cca3a5334e89)](https://e2esolutionarchitect.eventbrite.ca)
+[![bootcamps](https://github.com/e2eSolutionArchitect/academy/assets/62712515/a77f78b7-87f8-41d2-93de-3a836e2c7bb9)](https://e2esolutionarchitect.eventbrite.ca)
+[![aws-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47d732cb-ceec-45cd-adab-5f7445862708)](https://e2esolutionarchitect.eventbrite.com)
+![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/9514db5f-7f40-4357-b01d-85b61d0def1a)
