@@ -1,4 +1,4 @@
-# AWS Architect Professional Master Class
+# AWS Architect Professional Masterclass
 
 [![aws-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/47d732cb-ceec-45cd-adab-5f7445862708)](https://e2esolutionarchitect.eventbrite.com)
 
