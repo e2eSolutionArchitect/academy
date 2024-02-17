@@ -120,3 +120,4 @@ The class schedule will be published to registered candidates prior to the progr
 [![bootcamps](https://github.com/e2eSolutionArchitect/academy/assets/62712515/a77f78b7-87f8-41d2-93de-3a836e2c7bb9)](https://e2esolutionarchitect.eventbrite.ca)
 
 ![azure-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/9514db5f-7f40-4357-b01d-85b61d0def1a)
+<img width="1427" alt="image" src="https://github.com/e2eSolutionArchitect/academy/assets/62712515/b709a7af-8fee-4238-b121-3672b1ccee79">
