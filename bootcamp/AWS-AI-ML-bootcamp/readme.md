@@ -123,4 +123,6 @@ The class schedule will be published to registered candidates before the program
 
 ![aws-3m-master-class](https://github.com/e2eSolutionArchitect/academy/assets/62712515/896abdb8-6d98-4006-8cfa-98d05b442145)
 
-:writing_hand: Feel free to contact and collaborate with us. You are welcome to contribute in our forum to build a better tomorrow. 
+:writing_hand: Feel free to contact and collaborate with us. You are welcome to contribute to our forum to build a better tomorrow. 
+
+<img width="1427" alt="image" src="https://github.com/e2eSolutionArchitect/academy/assets/62712515/b709a7af-8fee-4238-b121-3672b1ccee79">
