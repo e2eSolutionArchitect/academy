@@ -1,6 +1,6 @@
 # AWS niche skills
 
-The cloud is an ocean. You might need niche skills in specific cloud areas when you are an advanced cloud engineer/architect. 
+The cloud is an ocean. You might need niche skills in specific cloud areas when you are an advanced cloud engineer/architect and working in your organization on a complex technical project. 
 We are bringing Cloud niche skill training and guidance. 
 
 ## What are Cloud niche skills?
