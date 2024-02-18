@@ -15,6 +15,7 @@ The cloud niche skill list goes on and on. However, a few very important areas w
 - Data Engineering using Amazon LakeFormation
 - S3 DataLake to manage Unstructured data
 - Data warehouse setup using Amazon Redshift
+- Infrastructure as Code using AWS CloudFormation, Terraform 
 - and more ......
 
 If you are looking for technical guidance for a very specific solution (Cloud/AI ML), please feel free to drop a note to e2eSolutionArchitect@gmail.com. 
