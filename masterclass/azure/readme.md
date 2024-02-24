@@ -30,7 +30,7 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 ### Pre-requisites: 
 - Candidate MUST have at least basic Cloud fundamental knowledge to join the Azure masterclass
 (***Before*** the first day of class)
-- Please make sure you are able to access the [Azure Management portal](https://portal.azure.com/). 
+- Please make sure you can access the [Azure Management portal](https://portal.azure.com/). 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
@@ -47,8 +47,8 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 
 ## Training format & Important notes:
 
-- 3 days a week, 1.5 hours each session (conflict with National Holidays will be considered off day) 
-- The class schedule will be published to registered candidates prior to the program start date.
+- It is a 3-month program. :alarm_clock: ***2 days a week . 2 hrs per session***. Total 48+2 Hours in 12 Weeks. Final 2 Hours session is for Career guidance, Interview guidance
+- The class schedule will be published to registered candidates before the program start date.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified to the participants. 
 
@@ -56,7 +56,7 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 
 ## Instructions for Lab Assignments
 - Lab assignments need to be documented properly in markdown file format and submitted in designated folders.
-- The markdown file should contain the assignment problem, Each and every step to create the solution with screenshots and code snippets wherever required.
+- The markdown file should contain the assignment problem, and each step to create the solution with screenshots and code snippets wherever required.
 - Document trouble shooting, problem & solution in Markdown file [here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/azure/azure-troubleshoot.md).
 - Troubleshoot document should be updated as and when any issue is faced and resolved. 
 
