@@ -68,18 +68,26 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 - Document and submit the project as per the guidelines mentioned [here]
 - Feedback, Comments, and grading will be shared and discussed during the last class of the program.
 
-## Program Agenda: [click here](https://github.com/e2eSolutionArchitect/azure-cloud-masterclass/tree/main/contents)
+## Program Agenda: ( Detail agenda will be shared with registered candidates)
+- Course Introduction
+- Azure Framework
+- Azure Identity and Access Management
+- Azure Networking Fundamental
+- Azure Advance Networking
+- Hybrid Cloud Networking
+- Azure ExpressRoute and on-prem connectivity
+- Azure Security - Network
+- Azure Security - Infrastructure
+- Azure Compute & Container Services
+- Azure BICEP, ARM Template - Infrastructure-as-Code
+- Azure Monitoring, Auditing, Logging
+- Azure DevOps
+- Azure Cost Management, Budgeting
+- Large Scale application architecture
+- Final Project Presentation
+- Certification Guidance
+- Career Roadmap and Opportunity
   
-### *** Role-based Training Program agenda ends after 2 months ***
-----------------------------
-### *** Certification-based Training Program agenda starts from 3rd month here ***
-
-|   |   |   |   | 
-|---|---|---|---|
-| ***Month 3: Week 1:*** | Day 1, 2, 3 | Exam Prep Q & A | Assignments | 
-| ***Month 3: Week 2:*** | Day 1, 2, 3 | Exam Prep Q & A | Assignments | 
-| ***Month 3: Week 3:*** | Day 1, 2, 3 | Exam Prep Q & A | Assignments | 
-| ***Month 3: Week 4:*** | Day 1, 2, 3 | Exam Prep Q & A | Assignments | 
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
