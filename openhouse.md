@@ -28,6 +28,7 @@ Som has around 15 years of accomplishments in IT solutions delivery for various 
 ## Resources:
 - Future of Cloud [click here](https://www.youtube.com/watch?v=Aqu9KUlVwaw)
 - The Next Era − We Shape AI, AI Shapes Us l Gartner IT Symposium/Xpo [click here](https://www.youtube.com/watch?v=0s7Jw9xkSYQ)
+- Jensen Huang of Nvidia on the Future of A.I. | DealBook Summit 2023 [click here](https://www.youtube.com/watch?v=Pkj-BLHs6dE)
 
 ![openhouse-ai-ml](https://github.com/e2eSolutionArchitect/academy/assets/62712515/4e12fe5c-6403-4f58-a978-5c0cfa6ccc9d)
 [Click here](https://e2esolutionarchitect.eventbrite.ca/)
