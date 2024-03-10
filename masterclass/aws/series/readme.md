@@ -11,6 +11,16 @@
 - Please check the Eventbrite link for the particular session's schedule
 - Venue or Online meeting link will be shared with registered candidates only
 
+## Eligibility
+- Candidates are required to have Cloud fundamental knowledge
+
+## IMPORTANT
+- The workshops are purely hands-on practice sessions
+- Candidates will be using their own AWS accounts and building the solution
+- The major part of the workshop is screen sharing, whiteboarding, designing, and building the solution. There is no separate study material.
+- Like an organization's assignment, the candidates will be doing their research, exploring things to build the solution
+- Instructor will guide candidates and show directions to design and build use cases
+
 ## Agenda
 
 - AWS IAM Strategy and Best Practices
