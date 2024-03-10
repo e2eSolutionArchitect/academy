@@ -17,3 +17,5 @@
 
 ## Workshop
 - Design and create a secure landing for a StartUp company 'DailyFresh'
+
+:writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
