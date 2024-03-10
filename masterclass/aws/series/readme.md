@@ -4,11 +4,12 @@
 ----------------------------
 ### :star: About this training program
 
-:memo: ***PROGRAM STRUCTURE***
 - Masterclass Series is a Hybrid program ***ONLINE & CLASSROOM***.
 - This series consists of several workshops as per the agenda ( mentioned in the Agenda section)
 - Candidates can register for one or more workshops as per their interest
-- :bell:  Registration for every session is separate. Candidate needs to register separately 
+- :bell:  Registration for every session is separate. Candidate needs to register separately
+- Please check the Eventbrite link for the particular session's schedule
+- Venue or Online meeting link will be shared with registered candidates only
 
 ## Agenda
 
