@@ -1,7 +1,7 @@
 # AWS Masterclass Series Agenda
 
-- AWS IAM [Usecase](https://docs.aws.amazon.com/IAM/latest/UserGuide/IAM_UseCases.html)
-- Security best practices and use cases in AWS Identity and Access Management [click here](https://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPracticesAndUseCases.html)
+- AWS IAM Usecase
+- Security best practices and use cases in AWS Identity and Access Management
 - Security best practices in IAM
 - Root user best practices for your AWS account
 - Business use cases for IAM
