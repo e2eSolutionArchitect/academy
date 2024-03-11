@@ -11,9 +11,7 @@
 - Venue or Meeting details will be shared with registered candidates only
 ------------
 ***Agenda***
-- Azure Organization
-- - Root Account
-  - OU & BU Accounts and Account hierarchy 
+- Azure Management groups, Subscription, Resource Groups and hierarchy 
 - Azure IAM [use case](#)
 - Security best practices and use cases in Azure Identity and Access Management [click here](#)
 - Security best practices in IAM
