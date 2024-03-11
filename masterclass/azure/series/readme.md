@@ -26,10 +26,10 @@
 
 |# | Topic | Session Code| Short Desc|
 |---|---|---|---|
-|01 | Azure IAM | [AZ-IAM-101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session01.md) | Azure IAM Strategy and Best Practices |
-|02 | Azure IAM | [AZ-IAM-102](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session02.md) | Azure IAM use case|
-|03 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session03.md) | Design and Execute Pipeline|
-|04 | Azure DevOps | [AZ-ADO-102](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session04.md) | Cross platform resource deployment|
+|01 | Azure IAM | [AZ-IAM-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session01.md) | Azure IAM Strategy and Best Practices |
+|02 | Azure IAM | [AZ-IAM-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session02.md) | Azure IAM use case|
+|03 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session03.md) | Design and Execute Pipeline|
+|04 | Azure DevOps | [AZ-ADO-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session04.md) | Cross platform resource deployment|
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
