@@ -32,4 +32,6 @@
 
 :memo: Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session05.md) for the next session agenda.
 
+:star: Workshop full list [here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass/azure/series)
+
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
