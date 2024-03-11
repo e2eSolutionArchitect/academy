@@ -22,8 +22,8 @@
  
 ## Workshop
 
-***Azure Organization***
-- Create a BU Account
+***Azure Subscription***
+- Create Tenant, Management group & Subscription
 
 ***IAM Roles & Policy***
 - - Initial setup of a StartUp company 'DailyFresh'. Setup Administrative access to provision and manage Azure resources
