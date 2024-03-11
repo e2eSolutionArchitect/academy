@@ -2,7 +2,7 @@
 - Session Code: ADO102
 ------------
 ***Prerequisites***
-- [Session ADO101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session03.md) competency
+- [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session03.md) competency
 - Azure fundamental understanding
 - Concept of DevOps
 - Azure portal Access [click here](https://portal.azure.com/#home)
