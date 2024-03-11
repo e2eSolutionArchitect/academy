@@ -18,4 +18,6 @@
 ## Workshop
 - Design and create a secure landing for a StartUp company 'DailyFresh'
 
+:star: AWS Workshop full list [here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass/aws/series)
+
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
