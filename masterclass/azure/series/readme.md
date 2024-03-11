@@ -26,8 +26,8 @@
 
 |# | Topic | Session Code| Short Desc|
 |---|---|---|---|
-|01 | Azure IAM | AZ-IAM-101 | Azure IAM Strategy and Best Practices |
-|02 | Azure IAM | AZ-IAM-102 | Azure IAM use case|
+|01 | Azure IAM | [AZ-IAM-101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session01.md) | Azure IAM Strategy and Best Practices |
+|02 | Azure IAM | [AZ-IAM-102](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session02.md) | Azure IAM use case|
 |03 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session03.md) | Design and Execute Pipeline|
 |04 | Azure DevOps | [AZ-ADO-102](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/session04.md) | Cross platform resource deployment|
 
