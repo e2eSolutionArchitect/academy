@@ -28,6 +28,8 @@
 - Setup Pipeline variable and triggers
 - Execute the Pipeline and test
 - Design cross-platform deployment where the ADO Pipeline will be used to deploy infrastructure in AWS
-- Create a pipeline to deploy cross-platform resources using Terraform project
+- Create a pipeline to deploy cross-platform resources using the Terraform project
+
+:memo: Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session05.md) for the next session agenda.
 
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
