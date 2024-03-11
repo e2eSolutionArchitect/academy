@@ -32,6 +32,6 @@
 - Permission Boundary
 - Service Control Policy (SCP)
 
-:memo: Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/session01.md) for the next session agenda.
+:memo: Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/session02.md) for the next session agenda.
 
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
