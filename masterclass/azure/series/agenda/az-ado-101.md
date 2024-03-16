@@ -1,12 +1,14 @@
 ## :memo: Azure DevOps
-- Session ADO01
+- Session Code: AZ-ADO-101
 ------------
 ***Prerequisites***
 - Azure fundamental understanding
 - Concept of DevOps
-- Azure portal Access [click here](https://portal.azure.com/#home)
+- Azure Portal Access [click here](https://portal.azure.com/#home)
 - Azure active subscription
+- - How to activate subscription - [click here](https://www.youtube.com/watch?v=WjItvZILQUI)
 - Azure DevOps Portal Access [click here](https://dev.azure.com/)
+- - How to sign up for Azure DevOps portal - [click here](https://www.youtube.com/watch?v=oVIf09CMTMw)
 ------------
 :calendar: ***Schedule***
 
@@ -39,8 +41,6 @@
 - Set pipeline trigger
 - Execute the Pipeline and test
 
-:memo: Please [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session04.md) for the next session agenda.
-
-:star: Workshop full list [here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass/azure/series)
+***Next session agenda*** [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-102.md)
 
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
