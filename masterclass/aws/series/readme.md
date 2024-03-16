@@ -25,8 +25,8 @@
 
 |# | Topic | Session Code| Short Desc|
 |---|---|---|---|
-|01 | AWS IAM | [AWS-SEC-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-sec-101.md) | Azure IAM Strategy and Best Practices |
-|02 | AWS Security | [AWS-SEC-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-sec-102.md) | Azure Landing Zone |
+|01 | AWS Security | [AWS-SEC-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-sec-101.md) | Azure IAM Strategy and Best Practices |
+|02 | AWS Security | [AWS-SEC-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-sec-102.md) | Azure Landing Zone |
 |03 | AWS DevOps | [AWS-DOPS-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-dops-101.md) | Design and Execute Pipeline|
 |04 | AWS DevOps | [AWS-DOPS-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/aws/series/agenda/aws-dops-102.md) | Cross platform resource deployment|
  
