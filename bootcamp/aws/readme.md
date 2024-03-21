@@ -1,3 +1,4 @@
+
 [![image](https://user-images.githubusercontent.com/62712515/224561412-dfbc0c5c-6c4c-439d-87f3-e35ed564a5c1.png)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
@@ -37,7 +38,7 @@
 - This training program is completely online.
 - Total 5 classes Each class length is 1.5 hours including 15 mins break.
 - Training duration 1 to 2 weeks maximum.
-- The class schedule will be published to registered candidates prior to the program start date.
+- The class schedule will be published to registered candidates before the program start date.
 - Classes may not be recorded. Please make notes.
 - This program doesn't include any dedicated study material. Maximum whiteboard session and interactive discussion. 
 - For any unavoidable situation if any class needs to be rescheduled then it will be notified well in advance to the participants. 
@@ -98,7 +99,7 @@
 
 ***Class 3:***
   - Autoscaling
-  - AWS best practices
+  - [AWS best practices](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.map.en.html)
   - Monitor and maintain AWS resources
     - Amazon CloudWatch
     - AWS Backup
@@ -112,6 +113,7 @@
 - Deploy and manage AWS compute resources
 - AWS CI/CD, AWS DevSecOps
 - Feedback form
+- ⭐ Participate in e2eSA 'Solution Bar' - Experimental solution design and development of new ideas in Cloud, AI, ML, GenAI
 - [Cloud Architect's HELPLINE and CoPilot Program](https://github.com/e2eSolutionArchitect/academy/blob/main/copilot.md)
 - [AWS CodePipeline](https://github.com/e2eSolutionArchitect/scripts/tree/main/aws/codepipeline)
 - In-class Quiz
