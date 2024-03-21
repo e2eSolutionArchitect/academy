@@ -81,7 +81,7 @@
   - Manage AWS identities and governance
   - AWS Policy Definition, Assignment, Exemptions, Tagging, Custom Policy
   - In-class Quiz
-  - Project [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/AWS/small-business-setup.md). Use AWS ARM template.
+  - Project [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/projects/AWS/small-business-setup.md). Use AWS CloudFormation template.
 
 ***Class 2:***
   - AWS Active Directory Design, Typical Org structure, Program/Project Governance Model
