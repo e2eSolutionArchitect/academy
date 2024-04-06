@@ -56,5 +56,7 @@
 - Set pipeline trigger
 - Execute the Pipeline and test
 
+***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
+
 :star: Azure Workshop full list [here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass/azure/series)
 :writing_hand:  Please feel free to drop a note to e2eSolutionArchitect@gmail.com for any queries.
