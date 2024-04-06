@@ -37,11 +37,7 @@
 - Write pipeline YML code to execute the Azure BICEP project
 - Create a pull request in the Azure repo and merge it to the 'main' branch
 - Setup Continuous Integration with Azure Repo and ADO Pipeline
-- Create ADO pipelines to deploy network infrastructure and application infrastructure separately
-- Create Service Connection
-- Set pipeline Environment variable
-- Set pipeline trigger
-- Execute the Pipeline and test
+
 
 ***Next session agenda*** [click here](https://github.com/e2eSolutionArchitect/academy-training-contents/blob/main/masterclass/azure/series/agenda/az-ado-weekend-day2.md)
 
