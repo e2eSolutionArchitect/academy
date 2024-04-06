@@ -11,7 +11,12 @@
 - Venue or Meeting details will be shared with registered candidates only
 ------------
 ## Agenda
-- Design a pipeline to deploy a sample infrastructure for a web application 
+- Design a pipeline to deploy a sample infrastructure for a web application
+- Career guidance for the next steps
+- Job Opportunity, Where and How to look for it.
+- Cloud Certification instruction, Certification path, and exam tips.
+- Introduction about Role-based and Certification training programs overview.
+- Introduction about Interview prep coaching.
 
 ## Workshop
 - Create ADO pipelines to deploy network infrastructure and application infrastructure separately
