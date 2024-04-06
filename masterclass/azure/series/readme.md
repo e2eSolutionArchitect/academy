@@ -36,5 +36,3 @@
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
 
-## References
--[Training material](https://github.com/e2eSolutionArchitect/academy-training-contents/tree/main/masterclass/Azure/series) - e2eSA Admin access only
