@@ -44,7 +44,7 @@
 ***Service Control Policy (SCP)***
 - Setup a SCP which will restrict any user ( except Admin user ) to create EC2 instances other than ( t2 and t3 series )
 
-***Next session agenda*** [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/session02.md)
+***Next session agenda*** [click here](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-iam-102.md)
 
 :star: Azure Workshop full list [here](https://github.com/e2eSolutionArchitect/academy/tree/main/masterclass/azure/series)
 
