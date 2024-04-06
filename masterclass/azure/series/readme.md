@@ -30,6 +30,8 @@
 |02 | Azure IAM | [AZ-IAM-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-iam-102.md) | Azure IAM use case|
 |03 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-101.md) | Design and Execute Pipeline|
 |04 | Azure DevOps | [AZ-ADO-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-102.md) | Cross platform resource deployment|
+|05 | Azure DevOps | [AZ-ADO-WEEKEND-DAY1](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-weekend-day1.md) | Azure DevOps Weekend Bootcamp Day1|
+|06 | Azure DevOps | [AZ-ADO-WEEKEND-DAY2](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-weekend-day2.md) | Azure DevOps Weekend Bootcamp Day2|
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
