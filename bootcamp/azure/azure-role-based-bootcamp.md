@@ -1,15 +1,15 @@
 
 
-## Azure cloud Role-based bootcamp for IT Professionals and University IT Graduates
+## Azure Cloud Role-based bootcamp for IT Professionals and University IT Graduates
 
 *** Role-based training *** for Cloud Engineers and Architects 
 
 ----------------------------
 ### :star: About this training program
 
-- Cloud Role-based bootcamp is primarily a CLASSROOM and Hybrid program ***ONLINE & CLASSROOM***. Outstation candidates can attend via online mode. 
-- This series consists of several workshops as per the agenda ( mentioned in the Agenda section)
-- Candidates can register for one or more workshops as per their interest
+- Cloud Role-based bootcamp is primarily a CLASSROOM and Hybrid program (***ONLINE & CLASSROOM***). Outstation candidates can attend via online mode. 
+- It is a series of workshop-based sessions as per the agenda ( mentioned in the Agenda section)
+- Candidates can register for one or more sessions as per their choice
 - :bell:  Registration for every session is separate. Candidate needs to register separately
 - Please check the Eventbrite link for the particular session's schedule
 - Venue or Online meeting link will be shared with registered candidates only
