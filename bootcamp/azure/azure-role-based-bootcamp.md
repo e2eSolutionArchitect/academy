@@ -15,7 +15,7 @@
 - Venue or Online meeting link will be shared with registered candidates only
 
 ## Eligibility
-- Candidates are required to have Cloud fundamental knowledge
+- Candidate MUST have at least basic Cloud fundamental knowledge (***Before*** the first day of class)
 
 ## IMPORTANT
 - The workshops are purely hands-on practice sessions
@@ -23,6 +23,19 @@
 - The major part of the workshop is whiteboarding, designing, screen sharing, and building the solution. There is no separate study material
 - The workshop topics are industry-standard work
 - Instructor will guide candidates and show directions to design and build use cases
+
+### Pre-requisites: 
+- Please make sure you can access the [Azure Management portal](https://portal.azure.com/) and have an active subscription. [Click here](https://www.youtube.com/watch?v=WjItvZILQUI) for account setup.
+- Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
+- Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
+- Join Slack Channel [Azure Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04KCD5HPC1)
+- All Communication during Bootcamp will be through this Slack Channel [Azure Bootcamp Group](https://talentdevelop-u8d3237.slack.com/archives/C05AFBZ4RL4)
+- Download and Install Putty & PuttGen [click here](https://www.puttygen.com/)
+- Subscribe to useful resources 
+  - [GitHub e2eSA](https://github.com/e2eSolutionArchitect/scripts)
+  - [e2eSA YouTube tutorials](https://www.youtube.com/channel/UC5Juuk7aTvbRmrABMq4onJA/videos)
+  - [Microsift Learning Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+  - Apply access to [bootcamp repository](https://github.com/e2eSolutionArchitect/azure-cloud-bootcamp)
 
 ## Agenda & Workshop table
 
