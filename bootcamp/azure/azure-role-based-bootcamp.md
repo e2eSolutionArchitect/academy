@@ -42,9 +42,13 @@
 |# | Topic | Session Code| Short Desc|
 |---|---|---|---|
 |01 | Azure IAM | [AZ-IAM-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-iam-101.md) | Azure IAM Strategy and Best Practices |
-|02 | Azure IAM | [AZ-IAM-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-iam-102.md) | Azure IAM use case|
-|03 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-101.md) | Design and Execute Pipeline|
-|04 | Azure DevOps | [AZ-ADO-102](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-102.md) | Cross platform resource deployment|
+|02 | Azure Cloud Infrastructure | [AZ-INFRA-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-infra-101.md) | Azure Infra and IaC tools (BICEP, Terraform)|
+|03 | Azure Cloud Networking | [AZ-NET-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-net-101.md) | Azure networking components|
+|04 | Azure Storage | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-101.md) | Azure Cloud storage|
+|05 | Azure Compute | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-101.md) | Azure Container services & AKS|
+|06 | Azure DevOps | [AZ-ADO-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ado-101.md) | Enable CICD pipeline|
+|07 | Azure Cloud Monitoring | [AZ-MONT-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-moni-101.md) | Enable Cloud Monitoring|
+|08 | Azure Machine Learning | [AZ-ML-101](https://github.com/e2eSolutionArchitect/academy/blob/main/masterclass/azure/series/agenda/az-ml-101.md) | Machine Learning services intro|
 
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of other Classroom and online Trainings 
 ![image](https://github.com/e2eSolutionArchitect/academy/assets/62712515/8b0d2bc9-6c74-40c3-a7fe-40daea9c8260)
