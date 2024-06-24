@@ -1,11 +1,13 @@
 
 
-## Azure Architects Masterclass Series for IT Professionals and IT Graduates
+## Azure cloud Role-based bootcamp for IT Professionals and University IT Graduates
+
+*** Role-based training *** for Cloud Engineers and Architects 
 
 ----------------------------
 ### :star: About this training program
 
-- Masterclass Series is a Hybrid program ***ONLINE & CLASSROOM***.
+- Cloud Role-based bootcamp is primarily a CLASSROOM and Hybrid program ***ONLINE & CLASSROOM***. Outstation candidates can attend via online mode. 
 - This series consists of several workshops as per the agenda ( mentioned in the Agenda section)
 - Candidates can register for one or more workshops as per their interest
 - :bell:  Registration for every session is separate. Candidate needs to register separately
