@@ -19,9 +19,9 @@
 
 ## IMPORTANT
 - The workshops are purely hands-on practice sessions
-- Candidates will be using their own Azure accounts and building the solution
-- The major part of the workshop is screen sharing, whiteboarding, designing, and building the solution. There is no separate study material
-- Like an organization's assignment, the candidates will be doing their research, exploring things to build the solution
+- Candidates will be using their own Azure accounts & subscriptions in the workshop
+- The major part of the workshop is whiteboarding, designing, screen sharing, and building the solution. There is no separate study material
+- The workshop topics are industry-standard work
 - Instructor will guide candidates and show directions to design and build use cases
 
 ## Agenda & Workshop table
