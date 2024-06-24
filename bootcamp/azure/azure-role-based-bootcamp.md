@@ -2,7 +2,7 @@
 
 ## Azure Cloud Role-based bootcamp for IT Professionals and University IT Graduates
 
-*** Role-based training *** for Cloud Engineers and Architects 
+***Role-based training*** for Cloud Engineers and Architects 
 
 ----------------------------
 ### :star: About this training program
