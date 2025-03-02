@@ -8,9 +8,8 @@
 ### About this training program
 
 ***IMPORTANT***
-- Bootcamp is a ***ONLINE and/or CLASSROOM WORKSHOP*** program based on venue availability
+- Bootcamp is a ***ONLINE and/or CLASSROOM WORKSHOP*** . The 'Online Classroom' link will be shared. If applicable, an in-person meetup schedule will be shared. 
 - Attendance is required in every session
-- Certificate of completion of the Boot camp is given to all participants who attended 100% of sessions and completed their project on time. 
 
 ----------------------------
 ### Eligibility for attending this training program
