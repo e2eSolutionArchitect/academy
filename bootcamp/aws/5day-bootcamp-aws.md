@@ -24,13 +24,13 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 
 ### How to register for this training program
 
-- Please submit the [career counselling form](https://e2esolutionarchitect.com/career-counselling/). We will get back to you. 
+- Please find this training [here](https://e2esolutionarchitect.eventbrite.com) and register. 
 ----------------------------
 
 ### Pre-requisites: 
 - Candidate MUST have Cloud fundamental knowledge to join AWs Boot camp program
 (***Before*** the first day of class)
-- Please make sure you are able to access AWS Management portal. 
+- Please make sure you can access the AWS Management portal. 
 - Install Microsoft Visual Studio Code. Please [Click here](https://code.visualstudio.com/download) to download and Install
 - Learn Markdown documentation [here](https://www.markdownguide.org/cheat-sheet/)
 - Join Slack Channel [AWS Cloud Engineering](https://talentdevelop-u8d3237.slack.com/archives/C04JZPZ6SKU)
