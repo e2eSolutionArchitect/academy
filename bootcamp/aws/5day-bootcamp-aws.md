@@ -2,10 +2,16 @@
 [![image](https://user-images.githubusercontent.com/62712515/224561412-dfbc0c5c-6c4c-439d-87f3-e35ed564a5c1.png)](https://e2esolutionarchitect.eventbrite.com)
 ***[Click here](https://e2esolutionarchitect.eventbrite.com)*** for list of upcoming trainings.
 
-## Program name: AWS Bootcamp for AWS Architects
 
+## Program name: AWS Bootcamp for IT Professionals and IT Graduates
+
+## :robot: Registration [click here](https://www.eventbrite.ca/e/azure-architect-masterclass-3-months-tickets-688806768587)
 ----------------------------
 ### About this training program
+The 5-day dedicated AWS cloud program aims to build a strong foundation in cloud technologies. This hands-on, intensive program covers the essentials of cloud platforms like AWS, Azure, and Google Cloud. You'll learn how to deploy, manage, and optimize cloud infrastructure, work to implement DevOps practices. By the end of the bootcamp, you'll be equipped to handle real-world cloud engineering challenges and guidance for cloud certification. 
+
+### About the organizer: 
+Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somspeaks/)) is a Cloud Infrastructure Architect working in an MNC. He has more than 16 years of accomplishments in IT solutions delivery for various financial institutions across the globe. He is a Cloud expert, specializing in Amazon Web Services (AWS) & Microsoft Azure. AWS Certified Solution Architect Professional, Azure Certified, Google Certified Digital Leader, Hashicorp Certified Terraform associate, and the saga continues to have more than a dozen international certifications.
 
 ***IMPORTANT***
 - Bootcamp is a ***ONLINE and/or CLASSROOM WORKSHOP*** . The 'Online Classroom' link will be shared. If applicable, an in-person meetup schedule will be shared. 
