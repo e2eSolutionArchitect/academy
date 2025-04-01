@@ -43,7 +43,7 @@ Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somsp
 
 | Time | Topic | Activity |  
 |------|-------|----------|  
-| **10:00 - 11:00 AM** | **Top In-Demand IT Skills for 2024-25** | - AI, Cloud, Cybersecurity, DevOps trends <br> - Free vs. paid learning resources |  
+| **10:00 - 11:00 AM** | **Top In-Demand IT Skills for 2025-26** | - AI, Cloud, Cybersecurity, DevOps trends <br> - Free vs. paid learning resources |  
 | **11:00 - 12:00 PM** | **Building a Portfolio/GitHub for Visibility** | - Live demo: How to showcase projects <br> - Quick GitHub profile optimization |  
 | **12:00 - 1:00 PM** | **Freelancing & Remote Work Opportunities** | - Best platforms (Toptal, Upwork, etc.) <br> - How to stand out as a freelancer |  
 | **1:00 - 1:30 PM** | **Q&A + Action Plan** | - Personalized career roadmap <br> - Bonus: Free checklist & templates |  
