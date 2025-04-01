@@ -26,7 +26,7 @@ Please check the registration page
 ## **Workshop Structure & Agenda**  
 
 ### **Day 1: Job Search & Career Strategy**  
-**Mode of Delivery:** **Live Interactive Session + Breakout Rooms + Polls & Q&A**  
+**Mode of Delivery:** **Interactive Session + Polls & Q&A**  
 
 | Time | Topic | Activity |  
 |------|-------|----------|  
