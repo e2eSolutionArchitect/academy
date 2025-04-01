@@ -22,6 +22,9 @@ Are you an IT professional looking to land your dream job, negotiate a higher sa
 
 Please check the registration page
 
+### **About the organizer:**
+Organizer 'Som' (LinkedIn profile [click here](https://www.linkedin.com/in/somspeaks/)) is a Cloud Infrastructure Architect working in an MNC. He has more than 17 year of accomplishments in IT solutions delivery for various financial institutions across the globe. He is a Cloud expert, specializing in Amazon Web Services (AWS) & Microsoft Azure. AWS Certified Solution Architect Professional, Azure Certified, Google Certified Digital Leader, Hashicorp Certified Terraform Associate, and the saga continues to have more than a dozen international certifications.
+
 ---
 ## **Workshop Structure & Agenda**  
 
