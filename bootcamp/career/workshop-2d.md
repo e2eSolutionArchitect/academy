@@ -19,12 +19,14 @@ Are you an IT professional looking to land your dream job, negotiate a higher sa
 *(Alternatively: 4 x 2-hour sessions over a week for better retention)*  
 
 ### **Workshop Fee:**  
+
 Please check the registration page
+
 ---
 ## **Workshop Structure & Agenda**  
 
 ### **Day 1: Job Search & Career Strategy**  
-**Mode of Delivery:** **Live Interactive Zoom Session + Breakout Rooms + Polls & Q&A**  
+**Mode of Delivery:** **Live Interactive Session + Breakout Rooms + Polls & Q&A**  
 
 | Time | Topic | Activity |  
 |------|-------|----------|  
