@@ -18,6 +18,8 @@ Are you an IT professional looking to land your dream job, negotiate a higher sa
 **2-Day Intensive Workshop (4 hours per day, Total 8 Hours)**  
 *(Alternatively: 4 x 2-hour sessions over a week for better retention)*  
 
+**Food & Refreshments:** Finger food will be provided during the workshop.
+
 ### **Workshop Fee:**  
 
 Please check the registration page
