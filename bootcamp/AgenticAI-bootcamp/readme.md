@@ -1,3 +1,4 @@
+<img width="1511" height="852" alt="image" src="https://github.com/user-attachments/assets/ed6b458e-f879-463a-8001-58e5e45610ee" />
 
 # 🤖 AI Builder Workshop
 ## AI Builder Workshop: GenAI & Agentic AI Solutions
