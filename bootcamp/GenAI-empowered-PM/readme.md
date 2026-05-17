@@ -13,7 +13,6 @@
 | **Date** | Saturday, July 18, 2025 |
 | **Time** | 9:00 AM – 12:00 PM |
 | **Location** | Greater Toronto Area *(exact address shared with confirmed registrants)* |
-| **Cost** | Free |
 | **Seats** | Limited — register early to secure your spot |
 
 ---
