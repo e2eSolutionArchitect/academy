@@ -1,3 +1,5 @@
+<img width="1511" height="852" alt="image" src="https://github.com/user-attachments/assets/ed6b458e-f879-463a-8001-58e5e45610ee" />
+
 # 🧠 AI-Powered Project Manager & Business Analyst: Work Smarter with GenAI Tools
 ## A Hands-On Workshop for Project Managers, Business Analysts & Non-Technical Professionals
 
