@@ -10,30 +10,7 @@
 
 ## Program Overview
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    LEARNING JOURNEY MAP                              │
-│                                                                     │
-│  Month 1                Month 2               Month 3              │
-│  ┌──────────┐           ┌──────────┐          ┌──────────┐         │
-│  │ MODULE 1 │──────────▶│ MODULE 3 │─────────▶│ MODULE 5 │         │
-│  │Foundations│          │  RAG &   │          │  Multi-  │         │
-│  │& Prompts  │          │ Vectors  │          │  Agent   │         │
-│  └──────────┘           └──────────┘          └──────────┘         │
-│  ┌──────────┐           ┌──────────┐          ┌──────────┐         │
-│  │ MODULE 2 │──────────▶│ MODULE 4 │─────────▶│ MODULE 6 │         │
-│  │AI Integr.│          │Frameworks│          │ MLOps &  │         │
-│  │& Tokens  │          │& Evals   │          │  Cloud   │         │
-│  └──────────┘           └──────────┘          └──────────┘         │
-│                                                      │              │
-│                                                      ▼              │
-│                                               ┌──────────┐         │
-│                                               │ CAPSTONE │         │
-│                                               │ PROJECT  │         │
-│                                               └──────────┘         │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
+<img width="1376" height="768" alt="Gemini_Generated_Image_davjnbdavjnbdavj" src="https://github.com/user-attachments/assets/6c85bf51-1cd4-4dde-a6f5-91f918a45a18" />
 ---
 
 ## 🏗️ The Evolving Project: **AURA** — *Autonomous Unified Research Assistant*
